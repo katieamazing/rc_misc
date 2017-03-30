@@ -3,11 +3,11 @@ Day 1: overload
 
 Day 2:
 * [X] Read some Bottles of OOP
-* [ ] Work on a LPTHW text game, if finished, refactor to Lua (decided to postpone until substantial progress in 99 Bottles)
+* [ ] Work on a LPTHW text game, if finished, refactor to Lua (decided to postpone pending progress in 99 Bottles)
 * [ ] Read/study on linked lists and try to get some inspiration to make a game
 * [X] Pair/chat Lua/Love with Trent?
 * [X] Also did an Interview Cake problem
-* [X] ate: a salad (~600 cal), ($12)
+* [X] ate: a salad, ($12)
 
 Day 3:
 * [X] Read some Bottles
