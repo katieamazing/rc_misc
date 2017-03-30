@@ -16,9 +16,12 @@ Day 3:
 * [X] ate: another salad, a small ice cream ($14)
 
 Day 4:
-* [ ] Check in with Carolina
+* [X] Check in with Carolina
 * [ ] Work with Trent on a love2d linked list demo
-* [ ] Keep working with Elias on testing
-* [ ] Read some Bottles
+* [X] Keep working with Elias on testing (did make solo progress and reported newest obstacle to Elias)
+* [X] Read some Bottles
 * [ ] Do some study/reading/tutorial to research elm-to-django POST/GET methods for KOLC
 * [ ] Do a code crush on python or maybe itertools
+* [X] Instead, studied itertools and
+* [X] Also did three beginning problems on exercism.io. Nice way to warm up, but unchallenging.
+* [X] ate: an Abstract Salad, a snickerdoodle, too much of David Branner's pecan bar, pizza, wine?
