@@ -24,4 +24,13 @@ Day 4:
 * [ ] Do a code crush on python or maybe itertools
 * [X] Instead, studied itertools and
 * [X] Also did three beginning problems on exercism.io. Nice way to warm up, but unchallenging.
-* [X] ate: an Abstract Salad, a snickerdoodle, too much of David Branner's pecan bar, pizza, wine?
+* [X] ate: an Abstract Salad, a snickerdoodle, too much of David Branner's pecan bar, two pieces of pizza, a bottle of beer ($6.50)
+
+Day 5:
+* [ ] Check in with Carolina
+* [ ] Kick ass at greedy algorithm study day
+* [ ] Read some Bottles
+* [ ] Do some study/reading/tutorial to research elm-to-django POST/GET methods for KOLC (inherited from yesterday -.-)
+* [ ] Exercism
+* [ ] Possibly poke around with PyBee app (may push to weekend/next week)
+* [ ] Work on my own code crush for python itertools (also may push)
