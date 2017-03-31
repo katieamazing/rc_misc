@@ -28,9 +28,19 @@ Day 4:
 
 Day 5:
 * [ ] Check in with Carolina
-* [ ] Kick ass at greedy algorithm study day
-* [ ] Read some Bottles
-* [ ] Do some study/reading/tutorial to research elm-to-django POST/GET methods for KOLC (inherited from yesterday -.-)
-* [ ] Exercism
-* [ ] Possibly poke around with PyBee app (may push to weekend/next week)
-* [ ] Work on my own code crush for python itertools (also may push)
+* [ ] Kick ass at greedy algorithm study day. Update: NOOOPE.
+* [X] Read some Bottles
+* [X] Do some study/reading/tutorial to research elm-to-django POST/GET methods for KOLC (inherited from yesterday -.-)
+* [X] Exercism
+* [X] Also read [this](https://8thlight.com/blog/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html_) article about TDD on the recommendation of 99 Bottles.
+
+**add nerdsniped to jargon**
+
+Weekend:
+* [ ] Read/skim the ML paper Matthew sent me
+* [ ] Finish 99 Bottles
+* [ ] Make significant progress on KOLC
+
+Next week:
+* [ ] Poke around with PyBee app
+* [ ] Work on my own code crush for python itertools
