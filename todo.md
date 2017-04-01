@@ -3,7 +3,7 @@ Day 1: overload
 
 Day 2:
 * [X] Read some Bottles of OOP
-* [ ] Work on a LPTHW text game, if finished, refactor to Lua (decided to postpone pending progress in 99 Bottles)
+* [ ] Work on a LPTHW text game, if finished, refactor to Lua (decided to postpone pending progress reading 99 Bottles)
 * [ ] Read/study on linked lists and try to get some inspiration to make a game
 * [X] Pair/chat Lua/Love with Trent?
 * [X] Also did an Interview Cake problem
@@ -18,28 +18,38 @@ Day 3:
 Day 4:
 * [X] Check in with Carolina
 * [ ] Work with Trent on a love2d linked list demo
-* [X] Keep working with Elias on testing (did make solo progress and reported newest obstacle to Elias)
+* [X] Keep working with Elias on testing (successful install!)
 * [X] Read some Bottles
 * [ ] Do some study/reading/tutorial to research elm-to-django POST/GET methods for KOLC
 * [ ] Do a code crush on python or maybe itertools
+  * Update: Didn't find a suite of itertools-specific problems. Might write my own in exercism.io style.
 * [X] Instead, studied itertools and
 * [X] Also did three beginning problems on exercism.io. Nice way to warm up, but unchallenging.
 * [X] ate: an Abstract Salad, a snickerdoodle, too much of David Branner's pecan bar, two pieces of pizza, a bottle of beer ($6.50)
 
 Day 5:
 * [ ] Check in with Carolina
-* [ ] Kick ass at greedy algorithm study day. Update: NOOOPE.
-* [X] Read some Bottles
-* [X] Do some study/reading/tutorial to research elm-to-django POST/GET methods for KOLC (inherited from yesterday -.-)
+* [ ] Kick ass at greedy algorithm study day.
+  * Update: NOOOPE.
+  * Update 2: Came back to it later with my mentor, got it working. I feel slightly better about it, and also feel like I know where I went wrong earlier today. Rollercoaster!
+* [X] Read some Bottles (over halfway done today)
+* [X] Do some study/reading/tutorial to research elm-to-django POST/GET methods for KOLC (inherited from yesterday :persevere:)
 * [X] Exercism
-* [X] Also read [this](https://8thlight.com/blog/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html_) article about TDD on the recommendation of 99 Bottles.
-
-**add nerdsniped to jargon**
+* [X] Also read [this](https://8thlight.com/blog/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html) article about TDD on the recommendation of 99 Bottles.
+* [X] ate: an orange (short day, I went home for a late lunch) ($0)
 
 Weekend:
 * [ ] Read/skim the ML paper Matthew sent me
 * [ ] Finish 99 Bottles
 * [ ] Make significant progress on KOLC
+* [ ] Do a simple flocking demo in love2d
+* [ ] Do some research to select a short legacy program or function to refactor into Python 3 next week
+
+Week 1 Round Up:
+Read: 99 Bottles
+Learned: Object Orientation, better refactoring practices, how to RC, many people's names
+Watched: intensely enjoyed tom7's [new video](https://www.youtube.com/watch?v=LA_DrBwkiJA)
+Feels: Still feeling uneasy about not settling in to a project. My worries about social anxiety and having trouble working at RC are very much eased after the week, so that's good. Definitely need to reach out for help/pairing more, as working with others was the highlight of my week.
 
 Next week:
 * [ ] Poke around with PyBee app
