@@ -45,11 +45,11 @@ Weekend:
 * [ ] Do a simple flocking demo in love2d
 * [ ] Do some research to select a short legacy program or function to refactor into Python 3 next week
 
-Week 1 Round Up:
-Read: 99 Bottles
-Learned: Object Orientation, better refactoring practices, how to RC, many people's names
-Watched: intensely enjoyed tom7's [new video](https://www.youtube.com/watch?v=LA_DrBwkiJA)
-Feels: Still feeling uneasy about not settling in to a project. My worries about social anxiety and having trouble working at RC are very much eased after the week, so that's good. Definitely need to reach out for help/pairing more, as working with others was the highlight of my week.
+**Week 1 Round Up:**
+* Read: 99 Bottles
+* Learned: Object Orientation, better refactoring practices, how to RC, many people's names
+* Watched: intensely enjoyed tom7's [new video](https://www.youtube.com/watch?v=LA_DrBwkiJA)
+* Feels: Still feeling uneasy about not settling in to a project. My worries about social anxiety and having trouble working at RC are very much eased after the week, so that's good. Definitely need to reach out for help/pairing more, as working with others was the highlight of my week.
 
 Next week:
 * [ ] Poke around with PyBee app
