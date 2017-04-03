@@ -3,7 +3,7 @@ Day 1: overload
 
 Day 2:
 * [X] Read some Bottles of OOP
-* [ ] Work on a LPTHW text game, if finished, refactor to Lua (decided to postpone pending progress reading 99 Bottles)
+* ~~[ ] Work on a LPTHW text game, if finished, refactor to Lua~~ (decided to postpone pending progress reading 99 Bottles)
 * [ ] Read/study on linked lists and try to get some inspiration to make a game
 * [X] Pair/chat Lua/Love with Trent?
 * [X] Also did an Interview Cake problem
@@ -39,18 +39,23 @@ Day 5:
 * [X] ate: an orange (short day, I went home for a late lunch) ($0)
 
 Weekend:
-* [ ] Read/skim the ML paper Matthew sent me
-* [ ] Finish 99 Bottles
-* [ ] Make significant progress on KOLC
-* [ ] Do a simple flocking demo in love2d
+* [X] Finish 99 Bottles
+* [X] Make significant progress on KOLC
+  * Update: didn't get a ton of new content done, but solved some sticky icky problems.
+* [X] Do a simple flocking demo in love2d
 * [ ] Do some research to select a short legacy program or function to refactor into Python 3 next week
 
 **Week 1 Round Up:**
 * Read: 99 Bottles
-* Learned: Object Orientation, better refactoring practices, how to RC, many people's names
+* Learned: Object Orientation, better refactoring practices, greedy algorithms (bfs, interval scheduling), flocking behavior, how to RC, many people's names
 * Watched: intensely enjoyed tom7's [new video](https://www.youtube.com/watch?v=LA_DrBwkiJA)
 * Feels: Still feeling uneasy about not settling in to a project. My worries about social anxiety and having trouble working at RC are very much eased after the week, so that's good. Definitely need to reach out for help/pairing more, as working with others was the highlight of my week.
 
 Next week:
 * [ ] Poke around with PyBee app
+* [ ] Pick and work on a legacy program/function to refactor this week (500 LOC or less on Github, Osborne Games)
+* [ ] Exercism daily
 * [ ] Work on my own code crush for python itertools
+* [ ] LPTHW project
+* [ ] Read "Growing Object-Oriented Software, Guided by Tests", Freeman/Pryce
+* [ ] Read this thing: http://coding-geek.com/how-databases-work/
