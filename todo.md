@@ -3,7 +3,7 @@ Day 1: overload
 
 Day 2:
 * [X] Read some Bottles of OOP
-* ~~[ ] Work on a LPTHW text game, if finished, refactor to Lua~~ (decided to postpone pending progress reading 99 Bottles)
+* [ ] ~~Work on a LPTHW text game, if finished, refactor to Lua~~ (decided to postpone pending progress reading 99 Bottles)
 * [ ] Read/study on linked lists and try to get some inspiration to make a game
 * [X] Pair/chat Lua/Love with Trent?
 * [X] Also did an Interview Cake problem
@@ -17,7 +17,7 @@ Day 3:
 
 Day 4:
 * [X] Check in with Carolina
-* [ ] Work with Trent on a love2d linked list demo
+* [ ] ~~Work with Trent on a love2d linked list demo~~ (writing this off)
 * [X] Keep working with Elias on testing (successful install!)
 * [X] Read some Bottles
 * [ ] Do some study/reading/tutorial to research elm-to-django POST/GET methods for KOLC
@@ -46,7 +46,7 @@ Weekend:
 * [ ] Do some research to select a short legacy program or function to refactor into Python 3 next week
 
 **Week 1 Round Up:**
-* Read: 99 Bottles
+* Read: "99 Bottles of OOP: A Practical Guide to Object-Oriented Design", Metz/Owen
 * Learned: Object Orientation, better refactoring practices, greedy algorithms (bfs, interval scheduling), flocking behavior, how to RC, many people's names
 * Watched: intensely enjoyed tom7's [new video](https://www.youtube.com/watch?v=LA_DrBwkiJA)
 * Feels: Still feeling uneasy about not settling in to a project. My worries about social anxiety and having trouble working at RC are very much eased after the week, so that's good. Definitely need to reach out for help/pairing more, as working with others was the highlight of my week.
@@ -59,3 +59,4 @@ Next week:
 * [ ] LPTHW project
 * [ ] Read "Growing Object-Oriented Software, Guided by Tests", Freeman/Pryce
 * [ ] Read this thing: http://coding-geek.com/how-databases-work/
+* [ ] Refucktoring (maybe this weekend, with beer)
