@@ -53,7 +53,7 @@ Weekend:
 * Feels: Still feeling uneasy about not settling in to a project. My worries about social anxiety and having trouble working at RC are very much eased after the week, so that's good. Definitely need to reach out for help/pairing more, as working with others was the highlight of my week.
 
 Next week:
-* [ ] Poke around with PyBee app
+* [ ] Poke around with PyBee app (probably all week)
 * [ ] Pick and work on a legacy program/function to refactor this week (500 LOC or less on Github, Osborne Games)
 * [ ] Research RC jobs; see if there are any typical/in-common topics that I don't know; make a plan to learn the most pertinent/useful ones
 * [ ] Exercism daily
@@ -61,6 +61,11 @@ Next week:
 * [ ] LPTHW project
 * [ ] Refactor the flocking demo I worked on over the weekend
 * [ ] Read "Growing Object-Oriented Software, Guided by Tests", Freeman/Pryce
-* [ ] Read this thing: http://coding-geek.com/how-databases-work/
 * [ ] Watch this thing: https://www.youtube.com/watch?v=e-5obm1G_FY
 * [ ] Refucktoring (maybe this weekend, with beer)
+
+Day 8:
+* [ ] Poke around with PyBee app
+* [X] Exercism
+* [ ] Read this thing: http://coding-geek.com/how-databases-work/
+* [X] Also paired with Trent on Lua physics/all the objects game
