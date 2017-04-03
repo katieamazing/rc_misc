@@ -44,6 +44,7 @@ Weekend:
   * Update: didn't get a ton of new content done, but solved some sticky icky problems.
 * [X] Do a simple flocking demo in love2d
 * [ ] Do some research to select a short legacy program or function to refactor into Python 3 next week
+* [X] Also worked on a shortest-distance maze solving bfs greedy algorithm from Algo Day
 
 **Week 1 Round Up:**
 * Read: "99 Bottles of OOP: A Practical Guide to Object-Oriented Design", Metz/Owen
