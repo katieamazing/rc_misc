@@ -50,22 +50,28 @@ Weekend:
 * Read: "99 Bottles of OOP: A Practical Guide to Object-Oriented Design", Metz/Owen
 * Learned: Object Orientation, better refactoring practices, greedy algorithms (bfs, interval scheduling), flocking behavior, how to RC, many people's names
 * Watched: intensely enjoyed tom7's [new video](https://www.youtube.com/watch?v=LA_DrBwkiJA)
-* Feels: Still feeling uneasy about not settling in to a project. My worries about social anxiety and having trouble working at RC are very much eased after the week, so that's good. Definitely need to reach out for help/pairing more, as working with others was the highlight of my week.
+* Feels: Still feeling uneasy about not settling into a project. My worries about social anxiety and having trouble working at RC are very much eased after the week, so that's good. Definitely need to reach out for help/pairing more, as working with others was the highlight of my week.
 
 Next week:
 * [ ] Poke around with PyBee app (probably all week)
 * [ ] Pick and work on a legacy program/function to refactor this week (500 LOC or less on Github, Osborne Games)
-* [ ] Research RC jobs; see if there are any typical/in-common topics that I don't know; make a plan to learn the most pertinent/useful ones
 * [ ] Exercism daily
 * [ ] Work on my own code crush for python itertools
-* [ ] LPTHW project
-* [ ] Refactor the flocking demo I worked on over the weekend
 * [ ] Read "Growing Object-Oriented Software, Guided by Tests", Freeman/Pryce
-* [ ] Watch this thing: https://www.youtube.com/watch?v=e-5obm1G_FY
 * [ ] Refucktoring (maybe this weekend, with beer)
+* [ ] Watch this: http://www.gdcvault.com/play/1024289/Put-a-Face-on-It
 
 Day 8:
 * [ ] Poke around with PyBee app
 * [X] Exercism
-* [ ] Read this thing: http://coding-geek.com/how-databases-work/
+* [X] Refactor the flocking demo I worked on over the weekend
+* [X] Read this thing: http://coding-geek.com/how-databases-work/
+* [X] Watch this thing: https://www.youtube.com/watch?v=e-5obm1G_FY
 * [X] Also paired with Trent on Lua physics/all the objects game
+
+Day 9:
+* [ ] Check in (really this time)
+* [ ] LPTHW project
+* [X] Read some Growing
+* [ ] Read this thing: https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
+* [ ] Research RC jobs; see if there are any typical/in-common topics that I don't know; make a plan to learn the most pertinent/useful ones
