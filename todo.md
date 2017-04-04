@@ -46,11 +46,11 @@ Weekend:
 * [ ] Do some research to select a short legacy program or function to refactor into Python 3 next week
 * [X] Also worked on a shortest-distance maze solving bfs greedy algorithm from Algo Day
 
-**Week 1 Round Up:**
+**Week 1 Summary:**
 * Read: "99 Bottles of OOP: A Practical Guide to Object-Oriented Design", Metz/Owen
 * Learned: Object Orientation, better refactoring practices, greedy algorithms (bfs, interval scheduling), flocking behavior, how to RC, many people's names
 * Watched: intensely enjoyed tom7's [new video](https://www.youtube.com/watch?v=LA_DrBwkiJA)
-* Feels: Still feeling uneasy about not settling into a project. My worries about social anxiety and having trouble working at RC are very much eased after the week, so that's good. Definitely need to reach out for help/pairing more, as working with others was the highlight of my week.
+* Feels: Still feeling uneasy about not settling into a project. My worries about social anxiety and having trouble working at RC are very eased after the week, so that's good. Definitely need to reach out for help/pairing more, as working with others was the highlight of my week.
 
 Next week:
 * [ ] Poke around with PyBee app (probably all week)
@@ -67,11 +67,19 @@ Day 8:
 * [X] Refactor the flocking demo I worked on over the weekend
 * [X] Read this thing: http://coding-geek.com/how-databases-work/
 * [X] Watch this thing: https://www.youtube.com/watch?v=e-5obm1G_FY
-* [X] Also paired with Trent on Lua physics/all the objects game
+* [X] Also paired with Trent on Lua love.physics/all the objects game
+* [X] ate: a salad, a bar of chocolate ($14)
 
 Day 9:
-* [ ] Check in (really this time)
-* [ ] LPTHW project
+* [X] Check in (really this time)
+* [X] Take advantage of day at home to update my flashcards deck
 * [X] Read some Growing
-* [ ] Read this thing: https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
+* [X] Read this thing: https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
 * [ ] Research RC jobs; see if there are any typical/in-common topics that I don't know; make a plan to learn the most pertinent/useful ones
+* [X] ate: many nice things, but at home
+
+Day 10:
+* [ ] Check in
+* [ ] Exercism
+* [ ] LPTHW project
+* [ ] Read some Growing
