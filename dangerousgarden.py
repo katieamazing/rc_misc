@@ -38,56 +38,101 @@ Scene
     Exit
 
 """
-from sys import exit
-from random import randint
 
-#class Plant():
+class Room:
+
+    def __init__(self, name, desc, monster):
+        self.name = name
+        self.desc = desc
+        self.monster = monster
+
+    def arrived(self, readout):
+        readout.printout(self.desc)
+        self.monster.encounter(readout)
 
 
-class Scene(object):
+class Monster:
+    def __init__(self):
+        self.intro = "Hello I am Steve I am here to hurt you now."
+        self.wallop = "Name wallops you for "
 
-    def enter(self):
+    def encounter(self, player):
+        player.monster_intro(self.intro)
+        hp = 3
+        while hp > 0:
+            damage = 1
+            player.take_damage(self.wallop, damage)
+            hp -= player.deal_damage()
+
+class Player:
+    def __init__(self):
         pass
 
-class Engine(object):
+    def monster_intro(self, message):
+        print(message)
 
-    def __init__(self, scene_map):
+    def take_damage(self, message, damage):
+        print(message + str(damage) + ' hitpoints!')
+
+    def deal_damage(self):
+        print("How much damage would you like to do?")
+        damage = int(input())
+        return damage
+
+class MockMonster:
+    def __init__(self):
+        self.was_called = 0
         pass
 
-    def play(self):
+    def encounter(self, readout):
+        self.was_called += 1
         pass
 
-class Death(Scene):
-
-    def enter(self):
+class MockReadout:
+    def __init__(self):
         pass
 
-class Atrium(Scene):
+    def printout(self, string):
+        self.seen = string
 
-    def enter(self):
-        pass
+p = Player()
+m = Monster()
+m.encounter(p)
 
-class Steam(Scene):
 
-    def enter(self):
-        pass
+## arrange
+fake_readout = MockReadout()
+fake_monster = MockMonster()
+room = Room("fake name", "fake desc", fake_monster)
+## act
+room.arrived(fake_readout)
+## assert
+assert(fake_monster.was_called == 1)
+assert("fake desc" == fake_readout.seen)
 
-class Loot(Scene):
 
-    def enter(self):
-        pass
 
-class Map(object):
 
-    def __init__(self, entry_scene):
-        pass
 
-    def next_scene(self, scene_name):
-        pass
 
-    def entry_scene(self):
-        pass
 
-a_map = Map('main_atrium')
-a_game = Engine(a_map)
-a_game.play()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #

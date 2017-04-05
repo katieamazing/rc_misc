@@ -73,10 +73,17 @@ Day 8:
 Day 9:
 * [X] Check in (really this time)
 * [X] Take advantage of day at home to update my flashcards deck
+* [X] LPTHW project (started, will continue tomorrow. Should research mocking/testing OO code in Python to speed up.)
 * [X] Read some Growing
 * [X] Read this thing: https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
-* [ ] Research RC jobs; see if there are any typical/in-common topics that I don't know; make a plan to learn the most pertinent/useful ones
-* [X] ate: many nice things, but at home
+* [X] Research RC jobs; see if there are any typical/in-common topics that I don't know; make a plan to learn the most pertinent/useful ones
+  * Update: started - need to continue by talking to people, attending career panel, and having a chat with RC Jobs team. Tentative list for research/learning:
+    * REST/RESTful (reading the origin paper)
+    * MongoDB (as a counterpoint to SQL DBs learning)
+    * RabbitMQ/GRPC (can I find a pleasant way to learn one of these? Look for tutorial/online course.)
+    * AWS (and/or Google Cloud)
+    * Containers/containerization, perhaps Docker
+* [X] ate: many nice things, but at home ($0)
 
 Day 10:
 * [ ] Check in
