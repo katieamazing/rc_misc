@@ -92,14 +92,18 @@ Day 10:
 * [X] Check in
 * [X] Exercism
 * [X] DG project
-* [X] Did a little prep for pairing tomorrow by installing and prodding at Hypothesis
+* [X] Did a little prep for pairing tomorrow by checking out Hypothesis
 * [ ] Read some Growing
 * [X] Read this thing: https://maryrosecook.com/blog/post/git-from-the-inside-out
 * [X] ate: a salad, a cookie, a coffee ($18)
 
 Day 11:
 * [ ] Check in
-* [ ] Exercism
-* [ ] DG project
-* [ ] Pair with The Dream Team (Elias, Anja, et. al.) on adding Hypothesis testing to PyBee app
+* [X] Exercism
+* [X] Pair with The Dream Team (Elias + Anja) on adding Hypothesis testing to PyBee app
 * [ ] Read some Growing
+* [X] ate: an Abstract Salad ($0)
+
+feelz:
+  bad: space stuff, lack of project
+  good: twitter love, learning fast
