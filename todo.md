@@ -54,7 +54,10 @@ Weekend:
 
 Next week:
 * [ ] Poke around with PyBee app (probably all week)
+* [ ] Noodle with this: http://learngitbranching.js.org/
+* [ ] Perhaps a Flask tutorial? Over the weekend? https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 * [ ] Pick and work on a legacy program/function to refactor this week (500 LOC or less on Github, Osborne Games)
+* [X] Tweet about MoonSugar (got some love from the library/art authors, feeling really good about that.)
 * [ ] Exercism daily
 * [ ] Work on my own code crush for python itertools
 * [ ] Read "Growing Object-Oriented Software, Guided by Tests", Freeman/Pryce
@@ -73,7 +76,7 @@ Day 8:
 Day 9:
 * [X] Check in (really this time)
 * [X] Take advantage of day at home to update my flashcards deck
-* [X] LPTHW project (started, will continue tomorrow. Should research mocking/testing OO code in Python to speed up.)
+* [X] DG project (formerly LPTHW project, started, will continue tomorrow. Should research mocking/testing OO code in Python to speed up.)
 * [X] Read some Growing
 * [X] Read this thing: https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
 * [X] Research RC jobs; see if there are any typical/in-common topics that I don't know; make a plan to learn the most pertinent/useful ones
@@ -86,7 +89,17 @@ Day 9:
 * [X] ate: many nice things, but at home ($0)
 
 Day 10:
+* [X] Check in
+* [X] Exercism
+* [X] DG project
+* [X] Did a little prep for pairing tomorrow by installing and prodding at Hypothesis
+* [ ] Read some Growing
+* [X] Read this thing: https://maryrosecook.com/blog/post/git-from-the-inside-out
+* [X] ate: a salad, a cookie, a coffee ($18)
+
+Day 11:
 * [ ] Check in
 * [ ] Exercism
-* [ ] LPTHW project
+* [ ] DG project
+* [ ] Pair with The Dream Team (Elias, Anja, et. al.) on adding Hypothesis testing to PyBee app
 * [ ] Read some Growing

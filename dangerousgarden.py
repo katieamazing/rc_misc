@@ -54,7 +54,9 @@ class Room:
 class Monster:
     def __init__(self):
         self.intro = "Hello I am Steve I am here to hurt you now."
-        self.wallop = "Name wallops you for "
+        self.wallop = "Steve wallops you for "
+        self.defeat = "Steve keels over with a pollen-filled death rattle."
+        self.loot = ["a bat", "a hammer", "a vine whip"]
 
     def encounter(self, player):
         player.monster_intro(self.intro)
@@ -63,21 +65,43 @@ class Monster:
             damage = 1
             player.take_damage(self.wallop, damage)
             hp -= player.deal_damage()
+        if hp == 0:
+            player.fight_win(self.defeat, self.loot)
 
 class Player:
     def __init__(self):
-        pass
+        self.hitpoints = 3
 
     def monster_intro(self, message):
         print(message)
 
     def take_damage(self, message, damage):
+        self.hitpoints -= damage
         print(message + str(damage) + ' hitpoints!')
+        if self.hitpoints <= 0:
+            self.fight_lose()
 
     def deal_damage(self):
         print("How much damage would you like to do?")
         damage = int(input())
         return damage
+
+    def fight_win(self, message, loots):
+        print(message)
+        print("You win the fight!")
+        print("Would you like to replace your <current verb> with new loot?")
+        print("(Enter the number listed next to the item)")
+        listout = 1
+        for stuff in loots:
+            print(str(listout) + ' ' + stuff)
+            listout += 1
+        selection = int(input())
+        newloot = loots[selection-1]
+        print("You drop your <current verb> and grab up a " + newloot)
+
+    def fight_lose(self):
+        print("You lose the fight, and also the game.")
+        exit()
 
 class MockMonster:
     def __init__(self):
