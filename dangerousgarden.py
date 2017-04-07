@@ -39,16 +39,79 @@ Scene
 
 """
 
-class Room:
+class MonsterRoom:
 
     def __init__(self, name, desc, monster):
         self.name = name
         self.desc = desc
         self.monster = monster
+        self.connecting_rooms = []
 
-    def arrived(self, readout):
-        readout.printout(self.desc)
-        self.monster.encounter(readout)
+    def __str__(self):
+        return self.name
+
+    def connects_to(self, connecting_room):
+        self.connecting_rooms.append(connecting_room)
+
+    def encounter(self, player):
+        print(self.desc)
+        self.monster.encounter(player)
+        print("Where would you like to go next?")
+        print("(Enter the number listed next to the location)")
+        listout = 1
+        for room in self.connecting_rooms:
+            print(str(listout) + ' the ' + str(room))
+            listout += 1
+        selection = int(input())
+        newroom = self.connecting_rooms[selection-1]
+        print("You head off to the " + str(newroom))
+        return newroom
+
+class Entry:
+
+    def __init__(self, name, desc):
+        self.name = name
+        self.desc = desc
+        self.connecting_rooms = []
+
+    def __str__(self):
+        return self.name
+
+    def connects_to(self, connecting_room):
+        self.connecting_rooms.append(connecting_room)
+
+    def encounter(self, player):
+        print(self.desc)
+        ##whatever encounter goes here
+        print("Where would you like to go next?")
+        print("(Enter the number listed next to the location)")
+        listout = 1
+        for room in self.connecting_rooms:
+            print(str(listout) + ' the ' + str(room))
+            listout += 1
+        selection = int(input())
+        newroom = self.connecting_rooms[selection-1]
+        print("You head off to the " + str(newroom))
+        return newroom
+
+class Exit:
+
+    def __init__(self, name, desc):
+        self.name = name
+        self.desc = desc
+        self.connecting_rooms = []
+
+    def __str__(self):
+        return self.name
+
+    def connects_to(self, connecting_room):
+        self.connecting_rooms.append(connecting_room)
+
+    def encounter(self, player):
+        print(self.desc)
+        #encounter goes here
+        print("You win if you have a thing!")
+        return None
 
 
 class Monster:
@@ -56,7 +119,7 @@ class Monster:
         self.intro = "Hello I am Steve I am here to hurt you now."
         self.wallop = "Steve wallops you for "
         self.defeat = "Steve keels over with a pollen-filled death rattle."
-        self.loot = ["a bat", "a hammer", "a vine whip"]
+        self.loot = ["bat", "hammer", "vine whip"]
 
     def encounter(self, player):
         player.monster_intro(self.intro)
@@ -69,8 +132,12 @@ class Monster:
             player.fight_win(self.defeat, self.loot)
 
 class Player:
-    def __init__(self):
+    def __init__(self, location):
         self.hitpoints = 3
+        self.location = location
+
+    def encounter(self):
+        self.location = self.location.encounter(self)
 
     def monster_intro(self, message):
         print(message)
@@ -93,7 +160,7 @@ class Player:
         print("(Enter the number listed next to the item)")
         listout = 1
         for stuff in loots:
-            print(str(listout) + ' ' + stuff)
+            print(str(listout) + ' a ' + stuff)
             listout += 1
         selection = int(input())
         newloot = loots[selection-1]
@@ -103,36 +170,25 @@ class Player:
         print("You lose the fight, and also the game.")
         exit()
 
-class MockMonster:
-    def __init__(self):
-        self.was_called = 0
-        pass
 
-    def encounter(self, readout):
-        self.was_called += 1
-        pass
+A_monster = Monster()
+S_monster = Monster()
 
-class MockReadout:
-    def __init__(self):
-        pass
+atrium = MonsterRoom("Atrium", "atrium desc", A_monster)
+entry = Entry("Entryway", "entryway desc")
+steamy = MonsterRoom("Steamroom", "steamy", S_monster)
+exit = Exit("Exit", "exit desc")
 
-    def printout(self, string):
-        self.seen = string
-
-p = Player()
-m = Monster()
-m.encounter(p)
+entry.connects_to(atrium)
+atrium.connects_to(steamy)
+steamy.connect_to(atrium)
+atrium.connects_to(exit)
 
 
-## arrange
-fake_readout = MockReadout()
-fake_monster = MockMonster()
-room = Room("fake name", "fake desc", fake_monster)
-## act
-room.arrived(fake_readout)
-## assert
-assert(fake_monster.was_called == 1)
-assert("fake desc" == fake_readout.seen)
+player = Player(atrium)
+while player.location:
+    player.encounter()
+
 
 
 

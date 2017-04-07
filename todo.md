@@ -100,10 +100,8 @@ Day 10:
 Day 11:
 * [ ] Check in
 * [X] Exercism
-* [X] Pair with The Dream Team (Elias + Anja) on adding Hypothesis testing to PyBee app
-* [ ] Read some Growing
+* [X] Pair with The Dream Team (Elias + Anja) on adding Hypothesis testing to Elias's VOC project
+* [X] Read some Growing
+* [X] DG project
+* [X] Pick JN's brain about Refucktoring
 * [X] ate: an Abstract Salad ($0)
-
-feelz:
-  bad: space stuff, lack of project
-  good: twitter love, learning fast
