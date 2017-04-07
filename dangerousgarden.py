@@ -109,10 +109,11 @@ class Exit:
 
     def encounter(self, player):
         print(self.desc)
-        #encounter goes here
-        print("You win if you have a thing!")
-        return None
-
+        if player.macguffin:
+            print("You have a thing! You win!")
+        else:
+            print("You need a macguffin! Go out and beat plants up till you get it.")
+            return Atrium
 
 class Monster:
     def __init__(self):

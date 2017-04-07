@@ -52,18 +52,6 @@ Weekend:
 * Watched: intensely enjoyed tom7's [new video](https://www.youtube.com/watch?v=LA_DrBwkiJA)
 * Feels: Still feeling uneasy about not settling into a project. My worries about social anxiety and having trouble working at RC are very eased after the week, so that's good. Definitely need to reach out for help/pairing more, as working with others was the highlight of my week.
 
-Next week:
-* [ ] Poke around with PyBee app (probably all week)
-* [ ] Noodle with this: http://learngitbranching.js.org/
-* [ ] Perhaps a Flask tutorial? Over the weekend? https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
-* [ ] Pick and work on a legacy program/function to refactor this week (500 LOC or less on Github, Osborne Games)
-* [X] Tweet about MoonSugar (got some love from the library/art authors, feeling really good about that.)
-* [ ] Exercism daily
-* [ ] Work on my own code crush for python itertools
-* [ ] Read "Growing Object-Oriented Software, Guided by Tests", Freeman/Pryce
-* [ ] Refucktoring (maybe this weekend, with beer)
-* [ ] Watch this: http://www.gdcvault.com/play/1024289/Put-a-Face-on-It
-
 Day 8:
 * [ ] Poke around with PyBee app
 * [X] Exercism
@@ -105,3 +93,27 @@ Day 11:
 * [X] DG project
 * [X] Pick JN's brain about Refucktoring
 * [X] ate: an Abstract Salad ($0)
+
+Day 12:
+* [X] Check in
+* [X] Exercism
+* [ ] Read some Growing
+* [ ] DG project
+* [X] Make a concerted effort at algorithm day
+* [X] Plot with Alberto about an RC Refucktoring event
+* [X] ate: a chicken dosa, a coconut bun, a coffee ($16)
+
+Weekend
+* [ ] Watch these: http://pyvideo.org/pycon-us-2013/transforming-code-into-beautiful-idiomatic-pytho.html
+http://pyvideo.org/pycon-us-2015/beyond-pep-8-best-practices-for-beautiful-inte.html
+
+* [ ] Poke around with PyBee app (probably all week)
+* [ ] Noodle with this: http://learngitbranching.js.org/
+* [ ] Perhaps a Flask tutorial? Over the weekend? https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+* [ ] Pick and work on a legacy program/function to refactor this week (500 LOC or less on Github, Osborne Games)
+* [X] Tweet about MoonSugar (got some love from the library/art authors, feeling really good about that.)
+* [ ] Exercism daily
+* [ ] Work on my own code crush for python itertools
+* [ ] Read "Growing Object-Oriented Software, Guided by Tests", Freeman/Pryce
+* [ ] Refucktoring (maybe this weekend, with beer)
+* [ ] Watch this: http://www.gdcvault.com/play/1024289/Put-a-Face-on-It
