@@ -111,12 +111,12 @@ Weekend:
 * [X] Watch this: http://www.gdcvault.com/play/1024289/Put-a-Face-on-It
 * [X] Have a great birthday (with dancing! and cake!)
 
-
 **Week 2 Summary**
-* Read: Read "Growing Object-Oriented Software, Guided by Tests", Freeman/Pryce
+* Read: "Growing Object-Oriented Software, Guided by Tests", Freeman/Pryce
 * Tweeted: About MoonSugar, and got love from the library and open-source art makers that I @ed. Feels good, man!
 * Learned: More OOP in Python, Hypothesis testing module, divide-and-conquer algorithms
 * Watched: Felt super inspired to make cute things by Jenny Jiao Hsia's [GDC talk](http://www.gdcvault.com/play/1024289/Put-a-Face-on-It)
+* Feels: Pretty low energy this week, partly coming down off the honeymoon week and also with some RC-related reality checks. Felt bad not making much project progress all week, but I think I have a good plan after the weekend - now I have to execute!
 
 Day 14:
 * [ ] Check in
