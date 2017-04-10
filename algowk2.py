@@ -1,14 +1,16 @@
 
 def mergesort(unsorted_list):
+    print(unsorted_list)
     if len(unsorted_list) <= 1:
         return unsorted_list
+    else: # len(unsorted_list) > 1
+        halfway_index = len(unsorted_list)//2
+        first_half = mergesort(unsorted_list[:halfway_index])
+        second_half = mergesort(unsorted_list[halfway_index:])
 
-    halfway_index = len(unsorted_list)//2
-    # mergesort(unsorted_list[0:halfway_index])
-    # mergesort(unsorted_list[halfway_index:-1])
-
-    # cursors. idk.
-    #put stuff in order, like MAAGIC
+        return guts(first_half, second_half)
+        # cursors. idk.
+        #put stuff in order, like MAAGIC
 
 
 def guts(a, b): #takes two sorted lists
@@ -28,7 +30,6 @@ def guts(a, b): #takes two sorted lists
         else:
             output.append(b[cursor_b])
             cursor_b += 1
-
     return output
 
 

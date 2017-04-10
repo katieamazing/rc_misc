@@ -103,17 +103,34 @@ Day 12:
 * [X] Plot with Alberto about an RC Refucktoring event
 * [X] ate: a chicken dosa, a coconut bun, a coffee ($16)
 
-Weekend
-* [ ] Watch these: http://pyvideo.org/pycon-us-2013/transforming-code-into-beautiful-idiomatic-pytho.html
-http://pyvideo.org/pycon-us-2015/beyond-pep-8-best-practices-for-beautiful-inte.html
+Weekend:
+* [X] KOLC
+* [X] Attend the Project workshop on Sunday
+* [X] Finish Growing
+* [X] Watch this: http://pyvideo.org/pycon-us-2013/transforming-code-into-beautiful-idiomatic-pytho.html
+* [X] Watch this: http://www.gdcvault.com/play/1024289/Put-a-Face-on-It
+* [X] Have a great birthday (with dancing! and cake!)
 
-* [ ] Poke around with PyBee app (probably all week)
-* [ ] Noodle with this: http://learngitbranching.js.org/
+
+**Week 2 Summary**
+* Read: Read "Growing Object-Oriented Software, Guided by Tests", Freeman/Pryce
+* Tweeted: About MoonSugar, and got love from the library and open-source art makers that I @ed. Feels good, man!
+* Learned: More OOP in Python, Hypothesis testing module, divide-and-conquer algorithms
+* Watched: Felt super inspired to make cute things by Jenny Jiao Hsia's [GDC talk](http://www.gdcvault.com/play/1024289/Put-a-Face-on-It)
+
+Day 14:
+* [ ] Check in
+* [ ] Exercism
+* [ ] Read some Data Science from Scratch
+* [ ] DG project
+* [ ] KOLC
+
+Next week:
+* [ ] Watch this: http://pyvideo.org/pycon-us-2015/beyond-pep-8-best-practices-for-beautiful-inte.html
 * [ ] Perhaps a Flask tutorial? Over the weekend? https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+* [ ] Poke around with PyBee app (but really)
 * [ ] Pick and work on a legacy program/function to refactor this week (500 LOC or less on Github, Osborne Games)
-* [X] Tweet about MoonSugar (got some love from the library/art authors, feeling really good about that.)
+* [ ] Prep the inaugural RC Ref*cktoring event
 * [ ] Exercism daily
 * [ ] Work on my own code crush for python itertools
-* [ ] Read "Growing Object-Oriented Software, Guided by Tests", Freeman/Pryce
-* [ ] Refucktoring (maybe this weekend, with beer)
-* [ ] Watch this: http://www.gdcvault.com/play/1024289/Put-a-Face-on-It
+* [ ] Start working on a data-ish project in prep for Forests

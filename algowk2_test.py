@@ -37,6 +37,10 @@ class MergeSortTests(unittest.TestCase):
     def test_list_of_one(self):
         self.assertEqual(mergesort([1]), [1])
 
+    @given(st.lists(st.integers()))
+    def test_a_harder_one(self, the_list):
+        self.assertEqual(mergesort(the_list), sorted(the_list))
+
 class GutsTests(unittest.TestCase):
 
     def test_empty_lists(self):
