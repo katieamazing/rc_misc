@@ -119,6 +119,15 @@ Weekend:
 * Feels: Pretty low energy this week, partly coming down off the honeymoon week and also with some RC-related reality checks. Felt bad not making much project progress all week, but I think I have a good plan after the weekend - now I have to execute!
 
 Day 14:
+* [X] Read some Data Science from Scratch
+* [ ] KOLC
+* [X] Pick through some Python (and maybe Lua?) code examples and prep them for Refucktoring
+* [X] Watch this: http://pyvideo.org/pycon-us-2015/beyond-pep-8-best-practices-for-beautiful-inte.html
+* [X] Did some physical and mental self-care today. I did more than usual for me over the weekend and was not in a good place to start the week. So, hanging out, relaxing, watching YouTube, practicing singing, eating nice things at home.
+
+Day 15:
+* [ ] Announce Refucktoring
+* [ ] Continue building up some nice Refucktoring stuff
 * [ ] Check in
 * [ ] Exercism
 * [ ] Read some Data Science from Scratch
@@ -126,11 +135,13 @@ Day 14:
 * [ ] KOLC
 
 Next week:
-* [ ] Watch this: http://pyvideo.org/pycon-us-2015/beyond-pep-8-best-practices-for-beautiful-inte.html
+
 * [ ] Perhaps a Flask tutorial? Over the weekend? https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 * [ ] Poke around with PyBee app (but really)
 * [ ] Pick and work on a legacy program/function to refactor this week (500 LOC or less on Github, Osborne Games)
+* [ ] SOB, so [relateable](https://www.buzzfeed.com/catesish/super-sweet-webcomic-about-friend-love)
 * [ ] Prep the inaugural RC Ref*cktoring event
 * [ ] Exercism daily
 * [ ] Work on my own code crush for python itertools
 * [ ] Start working on a data-ish project in prep for Forests
+* [ ] Loved [this](https://www.youtube.com/watch?v=mq0z-sxjNlo)
