@@ -131,16 +131,18 @@ Day 15:
 * [X] Check in
 * [X] Exercism
 * [ ] Read some Data Science from Scratch
-* [ ] DG project (really need to fix this)
-* [ ] KOLC
-* [ ] ate: a thai stirfry, a flan with gelato, a Calpico and candy from Sunrise ($30)
+* [X] KOLC
+* [X] ate: a thai stirfry, a flan with gelato, a Calpico and candy from Sunrise ($30)
 
 Day 15:
-* [ ] Continue building up some nice Refucktoring stuff
+* [X] Continue building up some nice Refucktoring stuff
+  * http://rosettacode.org/wiki/Conway%27s_Game_of_Life#Python
+  * http://rosettacode.org/wiki/Lychrel_numbers#Python
 * [ ] Check in
-* [ ] Exercism
-* [ ] Read some Data Science from Scratch
-* [ ] DG project
+* [X] Exercism
+* [X] Read some Data Science from Scratch
+* [ ] DG project (really need to fix this)
+* [ ] ate: a salad and a tea ($11)
 
 
 Next week:
