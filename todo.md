@@ -123,19 +123,28 @@ Day 14:
 * [ ] KOLC
 * [X] Pick through some Python (and maybe Lua?) code examples and prep them for Refucktoring
 * [X] Watch this: http://pyvideo.org/pycon-us-2015/beyond-pep-8-best-practices-for-beautiful-inte.html
-* [X] Did some physical and mental self-care today. I did more than usual for me over the weekend and was not in a good place to start the week. So, hanging out, relaxing, watching YouTube, practicing singing, eating nice things at home.
+* [X] Did some physical and mental self-care today. I did more than usual for me over the weekend and was not in a good place to start the week. So, sleeping in, relaxing, watching YouTube, practicing singing, eating nice things at home.
 
 Day 15:
-* [ ] Announce Refucktoring
+* [X] Announce Refucktoring
+* [X] Continue building up some nice Refucktoring stuff
+* [X] Check in
+* [X] Exercism
+* [ ] Read some Data Science from Scratch
+* [ ] DG project (really need to fix this)
+* [ ] KOLC
+* [ ] ate: a thai stirfry, a flan with gelato, a Calpico and candy from Sunrise ($30)
+
+Day 15:
 * [ ] Continue building up some nice Refucktoring stuff
 * [ ] Check in
 * [ ] Exercism
 * [ ] Read some Data Science from Scratch
 * [ ] DG project
-* [ ] KOLC
+
 
 Next week:
-
+* [ ] Look at open source contrib in PyBeeWare
 * [ ] Perhaps a Flask tutorial? Over the weekend? https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 * [ ] Poke around with PyBee app (but really)
 * [ ] Pick and work on a legacy program/function to refactor this week (500 LOC or less on Github, Osborne Games)
