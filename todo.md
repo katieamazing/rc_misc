@@ -141,8 +141,14 @@ Day 15:
 * [ ] Check in
 * [X] Exercism
 * [X] Read some Data Science from Scratch
+* [X] ate: a salad and a tea ($11)
+
+Day 16:
+* [ ] Check in
+* [ ] Read some Data Science from Scratch
 * [ ] DG project (really need to fix this)
-* [ ] ate: a salad and a tea ($11)
+* [ ] Beginner's Club, Feels Checkin
+* [ ] Host Refucktoring
 
 
 Next week:
