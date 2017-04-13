@@ -136,8 +136,6 @@ Day 15:
 
 Day 15:
 * [X] Continue building up some nice Refucktoring stuff
-  * http://rosettacode.org/wiki/Conway%27s_Game_of_Life#Python
-  * http://rosettacode.org/wiki/Lychrel_numbers#Python
 * [ ] Check in
 * [X] Exercism
 * [X] Read some Data Science from Scratch
