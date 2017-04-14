@@ -38,6 +38,8 @@ Scene
     Exit
 
 """
+import random
+
 
 class MonsterRoom:
 
@@ -117,7 +119,8 @@ class Exit:
 
 class Monster:
     def __init__(self):
-        self.intro = "Hello I am Steve I am here to hurt you now."
+        self.intro = random.choice(["Hello I am Steve I am here to hurt you now.",
+            "Hi I'm not Steve, I am another plant."])
         self.wallop = "Steve wallops you for "
         self.defeat = "Steve keels over with a pollen-filled death rattle."
         self.loot = ["bat", "hammer", "vine whip"]
@@ -129,12 +132,12 @@ class Monster:
             damage = 1
             player.take_damage(self.wallop, damage)
             hp -= player.deal_damage()
-        if hp == 0:
+        if hp <= 0:
             player.fight_win(self.defeat, self.loot)
 
 class Player:
     def __init__(self, location):
-        self.hitpoints = 3
+        self.hitpoints = 10
         self.location = location
 
     def encounter(self):
@@ -182,7 +185,7 @@ exit = Exit("Exit", "exit desc")
 
 entry.connects_to(atrium)
 atrium.connects_to(steamy)
-steamy.connect_to(atrium)
+steamy.connects_to(atrium)
 atrium.connects_to(exit)
 
 

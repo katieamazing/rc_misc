@@ -144,14 +144,32 @@ Day 15:
 Day 16:
 * [ ] Check in
 * [ ] Read some Data Science from Scratch
-* [ ] DG project (really need to fix this)
-* [ ] Beginner's Club, Feels Checkin
-* [ ] Host Refucktoring
+* [X] Exercism
+* [X] DG project (really need to fix this)
+  * Update: fixed it, but feeling low interest on this project
+* [X] Feels Checkin
+  * Update: Uggghhh.... :weary:
+* [X] Host Refucktoring
+  * Update: Went really very well :relieved:
+* [X] ate: an Abstract Salad, a cheeseburger ($15)
 
+Day 17:
+* [ ] Check in
+* [ ] Read some Data Science from Scratch
+* [ ] Exercism
+* [ ] Algorithms Day
+* [ ] Go home early and enjoy better computer ergonomics and comfy clothing
+* [ ] KOLC
+
+Weekend:
+* [ ] Finish Data Science from Scratch
+* [ ] Maybe try a few more [dynamic programming algorithms](https://github.com/recursecenter/wiki/wiki/Algorithms-Study-Group#04142017-dynamic-programming)
+* [ ] KOLC (maybe some art this weekend???)
+* [ ] Get DG to an ending point so I can stop feeling crummy about it
+* [ ] Perhaps a Flask tutorial? Over the weekend? https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 Next week:
 * [ ] Look at open source contrib in PyBeeWare
-* [ ] Perhaps a Flask tutorial? Over the weekend? https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 * [ ] Poke around with PyBee app (but really)
 * [ ] Pick and work on a legacy program/function to refactor this week (500 LOC or less on Github, Osborne Games)
 * [ ] SOB, so [relateable](https://www.buzzfeed.com/catesish/super-sweet-webcomic-about-friend-love)
