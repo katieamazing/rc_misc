@@ -150,31 +150,38 @@ Day 16:
 * [X] Feels Checkin
   * Update: Uggghhh.... :weary:
 * [X] Host Refucktoring
-  * Update: Went really very well :relieved:
+  * Update: Went really very well!
 * [X] ate: an Abstract Salad, a cheeseburger ($15)
 
 Day 17:
 * [ ] Check in
-* [ ] Read some Data Science from Scratch
-* [ ] Exercism
+* [X] Read some Data Science from Scratch
+* [X] Exercism
 * [ ] Algorithms Day
-* [ ] Go home early and enjoy better computer ergonomics and comfy clothing
+  * Update: Got frustrated, hoped to come back to it later but didn't.
+* [X] Go home early and enjoy better computer ergonomics and comfy clothing
 * [ ] KOLC
+* [X] ate: just at home ($0)
 
 Weekend:
-* [ ] Finish Data Science from Scratch
-* [ ] Maybe try a few more [dynamic programming algorithms](https://github.com/recursecenter/wiki/wiki/Algorithms-Study-Group#04142017-dynamic-programming)
-* [ ] KOLC (maybe some art this weekend???)
-* [ ] Get DG to an ending point so I can stop feeling crummy about it
-* [ ] Perhaps a Flask tutorial? Over the weekend? https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+* [X] Finish Data Science from Scratch
+* [X] Maybe try a few more [dynamic programming algorithms](https://github.com/recursecenter/wiki/wiki/Algorithms-Study-Group#04142017-dynamic-programming)
+* [X] Get DG to an ending point so I can stop feeling crummy about it
+
+**Week 3 Summary**
+* [X] Read: Data Science from Scratch
+* [X] Organized: Cohosted a fairly successful and well-received Refucktoring event
+* [X] Learned: Python feels really in-my-fingers right now!
+* [X] Watched: Got my mind blown (and enjoyed sharing with other RCers) [this video](https://www.youtube.com/watch?v=mq0z-sxjNlo)
+* [X] Feels: It was not a good week for me at RC. I feel really unhappy with my work and projects, and my frustration got the better of me this week. There were some bright spots, mostly social ones (the care and interest of new friends, Makeup Day at RC, Refucktoring going well). I think next week I will try not to flounder with projects that are boring/unfun/over-familiar to me, and instead try to find something novel and fun to amuse me.
+
 
 Next week:
+* [ ] Start working on a data-ish project in prep for Forests
 * [ ] Look at open source contrib in PyBeeWare
 * [ ] Poke around with PyBee app (but really)
+* [ ] Pair/chat with Nasreen about Game of Life, perhaps a simple Python program, etc.
 * [ ] Pick and work on a legacy program/function to refactor this week (500 LOC or less on Github, Osborne Games)
-* [ ] SOB, so [relateable](https://www.buzzfeed.com/catesish/super-sweet-webcomic-about-friend-love)
-* [ ] Prep the inaugural RC Ref*cktoring event
 * [ ] Exercism daily
-* [ ] Work on my own code crush for python itertools
-* [ ] Start working on a data-ish project in prep for Forests
-* [ ] Loved [this](https://www.youtube.com/watch?v=mq0z-sxjNlo)
+* [ ] Mock up some Refucktoring prize buttons
+* [ ] Perhaps a Flask tutorial? Over the weekend? https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world

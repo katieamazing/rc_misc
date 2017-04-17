@@ -43,11 +43,11 @@ import random
 
 class MonsterRoom:
 
-    def __init__(self, name, desc, monster):
+    def __init__(self, name, desc):
         self.name = name
         self.desc = desc
-        self.monster = monster
-        self.connecting_rooms = []
+        self.connecting_rooms = [self]
+        self.monsters = []
 
     def __str__(self):
         return self.name
@@ -55,9 +55,12 @@ class MonsterRoom:
     def connects_to(self, connecting_room):
         self.connecting_rooms.append(connecting_room)
 
+    def add_monster(self, monster):
+        self.monsters.append(monster)
+
     def encounter(self, player):
         print(self.desc)
-        self.monster.encounter(player)
+        random.choice(self.monsters).encounter(player)
         print("Where would you like to go next?")
         print("(Enter the number listed next to the location)")
         listout = 1
@@ -118,12 +121,11 @@ class Exit:
             return Atrium
 
 class Monster:
-    def __init__(self):
-        self.intro = random.choice(["Hello I am Steve I am here to hurt you now.",
-            "Hi I'm not Steve, I am another plant."])
-        self.wallop = "Steve wallops you for "
-        self.defeat = "Steve keels over with a pollen-filled death rattle."
-        self.loot = ["bat", "hammer", "vine whip"]
+    def __init__(self, intro, wallop, defeat, loot):
+        self.intro = intro
+        self.wallop = wallop
+        self.defeat = defeat
+        self.loot = loot
 
     def encounter(self, player):
         player.monster_intro(self.intro)
@@ -175,13 +177,20 @@ class Player:
         exit()
 
 
-A_monster = Monster()
-S_monster = Monster()
+Steve = Monster("Hello I am Steve I am here to hurt you now.",
+    "Steve wallops you for ", "Steve keels over with a pollen-filled death rattle.",
+    ["bat", "hammer", "vine whip"])
 
-atrium = MonsterRoom("Atrium", "atrium desc", A_monster)
+Harry = Monster("Hi it's Harry", "Harry bamboozles you for ", "Harry dies unceremoniously.", [])
+
+
+atrium = MonsterRoom("Atrium", "atrium desc")
 entry = Entry("Entryway", "entryway desc")
-steamy = MonsterRoom("Steamroom", "steamy", S_monster)
+steamy = MonsterRoom("Steamroom", "steamy")
 exit = Exit("Exit", "exit desc")
+
+atrium.add_monster(Steve)
+atrium.add_monster(Harry)
 
 entry.connects_to(atrium)
 atrium.connects_to(steamy)
