@@ -169,11 +169,11 @@ Weekend:
 * [X] Get DG to an ending point so I can stop feeling crummy about it
 
 **Week 3 Summary**
-* [X] Read: Data Science from Scratch
-* [X] Organized: Cohosted a fairly successful and well-received Refucktoring event
-* [X] Learned: Python feels really in-my-fingers right now!
-* [X] Watched: Got my mind blown (and enjoyed sharing with other RCers) [this video](https://www.youtube.com/watch?v=mq0z-sxjNlo)
-* [X] Feels: It was not a good week for me at RC. I feel really unhappy with my work and projects, and my frustration got the better of me this week. There were some bright spots, mostly social ones (the care and interest of new friends, Makeup Day at RC, Refucktoring going well). I think next week I will try not to flounder with projects that are boring/unfun/over-familiar to me, and instead try to find something novel and fun to amuse me.
+* Read: Data Science from Scratch
+* Organized: Cohosted a fairly successful and well-received Refucktoring event
+* Learned: Python feels really in-my-fingers right now!
+* Watched: Got my mind blown (and enjoyed sharing with other RCers) [this video](https://www.youtube.com/watch?v=mq0z-sxjNlo)
+* Feels: It was not a good week for me at RC. I feel really unhappy with my work and projects, and my frustration got the better of me this week. There were some bright spots, mostly social ones (the care and interest of new friends, Makeup Day at RC, Refucktoring going well). I think next week I will try not to flounder with projects that are boring/unfun/over-familiar to me, and instead try to find something novel and fun to amuse me.
 
 
 Next week:
