@@ -176,11 +176,32 @@ Weekend:
 * Feels: It was not a good week for me at RC. I feel really unhappy with my work and projects, and my frustration got the better of me this week. There were some bright spots, mostly social ones (the care and interest of new friends, Makeup Day at RC, Refucktoring going well). I think next week I will try not to flounder with projects that are boring/unfun/over-familiar to me, and instead try to find something novel and fun.
 
 Day 20:
-* [ ] Exercism
+* [X] Exercism
 * [ ] Do some research on decision trees
 * [ ] Hunt around for some data to play with this week
 * [X] Read this thing: [Recursive Leap of Faith](https://people.eecs.berkeley.edu/~bh/pdf/v1ch08.pdf)
 * [X] ate: lunch at home, a cookie, snacks from home ($4)
+
+Day 21:
+* [ ] Exercism
+* [X] Paired with David on SVG
+* [X] Paired with Elias on VOC onboarding
+* [X] ate: soup with noodles and dumplings, half a taro cake, an ice cream, a bowl of ramen ($27)
+
+Day 22:
+* [X] Exercism
+* [X] Rewrite blog post, get it edited, post it
+* [X] Beginner's Club - Databases
+* [X] Do some research on decision trees
+* [X] Attend WWC Algorithm meetup
+* [X] ate: a dosa, a lassi, half a slice of chocolate torte, a tiny pastry ($19)
+
+Day 23:
+* [ ] Exercism
+* [ ] Hunt around for some data to play with this week
+* [ ] Poke around with Pico-8
+* [ ] Go home early, catch up on house stuff
+* [ ] Mockup some UI stuff for Alistair's drug price tracker
 
 Next week:
 * [ ] Start working on a data-ish project in prep for Forests
