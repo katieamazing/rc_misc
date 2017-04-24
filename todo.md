@@ -178,9 +178,8 @@ Weekend:
 Day 20:
 * [X] Exercism
 * [ ] Do some research on decision trees
-* [ ] Hunt around for some data to play with this week
 * [X] Read this thing: [Recursive Leap of Faith](https://people.eecs.berkeley.edu/~bh/pdf/v1ch08.pdf)
-* [X] ate: lunch at home, a cookie, snacks from home ($4)
+* [X] ate: a cookie, snacks from home ($4)
 
 Day 21:
 * [ ] Exercism
@@ -198,16 +197,39 @@ Day 22:
 
 Day 23:
 * [ ] Exercism
-* [ ] Hunt around for some data to play with this week
-* [ ] Poke around with Pico-8
-* [ ] Go home early, catch up on house stuff
-* [ ] Mockup some UI stuff for Alistair's drug price tracker
+* [X] Read some Fluent Python
+* [X] Update flashcards deck
+* [X] Mockup some UI stuff for Alistair's drug price tracker
+* [X] Keep thinking about dynamic programming with one of the problems from last night's algo meetup
+* [X] ate: day at home ($0)
+
+Day 24:
+* [ ] Exercism
+* [X] Attend Day 1 of Codeland
+  * Update: So good. Diversity, joy, vulnerability, bravery, badasses, memes, bollywood dance party.
+* [X] Write brief notes on Codeland panels/talks to refer to later
+* [ ] Read some Fluent Python
+* [ ] Perhaps more algo study in the evening?
+* [X] ate: boring conference food ($0)
+
+Weekend:
+* [X] Attend Codeland Day 2
+* [X] Attend Codeland workshop on containerization and Docker/Moby
+* [X] Do as much Ludum Dare as possible
+  * Update: got a lot of the guts done, very little of the polish. SVG went really smoothly thanks to pairing I did last week!
+* [ ] Read some Fluent Python
+
+Day 27:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Finish Ludum Dare project
 
 Next week:
+* [ ] Hunt around for some data to play with
 * [ ] Start working on a data-ish project in prep for Forests
 * [ ] Look at open source contrib in PyBeeWare
 * [ ] Poke around with PyBee app (but really)
-* [ ] Pair/chat with Nasreen about Game of Life, perhaps a simple Python program, etc.
+* [ ] Flask app on Tues
 * [ ] Pick and work on a legacy program/function to refactor this week (500 LOC or less on Github, Osborne Games)
 * [ ] Exercism daily
 * [ ] Mock up some Refucktoring prize buttons

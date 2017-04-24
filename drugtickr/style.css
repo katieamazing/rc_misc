@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Classic Console', serif, monospace;
+  /*src: url('clacon.ttf') */
+  src: url('http://webdraft.hu/fonts/classic-console/fonts/clacon.ttf')
+}
+
+body {
+  background-color: black;
+  font-family: 'Classic Console', serif, monospace;
+  color: rgb(0,255,0);
+}
+
+.marquee {
+    width: 100%;
+    height: 100%;
+    animation: ticker 12s linear infinite;
+    transform: translateX(100%)
+}
+
+/* define animation */
+@keyframes ticker {
+    0%   {transform:translateX(-100%);}
+    100% {transform:translateX(100%);}
+}
+
+/* ref:http://www.quackit.com/html/html_editors/scratchpad/?example=/css/codes/marquees/scrolling_text */

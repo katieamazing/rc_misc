@@ -8,6 +8,10 @@ Forgive me for my clickbait title.
 
 in
 sets
+enumerate
+join instead of +
+for ... else
+iter()
 defaultdict
 zip
 list comprehensions

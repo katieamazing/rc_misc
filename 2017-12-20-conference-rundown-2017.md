@@ -7,7 +7,7 @@ date: TODO
 **April
 Codeland 2017 - New York, New York**
 
-Blah blah
+Day 1: Diversity, joy, vulnerability, bravery, badasses, memes, bollywood dance party.
 
 
 **May
