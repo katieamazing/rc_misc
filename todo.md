@@ -220,8 +220,9 @@ Weekend:
 
 **Week 4 Summary**
 * Read: Barely started Fluent Python. This is a huge book, I knew it would take me two weeks to get through, but now I am thinking maybe more like 3 weeks.
+* Attended: [Codeland](http://codelandconf.com/), a first time 2-day conference for programming newbies here in New York organized by the founder of Code Newbie. It was. SO. GOOD.
 * Learned: Decision trees, dynamic programming, containerization/Docker, how great Code Newbie is.
-* Feels: This week had some spectacular highs and some grim lows. I enjoyed myself all week but was not very productive, and then a weird social interaction happened that really knocked the wind out of my sails. I hid at home on Thursday. But attending Codeland was so exciting and inspiring, and it was nice to take a 4-day break from RC. I feel ready to tackle the sometimes-weirdly-hardmode RC social world all over again. I am dreading the departure of the previous Spring 1 batch and many of the friends I have made, so I want to be brave and social and soak up as much of them as I can in the next two weeks.
+* Feels: This week had some spectacular highs and some grim lows. I enjoyed myself all week but was not very productive, and then a weird social interaction happened that really knocked the wind out of my sails. I hid at home on Thursday. But attending Codeland was so exciting and inspiring, and it was nice to take a 4-day break from RC. I feel ready to tackle the sometimes-weirdly-hardmode RC social world all over again. I am dreading the departure of many of the friends I have made who will be leaving with the conclusion of their Spring 1 batch, so I want to be brave and social and soak up as much of them as I can in the next two weeks.
 
 Day 27:
 * [ ] Exercism
@@ -232,14 +233,15 @@ Day 27:
 Day 28:
 * [ ] Exercism
 * [ ] Read some Fluent Python
-* [ ] Post an LD post-mortem on my blog
-  * [ ] and tweet about it
-* [ ] Attend RC Flaskapalooza
+* [X] Post an LD post-mortem on my blog
+* [X] Attend RC Flaskapalooza
+* [X] ate: broccoli and beef, a cookie, a quarter of a brownie ($6.50)
 
 Day 29:
 * [ ] Exercism
 * [ ] Read some Fluent Python
 * [ ] Look into adding an RSS feed to blog
+* [ ] Deploy a hello world flask/django project to a droplet
 
 Next week:
 * [ ] Hunt around for some data to play with
