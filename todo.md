@@ -204,7 +204,6 @@ Day 23:
 * [X] ate: day at home ($0)
 
 Day 24:
-* [ ] Exercism
 * [X] Attend Day 1 of Codeland
   * Update: So good. Diversity, joy, vulnerability, bravery, badasses, memes, bollywood dance party.
 * [X] Write brief notes on Codeland panels/talks to refer to later
@@ -219,18 +218,34 @@ Weekend:
   * Update: got a lot of the guts done, very little of the polish. SVG went really smoothly thanks to pairing I did last week!
 * [ ] Read some Fluent Python
 
+**Week 4 Summary**
+* Read: Barely started Fluent Python. This is a huge book, I knew it would take me two weeks to get through, but now I am thinking maybe more like 3 weeks.
+* Learned: Decision trees, dynamic programming, containerization/Docker, how great Code Newbie is.
+* Feels: This week had some spectacular highs and some grim lows. I enjoyed myself all week but was not very productive, and then a weird social interaction happened that really knocked the wind out of my sails. I hid at home on Thursday. But attending Codeland was so exciting and inspiring, and it was nice to take a 4-day break from RC. I feel ready to tackle the sometimes-weirdly-hardmode RC social world all over again. I am dreading the departure of the previous Spring 1 batch and many of the friends I have made, so I want to be brave and social and soak up as much of them as I can in the next two weeks.
+
 Day 27:
 * [ ] Exercism
 * [ ] Read some Fluent Python
-* [ ] Finish Ludum Dare project
+* [X] Finish Ludum Dare project
+* [X] ate: a chicken shwarma pita, a tiny greek cookie ($11)
+
+Day 28:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Post an LD post-mortem on my blog
+  * [ ] and tweet about it
+* [ ] Attend RC Flaskapalooza
+
+Day 29:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Look into adding an RSS feed to blog
 
 Next week:
 * [ ] Hunt around for some data to play with
 * [ ] Start working on a data-ish project in prep for Forests
 * [ ] Look at open source contrib in PyBeeWare
 * [ ] Poke around with PyBee app (but really)
-* [ ] Flask app on Tues
 * [ ] Pick and work on a legacy program/function to refactor this week (500 LOC or less on Github, Osborne Games)
 * [ ] Exercism daily
 * [ ] Mock up some Refucktoring prize buttons
-* [ ] Perhaps a Flask tutorial? Over the weekend? https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
