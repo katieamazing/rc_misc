@@ -235,6 +235,8 @@ Day 28:
 * [ ] Read some Fluent Python
 * [X] Post an LD post-mortem on my blog
 * [X] Attend RC Flaskapalooza
+  * Connor, Seth and I got through some of the Flask Mega Tutorial. Revisit this week?
+* [X] social: went to Fat Cat with my partner, met some new people and had a nice time with RCers.
 * [X] ate: broccoli and beef, a cookie, a quarter of a brownie ($6.50)
 
 Day 29:
