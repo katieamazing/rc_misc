@@ -242,7 +242,7 @@ Day 28:
 Day 29:
 * [ ] Exercism
 * [ ] Read some Fluent Python
-* [ ] Look into adding an RSS feed to blog
+* [X] Look into adding an RSS feed to blog
 * [ ] Deploy a hello world flask/django project to a droplet
 
 Next week:
