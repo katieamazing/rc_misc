@@ -236,14 +236,56 @@ Day 28:
 * [X] Post an LD post-mortem on my blog
 * [X] Attend RC Flaskapalooza
   * Connor, Seth and I got through some of the Flask Mega Tutorial. Revisit this week?
-* [X] social: went to Fat Cat with my partner, met some new people and had a nice time with RCers.
+* [X] social: went to Fat Cat and got to introduce Johnicholas to my friends, met some new people and had a nice time with RCers.
+  * met Jake Davis, a spring '16 RC alum who has a similar story to mine and is working with Python now at (?)
 * [X] ate: broccoli and beef, a cookie, a quarter of a brownie ($6.50)
 
 Day 29:
-* [ ] Exercism
+* [X] Exercism
 * [ ] Read some Fluent Python
 * [X] Look into adding an RSS feed to blog
 * [ ] Deploy a hello world flask/django project to a droplet
+* [X] (Not very seriously) consider a talk about LD38.
+  * How to prep for game jams intellectually
+  * Reaching for vanilla/basic tools
+  * Not being too sad about not developing for EVERYONE
+  * AND ALL THAT TO SAY: anyone can game jam, and it is super fun!
+* [X] Found out that the bun place is on Canal/Walker at Baxter, under Vietnamese signage
+* [X] ate: a salad bowl with lamb, some tiny fried things, half a slice chocolate cake, quarter of a brownie ($20)
+
+Day 30:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [X] Attend RC Presentations
+* [X] Plot some social integration stuff
+  * Update: talked this over with JN as my rubber duckie. Stuff I want to ensure happens/am willing to take on:
+    * Women's Meetup before batch turnover (Jing Fong?)
+    * Lighting Chats on first day (will this happen from the staff? Can I offer improvements (like random topics so it's not 5 conversations about "what are you going to work on at RC?"), or preferential matching old-new people?)
+    * Feelings Checkin (can I improve? Some kind of ending ritual?)
+    * Abstract Salad Factory
+    * Python Concept of the Week
+* [X] social: Met Alistair at Koneko Cat Cafe. Such a perfect way to start the day!
+* [X] social: spend a good chunk of the day hanging out with Adi (a non-RC friend), who was on his way out of the country.
+* [X] ate: many nice things, but nothing that I was allowed to pay for!
+
+Day 31:
+* [X] Exercism
+* [ ] Read some Fluent Python
+* [ ] Finish my 10 Python Things blog post, start running code snippets to ensure correctness
+* [ ] Do some in-person plotting/research on social integration stuff
+* [X] Paired with Ivan about Django, was super helpful to my understanding of how KOLC is structured
+* [X] Get Elias to schedule another VOC attempt with me before he leaves!
+  * Update: okay, scheduled. Now to do some groundwork before this happens.
+* [X] ate:
+
+Weekend:
+* [ ] Deploy a hello world flask/django project to a droplet (inherited from earlier in the week, JN is interested and might like to pair on it at home)
+* [ ] KOLC, now that I'm all re-excited about Django
+
+Day 34:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Pair with Elias on VOC, try really hard to make a PR
 
 Next week:
 * [ ] Hunt around for some data to play with
