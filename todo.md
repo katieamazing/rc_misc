@@ -272,19 +272,22 @@ Day 31:
 * [X] Exercism
 * [ ] Read some Fluent Python
 * [ ] Finish my 10 Python Things blog post, start running code snippets to ensure correctness
-* [ ] Do some in-person plotting/research on social integration stuff
+* [X] Do some in-person plotting/research on social integration stuff
 * [X] Paired with Ivan about Django, was super helpful to my understanding of how KOLC is structured
 * [X] Get Elias to schedule another VOC attempt with me before he leaves!
   * Update: okay, scheduled. Now to do some groundwork before this happens.
-* [X] ate:
+* [X] ate: chipotle, a beer ($11)
 
 Weekend:
+* [ ] Read some Fluent Python
 * [ ] Deploy a hello world flask/django project to a droplet (inherited from earlier in the week, JN is interested and might like to pair on it at home)
 * [ ] KOLC, now that I'm all re-excited about Django
 
 Day 34:
 * [ ] Exercism
 * [ ] Read some Fluent Python
+* [ ] Finish my 10 Python Things blog post, start running code snippets to ensure correctness
+* [X] Do some in-person plotting/research on social integration stuff
 * [ ] Pair with Elias on VOC, try really hard to make a PR
 
 Next week:

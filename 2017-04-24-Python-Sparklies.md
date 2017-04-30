@@ -20,7 +20,7 @@ if 'History' not in classes:
 
 **2. sets**
 
-I had done many practice problems that could have gone better with [sets](https://docs.python.org/3/library/stdtypes.html#set) before I learned about this Python data structure. Sets are data structures that contain unique values. They are also super fast at that checking for membership thing above. I'll come back to that in a moment after we take a look at a simple set example:
+I had done many practice problems that could have gone better with [sets](https://docs.python.org/3/library/stdtypes.html#set) before I learned about this Python data structure. Sets are nonsequence data structures that contain unordered unique values. They are also super fast at checking for membership. I'll come back to that in a moment after we take a look at a simple set example:
 
 TODO fix this a lot (add a list comp, add join), consider moving whole example later in list
 {% highlight python %}
