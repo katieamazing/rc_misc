@@ -65,7 +65,7 @@ One neat thing is that enumerate() will take iterable objects, such as [sequence
 *Bonus:* You might be wondering how enumerate() works on dictionaries, which do not guarantee positional data order the way sequences do. And you're right to raise an eyebrow, enumerate() does not work on dictionaries. In Python 3, you can unpack key and value with:
 
 {% highlight python %}
-veggies = {2: carrot, 1: onion, 5: broccoli}
+veggies = {2: 'carrot', 1: 'onion', 5: 'broccoli'}
 for number, veggie in veggies.items():
   print(number, veggie)
 {% endhighlight %}
@@ -75,11 +75,57 @@ Note that you still guarantee the order in which the dictionary is looped over, 
 Enumerate() is an operation that I didn't know how much I wanted until I started Lua. In Lua, key, value unpacking of tables (THE Lua data structure) is just a given! It was only when I came back to Python after a few months off that I was really needing this operation.
 
 
+**4. .join() instead of +**
 
-join instead of +
-for ... else
-iter()
-defaultdict
+I had seen [string.join()](https://docs.python.org/3/library/stdtypes.html#str.join) in some stack overflow answers, but I didn't realize it was the preferred method for string concatenation until much more recently. I have been using the + operator all this time! String.join() gives you two opportunities to modify the output: you can specify a spacing, or a character that will be inserted in between each item joined by the operation, and also the items to be joined. You can use join to unite string fragments into one string, or to join string elements of an iterable into one string:
+
+{% highlight python %}
+letters = ('h', 'e', 'l', 'l', 'o')
+greeting = ''.join(letters)
+dash = '-'
+print(dash.join([greeting, 'world']))
+{% endhighlight %}
+
+This produces >> hello-world. First we make a join which concretes the characters in the "letter" tuple without spaces (''). Then we do another join using a list containing a string and our previously joined string, using dash as a separator.
+
+The string.join() operation is really sweet for many cases. For me, it has been hard to retrain myself to use it for super simple operations where I am tempted to use +, but the upside is that I am more likely to use join() correctly as I get more familiar with it.
+
+TODO why else shouldn't you use +??
+
+
+
+**5. for ... else**
+
+What!? Did you know for loops can have elses? This blew my mind when I found out. Basically, if you go around all the loops of a for loops without a break or return statement, the code in the else clause is executed. This is useful when using a for loop to check for some condition - it is useful to prove the value, but it is also useful to know when the condition was not true for any loop, and therefore false.
+
+TODO write a snippet
+
+
+**6. iter()**
+Makes an iterator
+I DON'T KNOW THIS ONE.
+
+iter(iter(iter(iter(xs))))
+
+def func1(xs):
+   a = iter(xs)
+   if CONDITION:
+       return a
+   else:
+       return []
+
+def func2(xs):
+    it = iter(xs)
+    ...
+    cur = next(it)
+    yield cur
+
+func2(func1([]))
+
+**7. defaultdict**
+
+
+
 zip
 list comprehensions
 repr v str

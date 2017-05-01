@@ -279,16 +279,25 @@ Day 31:
 * [X] ate: chipotle, a beer ($11)
 
 Weekend:
-* [ ] Read some Fluent Python
+* [X] Read some Fluent Python
 * [ ] Deploy a hello world flask/django project to a droplet (inherited from earlier in the week, JN is interested and might like to pair on it at home)
+  * Update: Didn't do enough of this to mark it off, but did get started at least.
 * [ ] KOLC, now that I'm all re-excited about Django
+* [X] Went to RC on Sunday, paired on some Java bytecode stuff for VOC bugfixing with Elias, tried jellyfish for the first time, played music late into the night.
+* [X] ate: granola bar, Shanghai Cafe dinner (soup dumplings, jellyfish, beef and broccoli, fried noodles, string beans) ($16)
 
 Day 34:
 * [ ] Exercism
 * [ ] Read some Fluent Python
-* [ ] Finish my 10 Python Things blog post, start running code snippets to ensure correctness
+* [ ] Work on my 10 Python Things blog post, start running code snippets to ensure correctness
 * [X] Do some in-person plotting/research on social integration stuff
-* [ ] Pair with Elias on VOC, try really hard to make a PR
+  * Update: volunteered to co-host the pre-batch Women's event with Nicole
+* [X] Pair with Elias on VOC, try really hard to make a PR
+  * Update: :star2: :sparkle: DID MY FIRST PR EVER omg omg :sparkle: :star2:
+  * Update: unlikely to get merged, but I did it :D
+* [X] Attend Carl's functional programming talk, try to understand with a monad is
+  * Update: kinda?
+* [X] ate: granola bar, a third of a very large cookie, an ice cream bar ($10)
 
 Next week:
 * [ ] Hunt around for some data to play with
