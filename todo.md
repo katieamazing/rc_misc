@@ -288,22 +288,65 @@ Weekend:
 
 Day 34:
 * [ ] Exercism
-* [ ] Read some Fluent Python
+* [X] Read some Fluent Python
 * [ ] Work on my 10 Python Things blog post, start running code snippets to ensure correctness
 * [X] Do some in-person plotting/research on social integration stuff
   * Update: volunteered to co-host the pre-batch Women's event with Nicole
 * [X] Pair with Elias on VOC, try really hard to make a PR
-  * Update: :star2: :sparkle: DID MY FIRST PR EVER omg omg :sparkle: :star2:
+  * Update: :sparkle: DID MY FIRST PR EVER omg omg :sparkle:
   * Update: unlikely to get merged, but I did it :D
 * [X] Attend Carl's functional programming talk, try to understand with a monad is
   * Update: kinda?
 * [X] ate: granola bar, a third of a very large cookie, an ice cream bar ($10)
 
+Day 35:
+* [X] Exercism
+* [ ] Read some Fluent Python
+* [ ] Work on my 10 Python Things blog post, running code snippets to ensure correctness
+* [X] Make requested changes on my PR from yesterday
+* [X] Do a bit of interview prep stuff with DPB
+* [X] social: went to Trophy Bar, walked home with some people and hung out on my roofdeck for a bit. Beautiful night.
+* [X] ate: three tacos and horchata, a blt and 3 beers ($36)
+
+Day 36:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Work on my 10 Python Things blog post, running code snippets to ensure correctness
+* [X] Make requested changes on my PR from yesterday
+* [X] Attend Carl's talk on type systems
+* [X] ate: a falafel sandwich, a cookie, half a canele, a coffee ($17)
+
 Next week:
-* [ ] Hunt around for some data to play with
-* [ ] Start working on a data-ish project in prep for Forests
+
 * [ ] Look at open source contrib in PyBeeWare
 * [ ] Poke around with PyBee app (but really)
 * [ ] Pick and work on a legacy program/function to refactor this week (500 LOC or less on Github, Osborne Games)
 * [ ] Exercism daily
-* [ ] Mock up some Refucktoring prize buttons
+
+
+**Two Week Break**
+* [ ] Hunt around for some data to play with
+* [ ] Start working on a data-ish project in prep for Forests
+
+* [ ] Do some KOLC
+* [ ] Come up with a cute name for the PiGameBox; make a selector menu mockup with Lua/Love2d that procedurally populates
+* [ ] Do a website for Drugtickr
+
+Graphical tasks:
+* [ ] Some art for KOLC, PiGameBox, Drugtickr
+* [ ] Make some Refucktoring prize buttons/stickers
+* [ ] Make some Sprummer2017 Game Jam buttons/stickers
+* [ ] Make Anya some buttons/stickers
+
+Organizing
+* [ ] Prep for more Refucktoring
+* [ ] Prep an RC Sprummer 2017 Game Jam, make a presentation about making a game in 2 days
+* [ ] Make sure the RC pre-Batch Ladies' Meal gets off okay as much as I can (invites, etc)
+
+Social
+* [ ] Have a party
+* [ ] Hang out casually with Trent
+* [ ] Hang out and casually work with Alistair on Drugtickr
+* [ ] Connect at some point with Abe, others from Summer 1?
+
+* [ ] Go to PyCon2017 and have a great time and get a BeeWare coin and meet people and hang out with RCers.
