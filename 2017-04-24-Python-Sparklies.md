@@ -20,7 +20,7 @@ if 'History' not in classes:
 
 **2. sets**
 
-I had done many practice problems that could have gone better with [sets](https://docs.python.org/3/library/stdtypes.html#set) before I learned about this Python data structure. Sets are nonsequence data structures that contain unordered unique values. They are also super fast at checking for membership. I'll come back to that in a moment after we take a look at a simple set example:
+Somewhat related to in, we have sets. I had done many practice problems that could have gone better with [sets](https://docs.python.org/3/library/stdtypes.html#set) before I learned about this Python data structure. Sets are nonsequence data structures that contain unordered unique values. They are also super fast at checking for membership. I'll come back to that in a moment after we take a look at a simple set example:
 
 TODO fix this a lot (add a list comp, add join), consider moving whole example later in list
 {% highlight python %}
@@ -88,17 +88,18 @@ print(dash.join([greeting, 'world']))
 
 This produces >> hello-world. First we make a join which concretes the characters in the "letter" tuple without spaces (''). Then we do another join using a list containing a string and our previously joined string, using dash as a separator.
 
+String.join() is preferable to the + operator for string concatenation because a string is immutable. That means every time you add something to a string with +, Python builds a new string. This can get super inefficient if you do it a lot, like when accumulating string output from a loop. It's better to use another strategy to accumulate (like list.append()), and then use join to stick it all together as a string outside the loop.
+
 The string.join() operation is really sweet for many cases. For me, it has been hard to retrain myself to use it for super simple operations where I am tempted to use +, but the upside is that I am more likely to use join() correctly as I get more familiar with it.
-
-TODO why else shouldn't you use +??
-
 
 
 **5. for ... else**
 
-What!? Did you know for loops can have elses? This blew my mind when I found out. Basically, if you go around all the loops of a for loops without a break or return statement, the code in the else clause is executed. This is useful when using a for loop to check for some condition - it is useful to prove the value, but it is also useful to know when the condition was not true for any loop, and therefore false.
+What!? Did you know for loops can have elses? This blew my mind when I found out. Basically, if you go around all the loops of a for loops without a break or return statement, the code in the else clause is executed. This is useful when using a for loop to check for some condition - it is useful to prove the value, but it is also useful to get some control flow when the condition was not true for any loop, and therefore false.
 
-TODO write a snippet
+TODO
+{% highlight python %}
+{% endhighlight %}
 
 
 **6. iter()**
@@ -122,10 +123,35 @@ def func2(xs):
 
 func2(func1([]))
 
-**7. defaultdict**
+
+**7. zip()**
+The [zip()](https://docs.python.org/3/library/functions.html#zip) function returns an iterator which loops over tuples built from two other iterable objects. Whoah, that's a lot of Python-y buzzwords. Basically, you can build a new data structure which combines two data structures. For me personally, this has been most understandable and usable when I want to take two lists and make them into a dictionary:
+
+{% highlight python %}
+numbers = [1, 2, 3, 4]
+cookies = ['samoa', 'trefoil', 'thin mint', 'tagalong']
+print(zip(numbers, cookies))
+{% endhighlight %}
+
+Now, this will result in a totally useless-looking output of >> <zip object at 0x01FB7609> or something. That's the iterator object. You'll need to exhaust this object into another structure to use it. So:
+
+{% highlight python %}
+print(dict(zip(nums, cookies)))
+print(list(zip(nums, cookies)))
+{% endhighlight %}
+
+To me, casting the output of the zip iterator to a dict is typically most useful, but I also showed you the list one. Casting the zipped tuples into a list lets you see that zip() is really building two-part tuples with each index of your iterable inputs.
 
 
+**8. defaultdict**
 
-zip
-list comprehensions
-repr v str
+**9. list comprehensions**
+
+**10. repr v str**
+__repr__ and ___str___ are methods of Python classes. Both are used to represent instances of the class as printed output.
+
+The __repr__ method is the "canonical" string representation of the specific instance. It should contain enough detail that the programmer can reproduce the instance exactly. The printed detail provided by calling __repr__ should be optimized for a programmer working on the code.
+
+The __str__ method is a somewhat-more-general representation of the instance. It builds and returns a string when called. It might contain information about the attributes of that specific instance. The __str__ method should produce text which the end user of the program might find useful, or at the very least, non-alarming.
+
+These methods are automatically called

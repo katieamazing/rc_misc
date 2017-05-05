@@ -313,8 +313,16 @@ Day 36:
 * [ ] Read some Fluent Python
 * [ ] Work on my 10 Python Things blog post, running code snippets to ensure correctness
 * [X] Make requested changes on my PR from yesterday
+  * Update: MERGED, WOOT WOOT
 * [X] Attend Carl's talk on type systems
+* [X] social: went over to Harold's for a tasting dinner, ate cheesecake
 * [X] ate: a falafel sandwich, a cookie, half a canele, a coffee ($17)
+
+Day 37:
+* [ ] Exercism
+* [X] Work on my 10 Python Things blog post, running code snippets to ensure correctness
+* [X] ate: a taim falafel salad, a soda, two pieces of really good babka, a little bit of halva ($14)
+
 
 Next week:
 
