@@ -321,7 +321,10 @@ Day 36:
 Day 37:
 * [ ] Exercism
 * [X] Work on my 10 Python Things blog post, running code snippets to ensure correctness
-* [X] ate: a taim falafel salad, a soda, two pieces of really good babka, a little bit of halva ($14)
+* [X] ate: a taim falafel salad, a soda, two pieces of really good babka, a little bit of halva, a slice of pizza, 1.5 beers, two tacos ($14)
+
+Day 38:
+(stayed home)
 
 
 Next week:
@@ -339,11 +342,12 @@ Next week:
 * [ ] Do some KOLC
 * [ ] Come up with a cute name for the PiGameBox; make a selector menu mockup with Lua/Love2d that procedurally populates
 * [ ] Do a website for Drugtickr
+* [X] Write up and post RC update blorg post
+* [ ] Finish my 10 Python Things blog post, running code snippets to ensure correctness
 
 Graphical tasks:
 * [ ] Some art for KOLC, PiGameBox, Drugtickr
-* [ ] Make some Refucktoring prize buttons/stickers
-* [ ] Make some Sprummer2017 Game Jam buttons/stickers
+* [X] Make some Refucktoring prize buttons/stickers
 * [ ] Make Anya some buttons/stickers
 
 Organizing

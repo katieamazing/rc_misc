@@ -140,7 +140,7 @@ print(dict(zip(nums, cookies)))
 print(list(zip(nums, cookies)))
 {% endhighlight %}
 
-To me, casting the output of the zip iterator to a dict is typically most useful, but I also showed you the list one. Casting the zipped tuples into a list lets you see that zip() is really building two-part tuples with each index of your iterable inputs.
+To me, casting the output of the zip iterator to a dict is typically most useful, but I also printed out the list one. Casting the zipped tuples into a list lets you see that zip() is really building two-part tuples with each index of your iterable inputs.
 
 
 **8. defaultdict**

@@ -27,7 +27,7 @@ function scrollingTicker(data){
   for (var drug in data){
     output += drug + ' ' + data[drug][data[drug].length-1] + '  '
   }
-  ticker = document.querySelector('.marquee');
+  ticker = document.getElementById('ticker');
   ticker.innerHTML = output;
 }
 
