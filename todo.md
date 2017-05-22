@@ -339,8 +339,10 @@ Next week:
 * [ ] Hunt around for some data to play with
 * [ ] Start working on a data-ish project in prep for Forests
 
-* [ ] Do some KOLC
-* [ ] Come up with a cute name for the PiGameBox; make a selector menu mockup with Lua/Love2d that procedurally populates
+* [X] Do some KOLC
+* [ ] Come up with a cute name for the PiGameBox
+* [X] make a selector menu mockup with Lua/Love2d that procedurally populates
+* [ ] make some progress on travelapp
 * [ ] Do a website for Drugtickr
 * [X] Write up and post RC update blorg post
 * [ ] Finish my 10 Python Things blog post, running code snippets to ensure correctness

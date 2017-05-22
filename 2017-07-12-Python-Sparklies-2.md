@@ -6,3 +6,5 @@ def sloganify(x):
 >>> import inspect
 >>> inspect.signature(bar_function)
 <Signature (x, y, z)>
+
+dictionary.get (d.get) ?

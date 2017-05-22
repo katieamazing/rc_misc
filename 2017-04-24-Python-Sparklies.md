@@ -154,4 +154,4 @@ The __repr__ method is the "canonical" string representation of the specific ins
 
 The __str__ method is a somewhat-more-general representation of the instance. It builds and returns a string when called. It might contain information about the attributes of that specific instance. The __str__ method should produce text which the end user of the program might find useful, or at the very least, non-alarming.
 
-These methods are automatically called
+These methods are automatically called when you have a print(object) line in your code. print() looks for the __str__ method first, and if it does not find it, falls back to __repr__. If neither exist, you get that weird memory address output. If you have both, and want __repr__, you can call it directly by using the repr() function.
