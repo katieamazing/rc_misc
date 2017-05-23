@@ -286,6 +286,12 @@ Weekend:
 * [X] Went to RC on Sunday, paired on some Java bytecode stuff for VOC bugfixing with Elias, tried jellyfish for the first time, played music late into the night.
 * [X] ate: granola bar, Shanghai Cafe dinner (soup dumplings, jellyfish, beef and broccoli, fried noodles, string beans) ($16)
 
+**Week 5 Summary**
+* Read: Continued trying to get through Fluent Python. Nowhere finished!
+* Learned: Flask, more Django
+* Victorious: Completed a [Ludum Dare](http://katieamazing.com/blog/2017/04/25/LD38) game. Yay!
+* Feels: Had a wonderful social week, but didn't get a ton done. Ugh, ugh. Prepping emotionally and logistically for the Spring 1's to leave, and plotting how to take up the slack and do a good job with social integration three weeks from now.
+
 Day 34:
 * [ ] Exercism
 * [X] Read some Fluent Python
@@ -326,41 +332,87 @@ Day 37:
 Day 38:
 (stayed home)
 
-
-Next week:
-
-* [ ] Look at open source contrib in PyBeeWare
-* [ ] Poke around with PyBee app (but really)
-* [ ] Pick and work on a legacy program/function to refactor this week (500 LOC or less on Github, Osborne Games)
-* [ ] Exercism daily
-
+**Week 6 Summary**
+* Read: Continued trying to get through Fluent Python.
+* Learned: Contributing to open source git practices, some stuff about type systems and functional design, started practicing white boarding
+* Victorious: Got my very first ever PR to an open source project merged. I am a FOSS contributor! :satisfied:
+* Feels: I gave myself permission to ignore my usual to-do list items this week, and focus on enjoying the departing people's last week. That really paid off last week and continued to do so this week (though I felt guilty about social stuff taking precedence last week, and I am much less guilty this week). I was ready to draw a crisp line and not drag out goodbyes, so I did not go in on Friday or over the weekend, and instead chose to start my break early!
 
 **Two Week Break**
-* [ ] Hunt around for some data to play with
-* [ ] Start working on a data-ish project in prep for Forests
-
 * [X] Do some KOLC
-* [ ] Come up with a cute name for the PiGameBox
 * [X] make a selector menu mockup with Lua/Love2d that procedurally populates
-* [ ] make some progress on travelapp
-* [ ] Do a website for Drugtickr
 * [X] Write up and post RC update blorg post
 * [ ] Finish my 10 Python Things blog post, running code snippets to ensure correctness
 
-Graphical tasks:
+  Graphical tasks:
 * [ ] Some art for KOLC, PiGameBox, Drugtickr
 * [X] Make some Refucktoring prize buttons/stickers
 * [ ] Make Anya some buttons/stickers
 
-Organizing
-* [ ] Prep for more Refucktoring
-* [ ] Prep an RC Sprummer 2017 Game Jam, make a presentation about making a game in 2 days
-* [ ] Make sure the RC pre-Batch Ladies' Meal gets off okay as much as I can (invites, etc)
+  Organizing
+* [X] Prep for more Refucktoring
+* [X] Prep an RC Sprummer 2017 Game Jam, make a presentation about making a game in 2 days
+* [X] Make sure the RC pre-Batch Ladies' Meal gets off okay as much as I can (invites, etc)
 
-Social
-* [ ] Have a party
-* [ ] Hang out casually with Trent
-* [ ] Hang out and casually work with Alistair on Drugtickr
-* [ ] Connect at some point with Abe, others from Summer 1?
+  Social
+* [X] Go to PyCon2017 and have a great time and get a BeeWare coin and meet people and hang out with RCers.
 
-* [ ] Go to PyCon2017 and have a great time and get a BeeWare coin and meet people and hang out with RCers.
+**Two Week Break Summary**
+Attended: !!con and PyCon
+Learned: A lot, but mostly passively in talking/listening to people at conferences
+Read: Almost nothing
+Feels: I got a lot less done than I wanted to, especially socially. But I wrapped up a few things, and started some new ones. !!Con and PyCon were amazing, and were where I spent a lot of my social energy.
+
+Day 54:
+* [X] Woah, overload again! Met some of the new batch. Late getting in to RC/tired after a redeye home from Oregon and a 5:30am arrival back to NYC.
+* [ ] Be on the "Creating your own structure and accountability" panel
+  * Update: I was (ironically, hilariously) late to the structure and accountability panel. Missed it! Oops!
+* [X] Gave a 5-minute presentation talk about game jams/making a game/Whirled of Words/pitching the Sprummer 2017 Jam. Nothing bad happened. :relieved:
+* [X] ate: a shwarma pita ($0, got paid back in food by Or)
+
+Day 55:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [X] Read some Pearls
+* [X] Watch a PyCon talk: [Modern Dictionaries, Hettinger](https://www.youtube.com/watch?v=npw4s1QTmPg)
+* [ ] Work on my 10 Python Things blog post, running code snippets to ensure correctness
+* [X] Write up some stuff about PyCon for conf rundown and weekly roundup posts
+* [ ] Connect with David on SRS BSNSS
+* [ ] Plot some tabletop RPG stuff
+* [X] Start pin ordering process
+* [ ] Work on Tree-Flavored (may push to tomorrow/Friday)
+
+Day 56:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Read some Pearls
+* [ ] Read this thing: [What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://www.lsi.upc.edu/~robert/teaching/master/material/p5-goldberg.pdf)
+* [ ] Watch a PyCon talk:
+* [ ] Work on my 10 Python Things blog post, running code snippets to ensure correctness
+* [ ] Follow up on Feeling Checkin (offer to answer questions), and ASF (rsvp, get something to bring)
+* [ ] Set up a Lady Date
+
+Day 57:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Read some Pearls
+* [ ] Watch a PyCon talk:
+* [ ] Work on my 10 Python Things blog post, running code snippets to ensure correctness
+* [ ] Host Feelings Checkin
+* [ ] Attend games night, hang out with Alberto
+
+Day 58:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Read some Pearls
+* [ ] Watch a PyCon talk:
+* [ ] Work on my 10 Python Things blog post, running code snippets to ensure correctness
+* [ ] Meet up with Veit and talk about Pearls
+
+**Week 7 Summary**
+* Read:
+* Watched: a ton of PyCon videos!
+* Learned:
+* Victory: Gave a 5-minute presentation on Monday about Game Jams! It went okay.
+* Organized: Ran Feels Checkin this week, continued working on Refucktoring session for next week, started working on Game Jam organizing and Tabletop RPG organizing
+* Feels: Feeling a little frustrated with RC again - the large size of the incoming batch has made desk space a challenge again. And I'm feeling deeply annoyed/tortured over the gender disparity in the new batch - of 44 people, less than 10 are women.

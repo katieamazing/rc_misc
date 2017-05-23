@@ -16,6 +16,10 @@ Codeland was a bit of an emotional mix for me: it was inspiring and welcoming, b
 
 bleh bleh
 
-**PyCon 2017**
+**PyCon 2017 - Portland, Oregon**
 
-bloo bloo
+PyCon 2017 was an amazing experience. After having so many conference jammed into my spring schedule, I was feeling a little conferenced-out. So I gave myself permission to go all in on the "hallway track". I attended only one (1) live talk! After the conference, I went back and watched some of the talks that seemed the most useful to me on YouTube. During the conference, I hung out with friends, networked with companies and open source maintainers, and enjoyed PyCon's robust Open Spaces events and Lightning Talks. I got to meet Russell Keith-Magee, the owner of the BeeWare project, who I heard speak about his BeeWare Toga project at last year's PyGotham 2016, and getting to know him as a new contributor to the BeeWare VOC project felt as if a lot of things had come full circle for me in a very positive way.
+
+I did have a weird sense of being less of the Python tribe than many who attended. A lot of people who go to PyCon seem like they have really drunk the Python Kool-Aid, and use Python as a tool for absolutely everything because they are fond of and expert with the language. As someone who identifies as a polyglot programmer, I found it a bit baffling at times the contortions people get into so they can use Python for everything. It was an interesting takeaway - learning about the power of Python, but also seeing that there are limits and that it might not been the best tool for all things (though this was a conclusion I came to myself, not one espoused by anyone I heard or spoke to).
+
+It was a lot of socializing, which I found exhausting but also really enjoyable and valuable. The Python community is intensely supportive, kind, outgoing, etc. I also got to meet a number of Recursers who had traveled to Portland. I wish I could have stayed for the sprints during the week following the conference, as contributing in that setting to the BeeWare project would have been valuable, but Recurse was back in session on Monday. Maybe next year!
