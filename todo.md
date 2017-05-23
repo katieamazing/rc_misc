@@ -343,25 +343,22 @@ Day 38:
 * [X] make a selector menu mockup with Lua/Love2d that procedurally populates
 * [X] Write up and post RC update blorg post
 * [ ] Finish my 10 Python Things blog post, running code snippets to ensure correctness
-
-  Graphical tasks:
-* [ ] Some art for KOLC, PiGameBox, Drugtickr
-* [X] Make some Refucktoring prize buttons/stickers
-* [ ] Make Anya some buttons/stickers
-
-  Organizing
-* [X] Prep for more Refucktoring
-* [X] Prep an RC Sprummer 2017 Game Jam, make a presentation about making a game in 2 days
-* [X] Make sure the RC pre-Batch Ladies' Meal gets off okay as much as I can (invites, etc)
-
-  Social
-* [X] Go to PyCon2017 and have a great time and get a BeeWare coin and meet people and hang out with RCers.
+* Graphical tasks:
+  * [ ] Some art for KOLC, PiGameBox, Drugtickr
+  * [X] Make some Refucktoring prize buttons/stickers
+  * [ ] Make Anya some buttons/stickers
+* Organizing
+  * [X] Prep for more Refucktoring
+  * [X] Prep an RC Sprummer 2017 Game Jam, make a presentation about making a game in 2 days
+  * [X] Make sure the RC pre-Batch Ladies' Meal gets off okay as much as I can (invites, etc)
+* Social
+  * [X] Go to PyCon2017 and have a great time and get a BeeWare coin and meet people and hang out with RCers.
 
 **Two Week Break Summary**
-Attended: !!con and PyCon
-Learned: A lot, but mostly passively in talking/listening to people at conferences
-Read: Almost nothing
-Feels: I got a lot less done than I wanted to, especially socially. But I wrapped up a few things, and started some new ones. !!Con and PyCon were amazing, and were where I spent a lot of my social energy.
+* Attended: !!con and PyCon
+* Learned: A lot, but mostly passively in talking/listening to people at conferences
+* Read: Almost nothing
+* Feels: I got a lot less done than I wanted to, especially socially. But I wrapped up a few things, and started some new ones. !!Con and PyCon were amazing, and were where I spent a lot of my social energy.
 
 Day 54:
 * [X] Woah, overload again! Met some of the new batch. Late getting in to RC/tired after a redeye home from Oregon and a 5:30am arrival back to NYC.
