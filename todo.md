@@ -380,13 +380,15 @@ Day 55:
 * [X] Work on Tree-Flavored (may push to tomorrow/Friday)
 
 Day 56:
-* [ ] Exercism
+* [X] Exercism
 * [ ] Read some Fluent Python
 * [ ] Read some Pearls
 * [ ] Read this thing: [What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://www.lsi.upc.edu/~robert/teaching/master/material/p5-goldberg.pdf)
-* [ ] Watch a PyCon talk: [Snek in the Browser (BeeWare, Batavia + Toga + Briefcase), McLaughlin](https://www.youtube.com/watch?v=1YmbZQjty3Y)
+* [X] Read this thing: [Why Are Objects So Hard to Debug](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug)
+* [X] Watch a PyCon talk: [Snek in the Browser (BeeWare, Batavia + Toga + Briefcase), McLaughlin](https://www.youtube.com/watch?v=1YmbZQjty3Y)
 * [ ] Work on my 10 Python Things blog post, running code snippets to ensure correctness
-* [ ] Follow up on Feeling Checkin (offer to answer questions), and ASF (rsvp, get something to bring)
+* [ ] Get some JS Refucktoring projects up
+* [X] Follow up on Feeling Checkin (offer to answer questions), and ASF (rsvp, get something to bring)
 * [ ] Set up a Lady Date
 
 Day 57:
