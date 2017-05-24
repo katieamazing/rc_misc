@@ -363,21 +363,21 @@ Day 38:
 Day 54:
 * [X] Woah, overload again! Met some of the new batch. Late getting in to RC/tired after a redeye home from Oregon and a 5:30am arrival back to NYC.
 * [ ] Be on the "Creating your own structure and accountability" panel
-  * Update: I was (ironically, hilariously) late to the structure and accountability panel. Missed it! Oops!
+  * Update: I was (ironically, hilariously) late to the structure and accountability panel, and missed it! Oops!
 * [X] Gave a 5-minute presentation talk about game jams/making a game/Whirled of Words/pitching the Sprummer 2017 Jam. Nothing bad happened. :relieved:
 * [X] ate: a shwarma pita ($0, got paid back in food by Or)
 
 Day 55:
 * [ ] Exercism
-* [ ] Read some Fluent Python
+* [X] Read some Fluent Python
 * [X] Read some Pearls
 * [X] Watch a PyCon talk: [Modern Dictionaries, Hettinger](https://www.youtube.com/watch?v=npw4s1QTmPg)
 * [ ] Work on my 10 Python Things blog post, running code snippets to ensure correctness
 * [X] Write up some stuff about PyCon for conf rundown and weekly roundup posts
 * [ ] Connect with David on SRS BSNSS
-* [ ] Plot some tabletop RPG stuff
+* [X] Plot some tabletop RPG stuff
 * [X] Start pin ordering process
-* [ ] Work on Tree-Flavored (may push to tomorrow/Friday)
+* [X] Work on Tree-Flavored (may push to tomorrow/Friday)
 
 Day 56:
 * [ ] Exercism
