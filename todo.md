@@ -372,31 +372,34 @@ Day 55:
 * [X] Read some Fluent Python
 * [X] Read some Pearls
 * [X] Watch a PyCon talk: [Modern Dictionaries, Hettinger](https://www.youtube.com/watch?v=npw4s1QTmPg)
-* [ ] Work on my 10 Python Things blog post, running code snippets to ensure correctness
 * [X] Write up some stuff about PyCon for conf rundown and weekly roundup posts
 * [ ] Connect with David on SRS BSNSS
 * [X] Plot some tabletop RPG stuff
 * [X] Start pin ordering process
 * [X] Work on Tree-Flavored (may push to tomorrow/Friday)
+* [X] ate: home day ($0)
 
 Day 56:
 * [X] Exercism
+  * Update: also did a HackerRank problem and studied an Interviewing Cake problem
 * [ ] Read some Fluent Python
 * [ ] Read some Pearls
-* [ ] Read this thing: [What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://www.lsi.upc.edu/~robert/teaching/master/material/p5-goldberg.pdf)
 * [X] Read this thing: [Why Are Objects So Hard to Debug](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug)
 * [X] Watch a PyCon talk: [Snek in the Browser (BeeWare, Batavia + Toga + Briefcase), McLaughlin](https://www.youtube.com/watch?v=1YmbZQjty3Y)
-* [ ] Work on my 10 Python Things blog post, running code snippets to ensure correctness
 * [ ] Get some JS Refucktoring projects up
-* [X] Follow up on Feeling Checkin (offer to answer questions), and ASF (rsvp, get something to bring)
-* [ ] Set up a Lady Date
+  * Update: started research on this. Really dreading writing test cases in JS, though I know it will be valuable knowledge
+* [X] Follow up on Feeling Checkin (offer to answer questions), ASF (rsvp, get something to bring), pins
+* [X] ate: a very large chicken and kale salad, a beer ($15)
 
 Day 57:
 * [ ] Exercism
 * [ ] Read some Fluent Python
-* [ ] Read some Pearls
-* [ ] Watch a PyCon talk:
-* [ ] Work on my 10 Python Things blog post, running code snippets to ensure correctness
+* [X] Read some Pearls
+* [X] Read this thing: [What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://www.lsi.upc.edu/~robert/teaching/master/material/p5-goldberg.pdf)
+  * Update: threw in the towel at about 30%. Too dense/academic/not-immediately-applicable enough to struggle through
+* [X] Watch a PyCon talk: [Ansynchronous Python for the Complete Beginner, Grinberg](https://www.youtube.com/watch?v=iG6fr81xHKA)
+* [ ] Get some JS Refucktoring projects up
+* [X] Add paddle to Tree-Flavored
 * [ ] Host Feelings Checkin
 * [ ] Attend games night, hang out with Alberto
 
@@ -404,8 +407,10 @@ Day 58:
 * [ ] Exercism
 * [ ] Read some Fluent Python
 * [ ] Read some Pearls
-* [ ] Watch a PyCon talk:
+* [ ] Watch a PyCon talk: [AsyncAwait and AsyncIO in Python 3.6 and Beyond, Selivanov](https://www.youtube.com/watch?v=2ZFFv-wZ8_g)
 * [ ] Work on my 10 Python Things blog post, running code snippets to ensure correctness
+* [ ] Add key events and paddle movement to Tree-Flavored
+* [ ] Explore Python async/await some more
 * [ ] Meet up with Veit and talk about Pearls
 
 **Week 7 Summary**
