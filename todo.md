@@ -61,7 +61,7 @@ Day 8:
 * [X] Also paired with Trent on Lua love.physics/all the objects game
 * [X] ate: a salad, a bar of chocolate ($14)
 
-Day 9:
+Day 9 (home):
 * [X] Check in (really this time)
 * [X] Take advantage of day at home to update my flashcards deck
 * [X] DG project (formerly LPTHW project, started, will continue tomorrow. Should research mocking/testing OO code in Python to speed up.)
@@ -72,6 +72,7 @@ Day 9:
     * REST/RESTful (reading the origin paper)
     * MongoDB (as a counterpoint to SQL DBs learning)
     * RabbitMQ/GRPC (can I find a pleasant way to learn one of these? Look for tutorial/online course.)
+    * Celery
     * AWS (and/or Google Cloud)
     * Containers/containerization, perhaps Docker
 * [X] ate: many nice things, but at home ($0)
@@ -118,7 +119,7 @@ Weekend:
 * Watched: Felt super inspired to make cute things by Jenny Jiao Hsia's [GDC talk](http://www.gdcvault.com/play/1024289/Put-a-Face-on-It)
 * Feels: Pretty low energy this week, partly coming down off the honeymoon week and also with some RC-related reality checks. Felt bad not making much project progress all week, but I think I have a good plan after the weekend - now I have to execute!
 
-Day 14:
+Day 14 (home):
 * [X] Read some Data Science from Scratch
 * [ ] KOLC
 * [X] Pick through some Python (and maybe Lua?) code examples and prep them for Refucktoring
@@ -195,7 +196,7 @@ Day 22:
 * [X] Attend WWC Algorithm meetup
 * [X] ate: a dosa, a lassi, half a slice of chocolate torte, a tiny pastry ($19)
 
-Day 23:
+Day 23 (home):
 * [ ] Exercism
 * [X] Read some Fluent Python
 * [X] Update flashcards deck
@@ -329,8 +330,8 @@ Day 37:
 * [X] Work on my 10 Python Things blog post, running code snippets to ensure correctness
 * [X] ate: a taim falafel salad, a soda, two pieces of really good babka, a little bit of halva, a slice of pizza, 1.5 beers, two tacos ($14)
 
-Day 38:
-(stayed home)
+Day 38 (home):
+(stayed home, recovering and starting break early)
 
 **Week 6 Summary**
 * Read: Continued trying to get through Fluent Python.
@@ -367,13 +368,13 @@ Day 54:
 * [X] Gave a 5-minute presentation talk about game jams/making a game/Whirled of Words/pitching the Sprummer 2017 Jam. Nothing bad happened. :relieved:
 * [X] ate: a shwarma pita ($0, got paid back in food by Or)
 
-Day 55:
+Day 55 (home):
 * [ ] Exercism
 * [X] Read some Fluent Python
 * [X] Read some Pearls
 * [X] Watch a PyCon talk: [Modern Dictionaries, Hettinger](https://www.youtube.com/watch?v=npw4s1QTmPg)
 * [X] Write up some stuff about PyCon for conf rundown and weekly roundup posts
-* [ ] Connect with David on SRS BSNSS
+* [ ] Connect with David on SRS BSNSS (completed in small chunks during the week to 80% of my satisfaction.)
 * [X] Plot some tabletop RPG stuff
 * [X] Start pin ordering process
 * [X] Work on Tree-Flavored (may push to tomorrow/Friday)
@@ -400,23 +401,44 @@ Day 57:
 * [X] Watch a PyCon talk: [Ansynchronous Python for the Complete Beginner, Grinberg](https://www.youtube.com/watch?v=iG6fr81xHKA)
 * [ ] Get some JS Refucktoring projects up
 * [X] Add paddle to Tree-Flavored
-* [ ] Host Feelings Checkin
-* [ ] Attend games night, hang out with Alberto
+* [X] Host Feelings Checkin
+* [X] Attend games night, hang out with Alberto
+  * Update: holy crap, air drums are cool. Holy crap, I am not coping well with my feelings about how different RC is now
+* [X] ate: salad at home, two slices of pizza, a beer ($0)
 
-Day 58:
-* [ ] Exercism
+Day 58 (home):
+* [X] Do a Google Code Challenge
+  * Update: tried. Got very stuck on some hidden test cases. Asked for help. Helper said it looked like the problem was buggy. Submitted feedback to the Google Gods and moved on. SIGH.
+* [X] Read some Fluent Python
+* [ ] Read some Pearls
+* [X] Watch a PyCon talk: [AsyncAwait and AsyncIO in Python 3.6 and Beyond, Selivanov](https://www.youtube.com/watch?v=2ZFFv-wZ8_g)
+* [X] Check out this [Machine Learning/Decision Trees](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) thing
+  * Update: wow, so cool! Now I wanna learn D3.
+* [X] Mind. Blown. [:hushed:](https://www.youtube.com/watch?v=ksCSL6Ql0Yg)
+* [X] Work on my 10 Python Things blog post, running code snippets to ensure correctness
+* [X] Add key events and paddle movement to Tree-Flavored
+* [ ] Explore Python async/await some more
+* [ ] Get some JS Refucktoring projects up
+* [X] Post Refucktoring and Game Jam events to calendar/Zulip
+* [X] ate: many nice things, at home ($0)
+
+Weekend:
+* [ ] Do some KOLC
+* [ ] Work on, maybe finish Tree-Flavored
 * [ ] Read some Fluent Python
 * [ ] Read some Pearls
-* [ ] Watch a PyCon talk: [AsyncAwait and AsyncIO in Python 3.6 and Beyond, Selivanov](https://www.youtube.com/watch?v=2ZFFv-wZ8_g)
-* [ ] Work on my 10 Python Things blog post, running code snippets to ensure correctness
-* [ ] Add key events and paddle movement to Tree-Flavored
-* [ ] Explore Python async/await some more
-* [ ] Meet up with Veit and talk about Pearls
+* [ ] Continue working on Refucktoring prep
+* [ ] Watch a PyCon talk:
+* [ ] Go to Smorgasburg and then brunch with some nice RC people
 
 **Week 7 Summary**
 * Read:
 * Watched: a ton of PyCon videos!
 * Learned:
 * Victory: Gave a 5-minute presentation on Monday about Game Jams! It went okay.
-* Organized: Ran Feels Checkin this week, continued working on Refucktoring session for next week, started working on Game Jam organizing and Tabletop RPG organizing
-* Feels: Feeling a little frustrated with RC again - the large size of the incoming batch has made desk space a challenge again. And I'm feeling deeply annoyed/tortured over the gender disparity in the new batch - of 44 people, less than 10 are women.
+* Organized: Ran Feels Checkin this week, continued working on Refucktoring session for next week, started working on Game Jam organizing
+* Feels: Feeling frustrated with RC again - the large size of the incoming batch has made desk space a challenge again. And I'm feeling deeply annoyed/tortured over the gender disparity in the new batch - of 44 people, less than 10 are women. All compound to make me feel less welcome in the space/community. I am trying hard to combat this with off-hours socializing and running some events, and hoping I look back on this week with laughter, having grown deeply fond of Summer 1's.
+
+
+Day 61 (Memorial Day):
+* [ ] Prep for my State of RC meeting, prep for jobs meeting

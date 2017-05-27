@@ -146,6 +146,22 @@ To me, casting the output of the zip iterator to a dict is typically most useful
 **8. defaultdict**
 
 **9. list comprehensions**
+For some reason, I really struggled to get my mind around list comprehensions. Blame bad tutorials, blame being tutored by a C++ programmer, blame a self-described allergy to comprehension syntax. But more than a year after beginning to study Python, I finally have this one in my toolkit - and what a powerful addition it is!
+
+Here's the usual example, mapping sections of the logic to their location in a standard loop versus a list comprehension:
+
+{% highlight python %}
+normal_accumulator = []
+for item in list:
+  if conditional:
+    accumulator.append(item)
+
+comprehension_accumulator = [item for item in list if conditional]
+{% endhighlight %}
+
+I've shown an accumulator pattern here, because that was the most useful for me. But list comprehensions do all kinds of cool things, like complex math, nested loops, and nested comprehensions (comprehensions *in* comprehensions: *inception horn*). But the biggest thing for me was learning that it is okay to sometimes *not* use list comprehensions. Sometimes they won't work as elegantly as you might want, and sometimes it's best to leave the old style for better readability.
+
+*Bonus:* List accumulators come in two more flavors. You can use the same syntax with sets and dictionaries. Comprehend all the things!
 
 **10. repr v str**
 __repr__ and ___str___ are methods of Python classes. Both are used to represent instances of the class as printed output.

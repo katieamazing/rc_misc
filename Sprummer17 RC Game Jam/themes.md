@@ -14,3 +14,4 @@ recursion
 presentation notes:
 talk about what kinds of things are 2/3-day Games
 talk very briefly about some technologies (sdl, webgl, unity, curses, pygame, Love2d, Ren'Py, Twine)
+talk about resources (opengameart.org, kenney.nl, that sprite pack thing)
