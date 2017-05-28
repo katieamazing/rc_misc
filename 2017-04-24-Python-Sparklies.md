@@ -44,7 +44,7 @@ string = 'buttercup'
 buttercup_set = set(string)
 {% endhighlight %}
 
-Evaluates to a set like this: buttercup_set = {'b', 'u', 't', 'e', 'r', 'p'}
+Evaluates to a set like this: buttercup_set = {'b', 'u', 't', 'e', 'r', 'c', 'p'}
 
 *Bonus:* Python somewhat obfuscates another set-related data structure, which is more generally referred to as a bag in computer science. You might also find these called multisets. Python has these stuffed down in the collections module under the name [Counter](https://docs.python.org/3/library/collections.html#collections.Counter). If you're looking for this data structure, it exists in the language! No need to implement your own bag data structure unless that sounds fun to you.
 
@@ -62,7 +62,7 @@ Under the hood, enumerate returns a tuple for each iteration containing the inde
 
 One neat thing is that enumerate() will take iterable objects, such as [sequences](https://docs.python.org/3.1/library/stdtypes.html#typesseq) (like string, lists, tuples, and ranges) and [iterators](https://docs.python.org/3/tutorial/classes.html#iterators) (streams of data).
 
-*Bonus:* You might be wondering how enumerate() works on dictionaries, which do not guarantee positional data order the way sequences do. And you're right to raise an eyebrow, enumerate() does not work on dictionaries. In Python 3, you can unpack key and value with:
+*Bonus:* You might be wondering how enumerate() works on dictionaries, which (depending on your version of Python) might not guarantee positional data order the way sequences do. And you're right to raise an eyebrow, enumerate() does not work on dictionaries. In Python 3, you can unpack key and value with:
 
 {% highlight python %}
 veggies = {2: 'carrot', 1: 'onion', 5: 'broccoli'}

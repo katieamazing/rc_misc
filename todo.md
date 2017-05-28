@@ -417,27 +417,28 @@ Day 58 (home):
 * [X] Mind. Blown. [:hushed:](https://www.youtube.com/watch?v=ksCSL6Ql0Yg)
 * [X] Work on my 10 Python Things blog post, running code snippets to ensure correctness
 * [X] Add key events and paddle movement to Tree-Flavored
-* [ ] Explore Python async/await some more
 * [ ] Get some JS Refucktoring projects up
 * [X] Post Refucktoring and Game Jam events to calendar/Zulip
 * [X] ate: many nice things, at home ($0)
 
 Weekend:
-* [ ] Do some KOLC
+* [ ] Explore Python async/await some more
 * [ ] Work on, maybe finish Tree-Flavored
-* [ ] Read some Fluent Python
-* [ ] Read some Pearls
+* [X] Read some Fluent Python
+* [X] Read some Pearls
 * [ ] Continue working on Refucktoring prep
+* [ ] Fix Bokeh post on my blog, which has broken :expressionless:
+* [X] Read [this thing](http://jakevdp.github.io/blog/2017/05/26/exposing-private-dict-version/)
 * [ ] Watch a PyCon talk:
-* [ ] Go to Smorgasburg and then brunch with some nice RC people
+* [X] Go to brunch with some nice RC people
 
 **Week 7 Summary**
-* Read:
+* Read: Parallelized my reading of Fluent Python and Pearls of Functional Algorithm Design this week; finished neither.
 * Watched: a ton of PyCon videos!
 * Learned:
 * Victory: Gave a 5-minute presentation on Monday about Game Jams! It went okay.
 * Organized: Ran Feels Checkin this week, continued working on Refucktoring session for next week, started working on Game Jam organizing
-* Feels: Feeling frustrated with RC again - the large size of the incoming batch has made desk space a challenge again. And I'm feeling deeply annoyed/tortured over the gender disparity in the new batch - of 44 people, less than 10 are women. All compound to make me feel less welcome in the space/community. I am trying hard to combat this with off-hours socializing and running some events, and hoping I look back on this week with laughter, having grown deeply fond of Summer 1's.
+* Feels: Feeling frustrated with RC - the large size of the incoming batch has made desk space a challenge again. And I'm feeling deeply annoyed/tortured over the gender disparity in the new batch - of 44 people, less than 10 are women. All compound to make me feel less welcome in the space/community. I am trying hard to combat this with off-hours socializing and running some events, and hoping I look back on this week with laughter, having grown deeply fond of Summer 1's.
 
 
 Day 61 (Memorial Day):
