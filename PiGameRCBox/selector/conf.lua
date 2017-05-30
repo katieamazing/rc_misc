@@ -1,4 +1,4 @@
 function love.conf(t)
   t.console = true
-  t.title = "Flocking"
+  t.title = "Selector"
 end

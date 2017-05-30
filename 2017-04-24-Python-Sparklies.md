@@ -18,6 +18,7 @@ if 'History' not in classes:
   print('Doomed to repeat your mistakes.')
 {% endhighlight %}
 
+
 **2. sets**
 
 Somewhat related to in, we have sets. I had done many practice problems that could have gone better with [sets](https://docs.python.org/3/library/stdtypes.html#set) before I learned about this Python data structure. Sets are nonsequence data structures that contain unordered unique values. They are also super fast at checking for membership. I'll come back to that in a moment after we take a look at a simple set example:
@@ -47,6 +48,7 @@ buttercup_set = set(string)
 Evaluates to a set like this: buttercup_set = {'b', 'u', 't', 'e', 'r', 'c', 'p'}
 
 *Bonus:* Python somewhat obfuscates another set-related data structure, which is more generally referred to as a bag in computer science. You might also find these called multisets. Python has these stuffed down in the collections module under the name [Counter](https://docs.python.org/3/library/collections.html#collections.Counter). If you're looking for this data structure, it exists in the language! No need to implement your own bag data structure unless that sounds fun to you.
+
 
 **3. enumerate()**
 
@@ -103,6 +105,7 @@ TODO
 
 
 **6. iter()**
+
 Makes an iterator
 I DON'T KNOW THIS ONE.
 
@@ -133,7 +136,11 @@ cookies = ['samoa', 'trefoil', 'thin mint', 'tagalong']
 print(zip(numbers, cookies))
 {% endhighlight %}
 
-Now, this will result in a totally useless-looking output of >> <zip object at 0x01FB7609> or something. That's the iterator object. You'll need to exhaust this object into another structure to use it. So:
+Now, this will result in a totally useless-looking output of
+{% highlight python %}
+\>> <zip object at 0x01FB7609>
+{% endhighlight %}
+or something. That's the iterator object. You'll need to exhaust this object into another structure to use it. So:
 
 {% highlight python %}
 print(dict(zip(nums, cookies)))
@@ -145,7 +152,11 @@ To me, casting the output of the zip iterator to a dict is typically most useful
 
 **8. defaultdict**
 
+blah
+
+
 **9. list comprehensions**
+
 For some reason, I really struggled to get my mind around list comprehensions. Blame bad tutorials, blame being tutored by a C++ programmer, blame a self-described allergy to comprehension syntax. But more than a year after beginning to study Python, I finally have this one in my toolkit - and what a powerful addition it is!
 
 Here's the usual example, mapping sections of the logic to their location in a standard loop versus a list comprehension:
@@ -159,15 +170,17 @@ for item in list:
 comprehension_accumulator = [item for item in list if conditional]
 {% endhighlight %}
 
-I've shown an accumulator pattern here, because that was the most useful for me. But list comprehensions do all kinds of cool things, like complex math, nested loops, and nested comprehensions (comprehensions *in* comprehensions: *inception horn*). But the biggest thing for me was learning that it is okay to sometimes *not* use list comprehensions. Sometimes they won't work as elegantly as you might want, and sometimes it's best to leave the old style for better readability.
+I've shown an accumulator pattern here, because that was the most useful for me. But list comprehensions do all kinds of cool things, like complex math, nested loops, and nested comprehensions (comprehensions *in* comprehensions: \*inception horn\*). But the biggest thing for me was learning that it is okay to sometimes *not* use list comprehensions. Sometimes they won't work as elegantly as you might want, and sometimes it's best to leave the old style for better readability.
 
 *Bonus:* List accumulators come in two more flavors. You can use the same syntax with sets and dictionaries. Comprehend all the things!
 
+
 **10. repr v str**
-__repr__ and ___str___ are methods of Python classes. Both are used to represent instances of the class as printed output.
 
-The __repr__ method is the "canonical" string representation of the specific instance. It should contain enough detail that the programmer can reproduce the instance exactly. The printed detail provided by calling __repr__ should be optimized for a programmer working on the code.
+\__repr\__ and \___str\___ are methods of Python classes. Both are used to represent instances of the class as printed output.
 
-The __str__ method is a somewhat-more-general representation of the instance. It builds and returns a string when called. It might contain information about the attributes of that specific instance. The __str__ method should produce text which the end user of the program might find useful, or at the very least, non-alarming.
+The \__repr\__ method is the "canonical" string representation of the specific instance. It should contain enough detail that the programmer can reproduce the instance exactly. The printed detail provided by calling \__repr\__ should be optimized for a programmer working on the code.
 
-These methods are automatically called when you have a print(object) line in your code. print() looks for the __str__ method first, and if it does not find it, falls back to __repr__. If neither exist, you get that weird memory address output. If you have both, and want __repr__, you can call it directly by using the repr() function.
+The \__str\__ method is a somewhat-more-general representation of the instance. It builds and returns a string when called. It might contain information about the attributes of that specific instance. The \__str\__ method should produce text which the end user of the program might find useful, or at the very least, non-alarming.
+
+These methods are automatically called when you have a print(object) line in your code. print() looks for the \__str\__ method first, and if it does not find it, falls back to \__repr\__. If neither exist, you get that weird memory address output. If you have both, and want \__repr\__, you can call it directly by using the repr() function.

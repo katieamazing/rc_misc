@@ -8,17 +8,17 @@ padding = 10
 
 function love.load()
   local cx, cy = padding, padding
- for game in io.popen([[dir "C:\rc_misc\PiGameRCBox\selector\games" /b]]):lines() do
-   print(game)
-   i = love.graphics.newImage( "games/" .. game )
-   title = string.match(game, "([^.]+)%.")
-   games[title] = {thumbnail = i, x = cx, y = cy}
-   cx = cx + thumbnail_size + padding
-   if cx > W - thumbnail_size then
-     cx = padding
-     cy = cy + thumbnail_size + padding*2
-   end
- end
+  for game in io.popen([[dir "C:\rc_misc\PiGameRCBox\selector\games" /b]]):lines() do
+    print(game)
+    i = love.graphics.newImage( "games/" .. game )
+    title = string.match(game, "([^.]+)%.")
+    games[title] = {thumbnail = i, x = cx, y = cy}
+    cx = cx + thumbnail_size + padding
+    if cx > W - thumbnail_size then
+      cx = padding
+      cy = cy + thumbnail_size + padding*2
+    end
+  end
 end
 
 function love.draw()

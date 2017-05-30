@@ -441,6 +441,15 @@ Weekend:
 * Organized: Ran Feels Checkin this week, continued working on Refucktoring session for next week, started working on Game Jam organizing
 * Feels: Feeling frustrated with RC - the large size of the incoming batch has made desk space a challenge again. And I'm feeling deeply annoyed/tortured over the gender disparity in the new batch - of 44 people, less than 10 are women. All compound to make me feel less welcome in the space/community. I am trying hard to combat this with off-hours socializing and running some events, and hoping I look back on this week with laughter, having grown deeply fond of Summer 1's.
 
-
 Day 61 (Memorial Day):
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Read some Pearls
+* [ ] Watch a PyCon talk: [The Gilectomy, Hastings](https://www.youtube.com/watch?v=pLqv11ScGsQ)
 * [ ] Prep for my State of RC meeting, prep for jobs meeting
+* [ ] Tinker with syntax highlighting CSS
+* [ ] Make progress on Tree-Flavored
+* [ ] Make progress on JS Refucktoring, now that the two candidates have been identified
+
+Day 62:
+* [ ] Git gud at Python slices
