@@ -453,6 +453,7 @@ Day 61 (Memorial Day, home):
   * [Conway's Game of Life](https://github.com/gziolo/game-of-life-es6/tree/master/lib/domain)
 
 Day 62:
+* [X] Attend in-person checkins
 * [ ] Exercism
 * [ ] Read some Fluent Python
 * [ ] Read some Pearls
