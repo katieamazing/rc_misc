@@ -446,7 +446,7 @@ Day 61 (Memorial Day, home):
 * [X] Read some Fluent Python
 * [X] Read some Pearls
 * [X] Watch a PyCon talk: [The Gilectomy, Hastings](https://www.youtube.com/watch?v=pLqv11ScGsQ)
-* [ ] Prep for my State of RC meeting, prep for jobs meeting
+* [X] Prep for my State of RC meeting, prep for jobs meeting
 * [ ] Make progress on Tree-Flavored
 * [ ] Make progress on JS Refucktoring, now that the two candidates have been identified
   * [Space Invaders](https://github.com/maryrosecook/strange-loop/blob/master/space-invaders/space-invaders.js)
@@ -456,7 +456,7 @@ Day 62:
 * [ ] Exercism
 * [ ] Read some Fluent Python
 * [ ] Read some Pearls
-* [ ] Watch a PyCon talk:
+* [X] Watch a PyCon talk: [What's New in Python 3.6, Cannon](https://www.youtube.com/watch?v=c2rEbbGLPQc)
 * [ ] Tinker with syntax highlighting CSS
 * [ ] Git gud at Python slices
 * [ ] Make progress on JS Refucktoring
