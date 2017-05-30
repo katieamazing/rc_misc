@@ -454,12 +454,19 @@ Day 61 (Memorial Day, home):
 
 Day 62:
 * [X] Attend in-person checkins
-* [ ] Exercism
+* [X] Exercism
 * [ ] Read some Fluent Python
 * [ ] Read some Pearls
 * [X] Watch a PyCon talk: [What's New in Python 3.6, Cannon](https://www.youtube.com/watch?v=c2rEbbGLPQc)
 * [ ] Tinker with syntax highlighting CSS
 * [ ] Git gud at Python slices
+  * Update: lol, realized after completing that I had the opportunity to practice slicing on today's Exercism and did my usual sidestep instead.
 * [ ] Make progress on JS Refucktoring
 * [ ] Do some research on SDL for Python for Breakout game
 * [ ] Do some Lua test stuff, research if Lua has a QuickCheck/Hypothesis equivalent
+
+Type uWSGI, press enter: good stuff about uWSGI's blocking and restarting behavior
+Constructive Code Review, if you like to watch me prance around. Polished up a lot since the Mozilla onboarding version.
+"When the abyss gazes back" should be great; I have yet to watch it
+Static Types for Python goes over a little of how type inference works
+The Fastest Fizzbuzz is a walkthrough of writing a JITing compiler based on PyPy infra
