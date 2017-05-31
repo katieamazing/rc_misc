@@ -455,13 +455,20 @@ Day 61 (Memorial Day, home):
 Day 62:
 * [X] Attend in-person checkins
 * [X] Exercism
-* [ ] Read some Fluent Python
-* [ ] Read some Pearls
-* [X] Watch a PyCon talk: [What's New in Python 3.6, Cannon](https://www.youtube.com/watch?v=c2rEbbGLPQc)
-* [ ] Tinker with syntax highlighting CSS
+* [X] Read some Fluent Python
+* [X] Read some Pearls
 * [ ] Git gud at Python slices
   * Update: lol, realized after completing that I had the opportunity to practice slicing on today's Exercism and did my usual sidestep instead.
-* [ ] Make progress on JS Refucktoring
+* [X] Watch a PyCon talk: [What's New in Python 3.6, Cannon](https://www.youtube.com/watch?v=c2rEbbGLPQc)
+* [X] Make progress on JS Refucktoring
+
+Day 63:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Read some Pearls
+* [ ] Watch a PyCon talk: 
+* [ ] Tinker with syntax highlighting CSS
+* [ ] Try hard to complete Refucktoring prep so I am not panicked tomorrow
 * [ ] Do some research on SDL for Python for Breakout game
 * [ ] Do some Lua test stuff, research if Lua has a QuickCheck/Hypothesis equivalent
 
