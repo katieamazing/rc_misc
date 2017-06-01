@@ -451,6 +451,7 @@ Day 61 (Memorial Day, home):
 * [ ] Make progress on JS Refucktoring, now that the two candidates have been identified
   * [Space Invaders](https://github.com/maryrosecook/strange-loop/blob/master/space-invaders/space-invaders.js)
   * [Conway's Game of Life](https://github.com/gziolo/game-of-life-es6/tree/master/lib/domain)
+* [X] ate: home day ($0)
 
 Day 62:
 * [X] Attend in-person checkins
@@ -461,16 +462,46 @@ Day 62:
   * Update: lol, realized after completing that I had the opportunity to practice slicing on today's Exercism and did my usual sidestep instead.
 * [X] Watch a PyCon talk: [What's New in Python 3.6, Cannon](https://www.youtube.com/watch?v=c2rEbbGLPQc)
 * [X] Make progress on JS Refucktoring
+* [X] ate: Diner breakfast, a slice of souffle cheesecake and a matcha latte, Chinese food for dinner ($38)
 
 Day 63:
 * [ ] Exercism
 * [ ] Read some Fluent Python
 * [ ] Read some Pearls
-* [ ] Watch a PyCon talk: 
-* [ ] Tinker with syntax highlighting CSS
+* [X] Watch a PyCon talk: [Static Types for Python, Lehtosalo and Fisher](https://www.youtube.com/watch?v=7ZbwZgrXnwY)
+  * MyPy looks super cool in light of my experiments with Elm. I'd like to try it!
+* [X] Go to my inaugural jobs meeting
 * [ ] Try hard to complete Refucktoring prep so I am not panicked tomorrow
+* [X] ate: a melon pan I bought yesterday, a granola bar ($0)
+
+Day 64:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Read some Pearls
+* [ ] Watch a PyCon talk:
+* [ ] Tinker with syntax highlighting CSS
 * [ ] Do some research on SDL for Python for Breakout game
 * [ ] Do some Lua test stuff, research if Lua has a QuickCheck/Hypothesis equivalent
+* [ ] Host feelings checkin
+* [ ] Host Refucktoring
+
+Day 65:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Read some Pearls
+* [ ] Watch a PyCon talk:
+* [ ] Finish a blog post, start getting it edited
+* [ ] Do HackerRank challenge at 11am
+
+Weekend:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Read some Pearls
+* [ ] Watch a PyCon talk:
+* [ ] KOTLIN
+* [ ] Tree-flavored
+* [ ] Do my jobs homework (update resume, build a dashboard of companies I want intros to)
+* [ ] Git gud at Python slices
 
 Type uWSGI, press enter: good stuff about uWSGI's blocking and restarting behavior
 Constructive Code Review, if you like to watch me prance around. Polished up a lot since the Mozilla onboarding version.
