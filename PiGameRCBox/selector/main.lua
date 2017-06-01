@@ -6,7 +6,26 @@ games = {}
 thumbnail_size = 360
 padding = 10
 
-function love.load()
+function parse_games()
+
+  -- rewrite to handle JSON files like:
+  -- {
+	-- "path": "main.lua",
+	-- "engine": "Love2D",
+	-- "keyboard": "required",
+	-- "mouse": "not supported",
+	-- "gamepad": "not supported",
+	-- "network": "not supported",
+	-- "multiplayer": "none",
+	-- "singleplayer": "true",
+  --
+	-- "author": "ur name",
+	-- "batch": "ur batch",
+	-- "website": "http://github.com/jfkfjfkfj",
+	-- "splash": "rcgc/splash.png",
+	-- "screenshot": "rcgc/screenshot.png"
+  -- }
+
   local cx, cy = padding, padding
   for game in io.popen([[dir "C:\rc_misc\PiGameRCBox\selector\games" /b]]):lines() do
     print(game)
@@ -19,6 +38,10 @@ function love.load()
       cy = cy + thumbnail_size + padding*2
     end
   end
+end
+
+function love.load()
+  parse_games()
 end
 
 function love.draw()

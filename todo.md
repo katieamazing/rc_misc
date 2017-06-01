@@ -471,7 +471,7 @@ Day 63:
 * [X] Watch a PyCon talk: [Static Types for Python, Lehtosalo and Fisher](https://www.youtube.com/watch?v=7ZbwZgrXnwY)
   * MyPy looks super cool in light of my experiments with Elm. I'd like to try it!
 * [X] Go to my inaugural jobs meeting
-* [ ] Try hard to complete Refucktoring prep so I am not panicked tomorrow
+* [X] Try hard to complete Refucktoring prep so I am not panicked tomorrow
 * [X] ate: a melon pan I bought yesterday, a granola bar ($0)
 
 Day 64:
@@ -479,8 +479,7 @@ Day 64:
 * [ ] Read some Fluent Python
 * [ ] Read some Pearls
 * [ ] Watch a PyCon talk:
-* [ ] Tinker with syntax highlighting CSS
-* [ ] Do some research on SDL for Python for Breakout game
+* [ ] Revise and add my contributions to the RCGC project
 * [ ] Do some Lua test stuff, research if Lua has a QuickCheck/Hypothesis equivalent
 * [ ] Host feelings checkin
 * [ ] Host Refucktoring
@@ -491,6 +490,8 @@ Day 65:
 * [ ] Read some Pearls
 * [ ] Watch a PyCon talk:
 * [ ] Finish a blog post, start getting it edited
+* [ ] Tinker with syntax highlighting CSS
+* [ ] Do some research on SDL for Python for Breakout game
 * [ ] Do HackerRank challenge at 11am
 
 Weekend:
@@ -502,6 +503,12 @@ Weekend:
 * [ ] Tree-flavored
 * [ ] Do my jobs homework (update resume, build a dashboard of companies I want intros to)
 * [ ] Git gud at Python slices
+
+Day 68:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Read some Pearls
+* [ ] Post about Game Jam in Community to inform and invite alums
 
 Type uWSGI, press enter: good stuff about uWSGI's blocking and restarting behavior
 Constructive Code Review, if you like to watch me prance around. Polished up a lot since the Mozilla onboarding version.
