@@ -467,7 +467,6 @@ Day 62:
 Day 63:
 * [ ] Exercism
 * [ ] Read some Fluent Python
-* [ ] Read some Pearls
 * [X] Watch a PyCon talk: [Static Types for Python, Lehtosalo and Fisher](https://www.youtube.com/watch?v=7ZbwZgrXnwY)
   * MyPy looks super cool in light of my experiments with Elm. I'd like to try it!
 * [X] Go to my inaugural jobs meeting
@@ -477,28 +476,26 @@ Day 63:
 Day 64:
 * [ ] Exercism
 * [ ] Read some Fluent Python
-* [ ] Read some Pearls
 * [ ] Watch a PyCon talk:
 * [ ] Revise and add my contributions to the RCGC project
 * [ ] Do some Lua test stuff, research if Lua has a QuickCheck/Hypothesis equivalent
-* [ ] Host feelings checkin
-* [ ] Host Refucktoring
+  * Update: found some weird bug that makes it hard to install busted on my laptop; going to try on big computer
+* [X] Host feelings checkin
+* [X] Host Refucktoring
+* [X] ate: an Abstract Salad, a smoking ice cream, a quinoa and pea thing, a beer, some whiskey, some moonshine ($13)
 
-Day 65:
+Day 65 (home):
 * [ ] Exercism
-* [ ] Read some Fluent Python
-* [ ] Read some Pearls
-* [ ] Watch a PyCon talk:
+* [X] Read some Fluent Python
+* [X] Watch a PyCon talk: [Constructive Code Review, Rose](https://www.youtube.com/watch?v=iNG1a--SIlk)
+* [ ] Revise and add my contributions to the RCGC project
+* [ ] Do some Lua test stuff, research if Lua has a QuickCheck/Hypothesis equivalent
 * [ ] Finish a blog post, start getting it edited
 * [ ] Tinker with syntax highlighting CSS
 * [ ] Do some research on SDL for Python for Breakout game
-* [ ] Do HackerRank challenge at 11am
 
 Weekend:
-* [ ] Exercism
 * [ ] Read some Fluent Python
-* [ ] Read some Pearls
-* [ ] Watch a PyCon talk:
 * [ ] KOTLIN
 * [ ] Tree-flavored
 * [ ] Do my jobs homework (update resume, build a dashboard of companies I want intros to)
@@ -507,11 +504,4 @@ Weekend:
 Day 68:
 * [ ] Exercism
 * [ ] Read some Fluent Python
-* [ ] Read some Pearls
 * [ ] Post about Game Jam in Community to inform and invite alums
-
-Type uWSGI, press enter: good stuff about uWSGI's blocking and restarting behavior
-Constructive Code Review, if you like to watch me prance around. Polished up a lot since the Mozilla onboarding version.
-"When the abyss gazes back" should be great; I have yet to watch it
-Static Types for Python goes over a little of how type inference works
-The Fastest Fizzbuzz is a walkthrough of writing a JITing compiler based on PyPy infra

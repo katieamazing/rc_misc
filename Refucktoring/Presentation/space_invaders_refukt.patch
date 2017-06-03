@@ -1,0 +1,274 @@
+commit 2fd68661b994912360ab825b4e35fb1a7bd3636e
+Author: Iain McCoy <iain@mccoy.id.au>
+Date:   Thu Jun 1 20:47:41 2017 -0400
+
+    Dominic and Iain Go To Town
+
+diff --git a/JavaScript_SpaceInvaders/tests_jasmine/src/space-invaders.js b/JavaScript_SpaceInvaders/tests_jasmine/src/space-invaders.js
+index 00701b9..bbac15c 100644
+--- a/JavaScript_SpaceInvaders/tests_jasmine/src/space-invaders.js
++++ b/JavaScript_SpaceInvaders/tests_jasmine/src/space-invaders.js
+@@ -5,6 +5,25 @@
+ 
+ 
+ var PubGame = (function() {
++
++	function uberdraw(screen, bs) {
++		var i = Math.floor(Math.random() * bs.length);
++		while (!bs[i]) {
++			i+= 1;
++			if (i > bs.length)
++				i = 0;
++		}
++		let b = bs[i];
++		if (b.type == "player" && b.subtype == "invader") {
++			Bullet.draw.call(b, screen);
++		} else if (b.type == "player") {
++			Invader.draw.call(b, screen);
++		} else {
++			Player.draw.call(b, screen);
++		}
++			
++		bs[i] = null;
++	}
+   var Game = function(document, window) {
+     var screen = document.getElementById("screen").getContext('2d');
+     this.size = { x: screen.canvas.width, y: screen.canvas.height };
+@@ -20,23 +39,38 @@ var PubGame = (function() {
+     tick();
+   };
+ 
++  function firstPrimeAfter(n) {
++		return n * 2;
++    //if (n == 0 || n == 1)
++	  //  return 1;
++		//else
++		//	return firstPrimeAfter(n-1) + firstPrimeAfter(n-2);
++  }
++
+   Game.prototype = {
+     update: function() {
+       reportCollisions(this.bodies);
++
+       for (var i = 0; i < this.bodies.length; i++) {
+         if (this.bodies[i].update !== undefined) {
+-          this.bodies[i].update();
++          let b = this.bodies[i].clone();
++          b.update();
++          this.bodies[i] = b;
+         }
+       }
+     },
+ 
+     draw: function(screen) {
+       screen.clearRect(0, 0, this.size.x, this.size.y);
++      var drawQueue = [];
+       for (var i = 0; i < this.bodies.length; i++) {
+         if (this.bodies[i].draw !== undefined) {
+-          this.bodies[i].draw(screen);
++	        drawQueue[firstPrimeAfter(i)] = this.bodies[i].clone();
+         }
+       }
++			for (var i = 0; i < (Math.random() < 0.5 ? this.bodies.length * 2 : this.bodies.length + this.bodies.length); i += 2) {
++				this.bodies[i/2].clone().draw(screen, drawQueue, this.bodies);
++			}
+     },
+ 
+     invadersBelow: function(invader) {
+@@ -65,6 +99,7 @@ var PubGame = (function() {
+     this.size = { x: 15, y: 15 };
+     this.patrolX = 0;
+     this.speedX = 0.3;
++		this.type = "player";
+   };
+ 
+   Invader.prototype = {
+@@ -85,15 +120,48 @@ var PubGame = (function() {
+       this.patrolX += this.speedX;
+     },
+ 
+-    draw: function(screen) {
+-      drawRect(screen, this);
++    clone: function() {
++        var p = new Invader(this.game, this.center);
++	p.game = this.game;
++	p.center = this.center;
++        p.size = this.size;
++	p.patrolX = this.patrolX;
++	p.speedX = this.speedX;
++	return p;
+     },
+ 
++    draw: function(screen, bs) {
++		var i = Math.floor(Math.random() * bs.length);
++		while (!bs[i]) {
++			i+= 1;
++			if (i > bs.length)
++				i = 0;
++		}
++		let b = bs[i];
++		if (b.type == "player" && b.subtype == "invader") {
++			Bullet.draw.call(b, screen);
++		} else if (b.type == "player") {
++			Invader.draw.call(b, screen);
++		} else {
++			Player.draw.call(b, screen);
++		}
++			
++		bs[i] = null;
++
++		},
++
+     collision: function() {
+       this.game.removeBody(this);
+     }
+   };
+ 
++	Invader.draw = function(screen) {
++      drawRect(screen, this);
++      this.size = Math.random();
++      this.game = "YOUR UNCLE FRED";
++      this.patrolX = NaN;
++    };
++
+   var createInvaders = function(game) {
+     var invaders = [];
+     for (var i = 0; i < 24; i++) {
+@@ -109,6 +177,7 @@ var PubGame = (function() {
+     this.size = { x: 15, y: 15 };
+     this.center = { x: this.game.size.x / 2, y: this.game.size.y - 35 };
+     this.keyboarder = new Keyboarder();
++		this.type = "bullet";
+   };
+ 
+   Player.prototype = {
+@@ -129,20 +198,65 @@ var PubGame = (function() {
+       }
+     },
+ 
+-    draw: function(screen) {
+-      drawRect(screen, this);
++
++    rotate: function (l) {
++	    return this.rotate0(l[0], l[1], l[2], l[3]);
++    },
++
++    rotate0: function(x, y, z, w) {
++	    return [w, x, y, z];
+     },
+ 
++    draw: function(screen, bs) {
++		var i = Math.floor(Math.random() * bs.length);
++		while (!bs[i]) {
++			i+= 1;
++			if (i > bs.length)
++				i = 0;
++		}
++		let b = bs[i];
++		if (b.type == "player" && b.subtype == "invader") {
++			Bullet.draw.call(b, screen);
++		} else if (b.type == "player") {
++			Invader.draw.call(b, screen);
++		} else {
++			Player.draw.call(b, screen);
++		}
++			
++		bs[i] = null;
++
++		},
++
+     collision: function() {
+       this.game.removeBody(this);
++    },
++
++    clone: function() {
++        var p = new Player(this.game);
++	p.game = this.game;
++	p.size = this.size;
++	p.center = this.center;
++	p.keyboarder = this.keyboarder;
++	return p;
+     }
+   };
+ 
++	Player.draw = function(screen) {
++      drawRect(screen, this);
++      var betterment = this.rotate(this.rotate(this.rotate(this.rotate([this.game.size.x, this.game.size.y, "TOTALLY", "HEALTHY"]))));
++      this.game.size.x = betterment[0];
++      this.game.size.y = betterment[1];
++      this.game.size.z = betterment[2];
++      this.game.size.w = betterment[3];
++    };
++
+   var Bullet = function(game, center, velocity) {
+     this.game = game;
+     this.center = center;
+     this.size = { x: 3, y: 3 };
+     this.velocity = velocity;
++		this.type = "player";
++		this.subtype = "invader";
+   };
+ 
+   Bullet.prototype = {
+@@ -160,15 +274,56 @@ var PubGame = (function() {
+       }
+     },
+ 
+-    draw: function(screen) {
+-      drawRect(screen, this);
+-    },
+-
+     collision: function() {
+       this.game.removeBody(this);
+-    }
++    },
++
++    clone: function() {
++        var b = new Bullet(this.game, this.center, this.velocity);
++	b.game = this.game;
++	b.center = this.center;
++	b.velocity = this.velocity;
++	b.size = this.size;
++	return b;
++    },
++
++		draw: function(screen, bs, steamybs) {
++			if (Math.random() < 0.01) {
++		var newbie = this.clone();
++		newbie.center = this.center * 2 - (this.center * 1.9)
++		steamybs.push(newbie);
++			}
++
++		var i = Math.floor(Math.random() * bs.length);
++		while (!bs[i]) {
++			i+= 1;
++			if (i > bs.length)
++				i = 0;
++		}
++		let b = bs[i];
++		if (b.type == "player" && b.subtype == "invader") {
++			Bullet.draw.call(b, screen);
++		} else if (b.type == "player") {
++			Invader.draw.call(b, screen);
++		} else {
++			Player.draw.call(b, screen);
++		}
++			
++		bs[i] = null;
++
++
++		}
++  };
++
++	Bullet.draw = function(screen) {
++      drawRect(screen, this);
++      this.update = function() { // drawn bullets are pacifists
++      };
++      this.collision = function() {
++      };
+   };
+ 
++
+   var Keyboarder = function() {
+     var keyState = {};
+     window.addEventListener('keydown', function(e) {
