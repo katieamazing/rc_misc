@@ -510,7 +510,7 @@ Weekend:
 * [ ] Tree-flavored
 * [ ] Do my jobs homework (update resume, build a dashboard of companies I want intros to)
 * [ ] Git gud at Python slices
-* [ ] Go out and do DimSum on Sunday
+* [X] Go out and do DimSum on Sunday
 * [ ] Print off pins at RC, get a little work done there
 
 **Week 8 Summary**
