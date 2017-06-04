@@ -8,3 +8,5 @@ def sloganify(x):
 <Signature (x, y, z)>
 
 dictionary.get (d.get) ?
+
+that cool memoization thing Ramalho talked about - maybe a decorator??

@@ -312,6 +312,7 @@ Day 35:
 * [ ] Work on my 10 Python Things blog post, running code snippets to ensure correctness
 * [X] Make requested changes on my PR from yesterday
 * [X] Do a bit of interview prep stuff with DPB
+* [X] social: coffee date to meet random Twitter lady who's a new hire at Buzzfeed NYC, meet Johnicholas for lunch in Chelsea Market afterward
 * [X] social: went to Trophy Bar, walked home with some people and hung out on my roofdeck for a bit. Beautiful night.
 * [X] ate: three tacos and horchata, a blt and 3 beers ($36)
 
@@ -328,6 +329,8 @@ Day 36:
 Day 37:
 * [ ] Exercism
 * [X] Work on my 10 Python Things blog post, running code snippets to ensure correctness
+* [X] Attend end of batch party, dance and make music and get drunk late into the night
+  * Update: did that stuff until the next day - went home at 4am Friday!
 * [X] ate: a taim falafel salad, a soda, two pieces of really good babka, a little bit of halva, a slice of pizza, 1.5 beers, two tacos ($14)
 
 Day 38 (home):
@@ -496,12 +499,12 @@ Day 65 (home):
 * [X] ate: stuff at home. Went out with RC S'13 later on and had two cocktails and one pao de queijo ($22)
 
 Weekend:
-* [ ] Catch up on a good chunk of things I let slide this week:
-  * That awful Exercism that stumped me on Wednesday
-  * Try out the Busted testing framework for Lua I researched and painstakingly installed this week
-  * Revise and add my contributions to the RCGC project (write a JSON parser, update renderer)
-  * Finish that goddammed python blog post, get it edited
-  * Python SDL (wishlist, likely to get pushed to next week)
+* Catch up on a good chunk of things I let slide this week:
+  * [ ] That awful Exercism that stumped me on Wednesday
+  * [ ] Try out the Busted testing framework for Lua I researched and painstakingly installed this week
+  * [ ] Revise and add my contributions to the RCGC project (write a JSON parser, update renderer)
+  * [ ] Finish that goddammed python blog post, get it edited
+  * [ ] Python SDL (wishlist, likely to get pushed to next week)
 * [ ] Read some Fluent Python
 * [ ] KOTLIN
 * [ ] Tree-flavored
@@ -509,6 +512,13 @@ Weekend:
 * [ ] Git gud at Python slices
 * [ ] Go out and do DimSum on Sunday
 * [ ] Print off pins at RC, get a little work done there
+
+**Week 8 Summary**
+* Read: "Fluent Python"/Ramalho (still... hey, I'm more than halfway done now!), and "Pearls of Functional Algorithm Design"/Bird. Decided midweek to abandon "Pearls" - I feel I could get good stuff out of it if I were willing to spend 1-7 days on each chapter, but I am not. I'll come back to it in a few months.
+* Learned: New stuff about testing, like the Jasmine framework for JavaScript and Busted for Lua.
+* Organized: A second Refucktoring session, which went well! I was glad I'd pushed through on the JavaScript problem, and people also really liked the C project that I got JN to do.
+* Watched: Lots more PyCon talks. I am done with the ones that interest me now.
+* Feels: I'm still not feeling settled at RC, and my discomfort with the new demographics and vibe continue to impact me negatively. I had some interactions with staff this week that were mostly but not entirely encouraging. My anger and frustration last week really gave way to sadness and grieving this week, but I am feeling a little better now with some support from friends and pouring my energy into planning social outings with the people I like most. I have to admit that this week, I am looking forward to the end of my batch.
 
 Day 68:
 * [ ] Exercism

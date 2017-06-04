@@ -10,11 +10,12 @@ Codeland 2017 - New York, New York**
 Day 1: Diversity, joy, vulnerability, bravery, badasses, memes, bollywood dance party.
 Codeland was a bit of an emotional mix for me: it was inspiring and welcoming, but at the same time I felt out of place. The conference is geared toward Code Newbies, and this was the first moment I realized that I was definitely not a newbie any longer. A highlight was meeting Katrina Owen, who was speaking, and who cowrote a book I had read recently and who is the founder of Exercism.io, a significant part of my programming journey. She is one of my heroes who has directly made programming more accessible to me. In an casual conversation, she graciously encouraged me to consider putting together a conference talk on a project I shared with her. Her encouragement and feeling like less of a newbie really got the gears turning in my head - maybe 2018 is the year of speaking rather than attending conferences.
 
-
 **May
 !!Con 2017 - New York, New York**
 
-bleh bleh
+!!Con was great again this year. The speakers are always diverse and fascinating, and the frenetic fun of 10-minute talks keeps the energy high all day. I really appreciated that there was more unconferencing social time during the conference this year; it let me chat to some nice people, reconnect to old people in my technical network, and meet some new RC people in meat-space. My experience at !!Con was super different than last year - I followed technical aspects of talks better, felt less mind-blown all the time (or at least, the mind-blowing had an "OMG COOL" feel rather than an "OMG I am so lost" feel), and I was more confident introducing myself to strangers as a programmer. It was a good benchmarking experience for me to feel how much I have grown as a programmer and technical person in a year. I'll definitely try to attend in 2018, but tickets are pretty tough to come by, and I felt lucky this year to get one!
+
+I also got to meet Mirabai again this year. [Mirabai](twitter,com/stenoknight) does live captioning for conferences on her stenography machine. She is basically a pinball-wizard crossed with an arch-mage, and is also somehow super nice. Her passion for stenography and the relatively nascent efforts to support it with open source hardware and software were totally infectious. and sooo???? TODO
 
 **PyCon 2017 - Portland, Oregon**
 
