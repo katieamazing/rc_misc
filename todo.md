@@ -462,7 +462,7 @@ Day 62:
   * Update: lol, realized after completing that I had the opportunity to practice slicing on today's Exercism and did my usual sidestep instead.
 * [X] Watch a PyCon talk: [What's New in Python 3.6, Cannon](https://www.youtube.com/watch?v=c2rEbbGLPQc)
 * [X] Make progress on JS Refucktoring
-* [X] ate: Diner breakfast, a slice of souffle cheesecake and a matcha latte, Chinese food for dinner ($38)
+* [X] ate: Diner breakfast, a slice of souffle cheesecake and a matcha latte, Chinese food for dinner ($38, really eating my feelings today)
 
 Day 63:
 * [ ] Exercism
@@ -477,7 +477,6 @@ Day 64:
 * [ ] Exercism
 * [ ] Read some Fluent Python
 * [ ] Watch a PyCon talk:
-* [ ] Revise and add my contributions to the RCGC project
 * [ ] Do some Lua test stuff, research if Lua has a QuickCheck/Hypothesis equivalent
   * Update: found some weird bug that makes it hard to install busted on my laptop; going to try on big computer
 * [X] Host feelings checkin
@@ -489,12 +488,18 @@ Day 65 (home):
 * [X] Read some Fluent Python
 * [X] Watch a PyCon talk: [Constructive Code Review, Rose](https://www.youtube.com/watch?v=iNG1a--SIlk)
 * [ ] Revise and add my contributions to the RCGC project
-* [ ] Do some Lua test stuff, research if Lua has a QuickCheck/Hypothesis equivalent
 * [ ] Finish a blog post, start getting it edited
 * [ ] Tinker with syntax highlighting CSS
 * [ ] Do some research on SDL for Python for Breakout game
 
 Weekend:
+* [ ] Catch up on a good chunk of things I let slide this week:
+  * Try out the Busted testing framework for Lua I researched and painstakingly installed on Friday
+  * Revise and add my contributions to the RCGC project (write a JSON parser, update renderer)
+  * Find out if Lua has a testing framework like QuickCheck/Hypothesis
+    * Yes: lua-quickcheck. In active development, might contribute!?
+  * Finish that goddammed python blog post, get it edited
+  * Python SDL (wishlist, likely to get pushed to next week)
 * [ ] Read some Fluent Python
 * [ ] KOTLIN
 * [ ] Tree-flavored

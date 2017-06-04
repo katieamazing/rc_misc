@@ -1,3 +1,5 @@
+require "lpeg"
+
 love.window.setTitle( "Selection Screen" )
 W, H = 1000, 800
 love.window.setMode(W, H)
@@ -5,6 +7,16 @@ love.window.setMode(W, H)
 games = {}
 thumbnail_size = 360
 padding = 10
+
+function parse_games_test()
+  local equalcount = lpeg.P{
+    "S";   -- initial rule name
+    S = "a" * lpeg.V"B" + "b" * lpeg.V"A" + "",
+    A = "a" * lpeg.V"S" + "b" * lpeg.V"A" * lpeg.V"A",
+    B = "b" * lpeg.V"S" + "a" * lpeg.V"B" * lpeg.V"B",
+  } * -1
+  print(lpeg.match(equalcount, ""))
+end
 
 function parse_games()
 
@@ -19,6 +31,7 @@ function parse_games()
 	-- "multiplayer": "none",
 	-- "singleplayer": "true",
   --
+  -- "title": "game title", TODO add to PR
 	-- "author": "ur name",
 	-- "batch": "ur batch",
 	-- "website": "http://github.com/jfkfjfkfj",
@@ -42,6 +55,7 @@ end
 
 function love.load()
   parse_games()
+  parse_games_test()
 end
 
 function love.draw()
