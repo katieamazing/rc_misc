@@ -477,8 +477,10 @@ Day 64:
 * [ ] Exercism
 * [ ] Read some Fluent Python
 * [ ] Watch a PyCon talk:
-* [ ] Do some Lua test stuff, research if Lua has a QuickCheck/Hypothesis equivalent
+* [X] Do some Lua test stuff, research if Lua has a QuickCheck/Hypothesis equivalent
   * Update: found some weird bug that makes it hard to install busted on my laptop; going to try on big computer
+  * Update: Yes: lua-quickcheck. In active development, might contribute!?
+  * Update: Urrggh got Busted installed on my desktop by act of sheer will (and a C++ programmer to help me debug Windows). Might be very annoying to develop a lot for Lua in Windows.
 * [X] Host feelings checkin
 * [X] Host Refucktoring
 * [X] ate: an Abstract Salad, a smoking ice cream, a quinoa and pea thing, a beer, some whiskey, some moonshine ($13)
@@ -491,13 +493,13 @@ Day 65 (home):
 * [ ] Finish a blog post, start getting it edited
 * [ ] Tinker with syntax highlighting CSS
 * [ ] Do some research on SDL for Python for Breakout game
+* [X] ate: stuff at home. Went out with RC S'13 later on and had two cocktails and one pao de queijo ($22)
 
 Weekend:
 * [ ] Catch up on a good chunk of things I let slide this week:
-  * Try out the Busted testing framework for Lua I researched and painstakingly installed on Friday
+  * That awful Exercism that stumped me on Wednesday
+  * Try out the Busted testing framework for Lua I researched and painstakingly installed this week
   * Revise and add my contributions to the RCGC project (write a JSON parser, update renderer)
-  * Find out if Lua has a testing framework like QuickCheck/Hypothesis
-    * Yes: lua-quickcheck. In active development, might contribute!?
   * Finish that goddammed python blog post, get it edited
   * Python SDL (wishlist, likely to get pushed to next week)
 * [ ] Read some Fluent Python
@@ -505,6 +507,8 @@ Weekend:
 * [ ] Tree-flavored
 * [ ] Do my jobs homework (update resume, build a dashboard of companies I want intros to)
 * [ ] Git gud at Python slices
+* [ ] Go out and do DimSum on Sunday
+* [ ] Print off pins at RC, get a little work done there
 
 Day 68:
 * [ ] Exercism

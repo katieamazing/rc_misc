@@ -6,6 +6,8 @@ date: TODO
 
 Forgive me for my clickbait title.
 
+My first year of learning Python passed a few months ago, and since then I have been super learning more and more of the language. I've discovered some startling gaps in my knowledge, and thought I'd write them up. This is the blog post I wish I had read earlier in my Python education, and I hope you find it useful (or maybe just amusing? :flushed:)
+
 **1. in**
 
 Now, I was familiar with in from for loops, so don't despair of me entirely! But using in alone as a test for membership had not occurred to me in my first year of Python programming. If we have a collection (like a list, or a string) and we'd like to see if that collection contains (or does not contain) a value, we can use:
@@ -98,9 +100,15 @@ The string.join() operation is really sweet for many cases. It has been hard to 
 
 What!? Did you know for loops can have elses? This blew my mind when I found out. Basically, if we go around all the loops of a ```for``` loop without a ```break``` or ```return``` statement, the code in the else clause is executed. This is useful when using a ```for``` loop to check for some condition - it is useful to prove the value, but it is also useful to get some control flow when the condition was not true for any loop, and therefore false.
 
-TODO
 {% highlight python %}
+for c in "abc123":
+  if c.isupper():
+    return c
+else:
+  return False
 {% endhighlight %}
+
+Nice!
 
 
 **6. iter()**
@@ -111,18 +119,20 @@ We might want to send an iterator to a function as an argument, and delay the pr
 
 {% highlight python %}
 def foo(iterable):
-  # any logic you might want to have here
-  return iter(iterable)
+    return iter(iterable)
 
 def bar(iterator):
-  # logic here??
+    return list(iterator)
 
-bar(foo(iterable))
+print(bar(foo("hello world")))
+\>>['h', 'e', 'l', 'l', 'o', ' ', 'w', 'o', 'r', 'l', 'd']
 {% endhighlight %}
 
-We might want to write a custom class that can be looped through. We can do this in a Pythonic way by mimicking what Python does - implement a \__iter\__ method, and the \__next\__ method that supports incrementation and concludes the iteration appropriately.
+This assigns the string "hello world" into an iterable, but we don't unpack it until we're inside the bar function exhausting the iterable to a list. We'll see this again in zip(), but it's a nice way of passing around an iterable chunk of data without having it processed by each function.
 
-The iter() function is pretty simple, but foundation for our next two examples:
+Another thing iter() is useful for is custom behavior. We might want to write a custom class that can be looped through. We can do this in a Pythonic way by mimicking what Python does - implement a \__iter\__ method, and the \__next\__ method that supports incrementation and concludes the iteration appropriately.
+
+The iter() function is pretty simple, but foundational for our next two examples.
 
 
 **7. zip()**
@@ -146,7 +156,7 @@ print(dict(zip(nums, cookies)))
 print(list(zip(nums, cookies)))
 {% endhighlight %}
 
-To me, casting the output of the zip iterator to a dict is typically most useful, but I also printed out the list one. Casting the zipped tuples into a list lets you see that zip() is really building two-part tuples with each index of your iterable inputs.
+To me, casting the output of the zip iterator to a dict is typically most useful, but I also printed out the list one. Casting the zipped tuples into a list lets you see that zip() really is building two-part tuples with each index of your iterable inputs.
 
 
 **8. generators**
@@ -155,20 +165,19 @@ A generator is a kind of iterator. I recognized them early as a Python programme
 
 Generators produce a sequence of results, one result per yield statement execution, instead of the single object returned by iter().
 
-Generators are useful for lazy evaluation - when you call them, you specify how much of the sequence you would like to compute. This is really nice if you have an infinite sequence and only want the first hundred return values:
+Generators are useful for lazy evaluation - the evaluation is delayed until its value  is needed, avoiding repeat evaluations. When you call generators, you specify how much of the sequence you would like to compute. This is really nice if you have an infinite sequence and only want the first hundred return values:
 
 {% highlight python %}
 def fizzbuzz():
     i = 0
     x = None
-    thing = True
-    while thing:
+    while i >=0:
         if i % 15 == 0:
             x = "fizzbuzz"
-        elif i % 5 == 0:
-            x = "buzz"
         elif i % 3 == 0:
             x = "fizz"
+        elif i % 5 == 0:
+            x = "buzz"
         else:
             x = str(i)
         yield x
@@ -179,14 +188,16 @@ def first_hundred(iterator):
         print(next(iterator))
 {% endhighlight %}
 
-Generators are also useful for doing fancy concurrent programming, which is not a use case I have yet. But I encourage you to do more research about generators and concurrency if you're interested!
+This produces a string output for FizzBuzz for the range of 0,100. Other common examples of generators are processing things like the Fibonacci sequence or sequences of squares or Pythagorean triples.
+
+That's mostly what I have used generators for. They can also be used for more advanced concepts, like replacing callback functions. Generators are also useful for doing fancy concurrent programming, which is not a use case I have yet. I encourage you to do more research about generators if you're interested!
 
 *Bonus:* We can also make generator experessions, which are similar to list comprehensions but result in a generator with the given parameters instead of a list. Cool!
 
 
 **9. list comprehensions**
 
-For some reason, I really struggled to get my mind around list comprehensions. Blame bad tutorials, blame being tutored by a C++ programmer, blame a self-described allergy to comprehension syntax. But more than a year after beginning to study Python, I finally have this one in my toolkit - and what a powerful addition it is!
+For some reason, I really struggled to get my mind around [list comprehensions](https://docs.python.org/3/tutorial/datastructures.html?highlight=comprehension#list-comprehensions). Blame bad tutorials, blame being tutored by a C++ programmer, blame a self-described allergy to comprehension syntax. But more than a year after beginning to study Python, I finally have this one in my toolkit - and what a powerful addition it is!
 
 Here's the usual example, mapping sections of the logic to their location in a standard loop versus a list comprehension:
 
@@ -213,3 +224,6 @@ The \__repr\__ method is the "canonical" string representation of the specific i
 The \__str\__ method is a somewhat-more-general representation of the instance. It builds and returns a string when called. It might contain information about the attributes of that specific instance. The \__str\__ method should produce text which the end user of the program might find useful, or at the very least, non-alarming.
 
 These methods are automatically called when you have a print(object) line in your code. print() looks for the \__str\__ method first, and if it does not find it, falls back to \__repr\__. If neither exist, you get that weird memory address output. If you have both, and want \__repr\__, you can call it directly by using the repr() function.
+
+
+Hopefully you found some value in that things it took me a year to learn in Python! If you found it useful or helpful, I'd appreciate a [retweet](link to a twitter post that doesn't exist yet). Thanks to my editors, YOUR-NAME-HERE and YOUR-NAME-HERE.

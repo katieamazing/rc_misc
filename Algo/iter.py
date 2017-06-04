@@ -51,4 +51,10 @@ def hundo(iterator):
     for x in range(50,100):
         print(next(iterator))
 
-hundo(fizzbuzz_all_the_yields())
+def thing():
+    for c in "abc123":
+      if c.isupper():
+        return c
+    else:
+      return False
+print(thing())
