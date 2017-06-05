@@ -522,11 +522,16 @@ Weekend:
 
 Day 68:
 * [ ] Exercism
+  * Update: my ghost is back...
 * [ ] Read some Fluent Python
-* [ ] Post about Game Jam in Community to inform and invite alums
-* [ ] Finalize python post and publish it
+* [X] Post about Game Jam in Community to inform and invite alums
+* [X] Finalize python post and publish it
 * [ ] Reprint pins
-* [ ] Do my jobs homework (update resume, build a dashboard of companies I want intros to)
+* [X] Do my jobs homework (update resume, build a dashboard of companies I want intros to)
+
+Day 69:
+* [ ] Read some Fluent Python
+* [ ] Python SDL
 
 Weekend:
 * [ ] KOTLIN
