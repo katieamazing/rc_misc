@@ -500,18 +500,18 @@ Day 65 (home):
 
 Weekend:
 * Catch up on a good chunk of things I let slide this week:
-  * [ ] That awful Exercism that stumped me on Wednesday
-  * [ ] Try out the Busted testing framework for Lua I researched and painstakingly installed this week
+  * [X] That awful Exercism that stumped me on Wednesday
+  * [X] Try out the Busted testing framework for Lua I researched and painstakingly installed this week
   * [ ] Revise and add my contributions to the RCGC project (write a JSON parser, update renderer)
-  * [ ] Finish that goddammed python blog post, get it edited
+  * [X] Finish that goddammed python blog post, get it edited
   * [ ] Python SDL (wishlist, likely to get pushed to next week)
-* [ ] Read some Fluent Python
-* [ ] KOTLIN
-* [ ] Tree-flavored
+* [X] Read some Fluent Python
+* [X] Tree-flavored
 * [ ] Do my jobs homework (update resume, build a dashboard of companies I want intros to)
-* [ ] Git gud at Python slices
+* [X] Git gud at Python slices
+  * Update: idk about "gud", but I did read some stuff and practice using some slices
 * [X] Go out and do DimSum on Sunday
-* [ ] Print off pins at RC, get a little work done there
+* [X] Print off pins at RC, get a little work done there
 
 **Week 8 Summary**
 * Read: "Fluent Python"/Ramalho (still... hey, I'm more than halfway done now!), and "Pearls of Functional Algorithm Design"/Bird. Decided midweek to abandon "Pearls" - I feel I could get good stuff out of it if I were willing to spend 1-7 days on each chapter, but I am not. I'll come back to it in a few months.
@@ -524,3 +524,9 @@ Day 68:
 * [ ] Exercism
 * [ ] Read some Fluent Python
 * [ ] Post about Game Jam in Community to inform and invite alums
+* [ ] Finalize python post and publish it
+* [ ] Reprint pins
+* [ ] Do my jobs homework (update resume, build a dashboard of companies I want intros to)
+
+Weekend:
+* [ ] KOTLIN
