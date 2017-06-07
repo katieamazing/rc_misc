@@ -534,11 +534,21 @@ Day 69 (home):
 * [X] Studied a singly linked list problem from Interview Cake
 * [ ] Python SDL
   * Got sidetracked and played with Céu SDL instead. Literally what is wrong with me!?
+* [X] ate: home day ($0)
 
 Day 70:
 * [ ] Exercism
 * [ ] Read some Fluent Python
-* [ ] Reprint pins
+* [X] Reprint pins
+* [X] Python SDL
+  * Update: got an install working, started following a tutorial for Pong while actually making breakout. It's in a COP style, which is new to me. Will follow along diligently and then try to convert to straight OOP.
+* [ ] Prep for game jam announcement tomorrow
+* [ ] Attend Naomi's Hacker Hands talk
+
+Day 71:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Host Feelings Checkin
 
 Weekend:
 * [ ] KOTLIN

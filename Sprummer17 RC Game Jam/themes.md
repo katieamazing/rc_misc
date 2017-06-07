@@ -13,5 +13,5 @@ recursion
 
 presentation notes:
 talk about what kinds of things are 2/3-day Games
-talk very briefly about some technologies (sdl, webgl, unity, curses, pygame, Love2d, Ren'Py, Twine)
-talk about resources (opengameart.org, kenney.nl, that sprite pack thing)
+talk very briefly about some technologies (sdl, webgl, unity, curses, pygame, Love2d, PICO-8, Ren'Py, Twine)
+talk about resources (opengameart.org, kenney.nl, http://oryxdesignlab.com/sprites/ (katie has a copy of roguelike tileset), Wikimedia Commons, bfxr, sfxr)
