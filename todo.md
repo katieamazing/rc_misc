@@ -526,12 +526,19 @@ Day 68:
 * [ ] Read some Fluent Python
 * [X] Post about Game Jam in Community to inform and invite alums
 * [X] Finalize python post and publish it
-* [ ] Reprint pins
 * [X] Do my jobs homework (update resume, build a dashboard of companies I want intros to)
+* [X] ate: a salad, a lassi, three drinks ($27)
 
-Day 69:
-* [ ] Read some Fluent Python
+Day 69 (home):
+* [X] Read some Fluent Python
+* [X] Studied a singly linked list problem from Interview Cake
 * [ ] Python SDL
+  * Got sidetracked and played with Céu SDL instead. Literally what is wrong with me!?
+
+Day 70:
+* [ ] Exercism
+* [ ] Read some Fluent Python
+* [ ] Reprint pins
 
 Weekend:
 * [ ] KOTLIN
