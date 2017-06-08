@@ -542,13 +542,29 @@ Day 70:
 * [X] Reprint pins
 * [X] Python SDL
   * Update: got an install working, started following a tutorial for Pong while actually making breakout. It's in a COP style, which is new to me. Will follow along diligently and then try to convert to straight OOP.
-* [ ] Prep for game jam announcement tomorrow
-* [ ] Attend Naomi's Hacker Hands talk
+* [X] Prep for game jam announcement tomorrow
+* [X] Attend Naomi's Hacker Hands talk
+* [X] ate: a chickpea and farro and snow pea thing, a cookie, a double cheeseburger, some stolen fries ($28)
 
 Day 71:
-* [ ] Exercism
 * [ ] Read some Fluent Python
 * [ ] Host Feelings Checkin
+* [ ] Polish up resume and post it
+* [X] Kickoff Game Jam; update RSVP and Community threads
+* [X] Go to Blogging meeting; write a little
+* [ ] Python SDL
+* [X] ate: a shwarma pita
+
+Day 72:
+* [ ] Polish off that Exercism problem
+* [ ] Read/work through a bit of Cracking (maybe the dynamic algo chapter)
+* [ ] Check in with Game Jammers; make sure everyone is doing okay
 
 Weekend:
+* [ ] Finish Fluent Python
+* [ ] Game Jam all the things
 * [ ] KOTLIN
+
+Day 75:
+* [ ] Announce the last Refucktoring on 6/15 to Community/RC
+* [ ] Host Game Jam Show&Tell&Demo

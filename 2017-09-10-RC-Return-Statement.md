@@ -4,6 +4,8 @@ title: "RC Return Statement"
 date: TODO
 ---
 
+-overall struggled with outside world distractions of the political kind
+
 -having a different idea of what RC would be from reading old blog posts from alums
   -no residents
   -less oversight/faciliator support
