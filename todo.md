@@ -573,7 +573,10 @@ Weekend:
 Day 75:
 * [ ] Announce the last Refucktoring on 6/15 to Community/RC
 * [ ] Host Game Jam Show&Tell&Demo
-* [ ] Python SDL
+* [X] Python SDL
+* [X] Post RC thing
+* [ ] Maybe start writing Ceu blog post?
+* [X] ate: salad and half a cookie ($8)
 
 Weekend:
 * [ ] KOTLIN
