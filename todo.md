@@ -547,24 +547,33 @@ Day 70:
 * [X] ate: a chickpea and farro and snow pea thing, a cookie, a double cheeseburger, some stolen fries ($28)
 
 Day 71:
-* [ ] Read some Fluent Python
-* [ ] Host Feelings Checkin
-* [ ] Polish up resume and post it
+* [X] Read some Fluent Python
+* [X] Host Feelings Checkin
+* [X] Polish up resume
 * [X] Kickoff Game Jam; update RSVP and Community threads
 * [X] Go to Blogging meeting; write a little
 * [ ] Python SDL
-* [X] ate: a shwarma pita
+* [X] ate: a shwarma pita, half a soda ($11)
 
 Day 72:
-* [ ] Polish off that Exercism problem
+* [ ] Read some Fluent Python
 * [ ] Read/work through a bit of Cracking (maybe the dynamic algo chapter)
+* [X] Keep getting better at Recursion
+  * read a few blogs/how-tos, but nothing really useful or insightful yet
 * [ ] Check in with Game Jammers; make sure everyone is doing okay
+  * talked to some people, but didn't want to be too nosy/annoying
+* [X] meet with Nick and chat about RC-stuffs
+* [ ] Python SDL
+* [X] ate: a roast veg and couscous thing ($12)
 
 Weekend:
 * [ ] Finish Fluent Python
-* [ ] Game Jam all the things
-* [ ] KOTLIN
+* [X] Game Jam all the things
 
 Day 75:
 * [ ] Announce the last Refucktoring on 6/15 to Community/RC
 * [ ] Host Game Jam Show&Tell&Demo
+* [ ] Python SDL
+
+Weekend:
+* [ ] KOTLIN

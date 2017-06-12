@@ -1,5 +1,14 @@
 def lp(i):
-    pass
+    if i == []:
+        return None
+    else:
+        lp(i[1:])
+
+    def length(l):
+        if l == []:
+            return 0
+        else:
+            return length(l[1:])
 
 
 assert(lp([]) == None)
