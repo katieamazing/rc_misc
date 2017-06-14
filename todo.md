@@ -570,13 +570,31 @@ Weekend:
 * [ ] Finish Fluent Python
 * [X] Game Jam all the things
 
+**Week 9 Summary**
+* Read: Finished "Fluent Python"/Ramalho, YAY!
+* Learned: some stuff about SDL, how little I know about algorithms, concurrency/parallelism and Céu
+* Organized: A game jam! It went okay.
+* Laughter: [This](https://www.designernews.co/stories/84443-redditors-design-worst-volume-sliders-possible) made me howl laughing this week
+* Feels: My productivity is really low right now. I feel aimless and hopeless. Relatedly, I had two friends this week at RC who I consider(ed) to be allies in feminism say stupid, sexist, offensive shit to me this week. I called them both on it in the moment, and niether responded in a way that put me at ease. Depressing. I suspect it's that the current (male dominated, competive) RC climate enables these kinds of remarks. In any case, next week I need to buck up and refocus on my goals: finishing KOLC, finishing my Breakouts, progressing on technical interviewing skills.
+
 Day 75:
-* [ ] Announce the last Refucktoring on 6/15 to Community/RC
-* [ ] Host Game Jam Show&Tell&Demo
-* [X] Python SDL
+* [X] Host Game Jam Show&Tell&Demo
+* [ ] Python SDL
 * [X] Post RC thing
-* [ ] Maybe start writing Ceu blog post?
+* [ ] Maybe start writing Céu blog post?
 * [X] ate: salad and half a cookie ($8)
+
+Day 76 (home, too hot for life):
+* [ ] Read some Exercises
+* [ ] Post up the Game Jam stuff
+* [X] Work on the Lua game selector thing
+* [X] ate: stuff at home ($0)
+
+Day 77:
+* [ ] Python SDL
+
 
 Weekend:
 * [ ] KOTLIN
+
+* [ ] Announce the last Refucktoring on 6/27 to Community/RC
