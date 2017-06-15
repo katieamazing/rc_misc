@@ -585,14 +585,31 @@ Day 75:
 * [X] ate: salad and half a cookie ($8)
 
 Day 76 (home, too hot for life):
-* [ ] Read some Exercises
+* [X] Study an Interview Cake problem
+  * Did one about the Fisher-Yates Shuffle; practiced whiteboarding
+* [X] Read some Exercises
 * [ ] Post up the Game Jam stuff
 * [X] Work on the Lua game selector thing
 * [X] ate: stuff at home ($0)
 
 Day 77:
-* [ ] Python SDL
+* [ ] Get Cracking
+  * Update: could not find Heneli
+* [X] Read some Exercises
+* [X] Python SDL
+* [X] ate: thai food for lunch, went out with Johnicholas for Shanghai Cafe dinner and Taiyaki dessert. Yum! ($13)
 
+Day 78:
+* [ ] Read some Exercises
+* [ ] Get Cracking
+* [ ] Python SDL
+* [ ] Host Feelings Checkin
+
+
+
+**Week 10 Summary**
+* Read: "Exercises in Programming Style", Cristina Videira Lopes. I read a few chapters of this book maybe 8 months ago, and quit because I found it dull. Now I find it FASCINATING. I see so much growth in myself in how much I understand and how many of the presented styles I have experimented and worked with.
+* Feels: The weather was pretty awful this week. So hot! I revile hot weather, and I spend summers pretty miserable.
 
 Weekend:
 * [ ] KOTLIN
