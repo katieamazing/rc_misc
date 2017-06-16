@@ -510,7 +510,7 @@ Weekend:
 * [ ] Do my jobs homework (update resume, build a dashboard of companies I want intros to)
 * [X] Git gud at Python slices
   * Update: idk about "gud", but I did read some stuff and practice using some slices
-* [X] Go out and do DimSum on Sunday
+* [X] Go out and do DimSum on Sunday :congratulations: :dango:
 * [X] Print off pins at RC, get a little work done there
 
 **Week 8 Summary**
@@ -522,7 +522,7 @@ Weekend:
 
 Day 68:
 * [ ] Exercism
-  * Update: my ghost is back...
+  * Update: my ghost is back... :ghost:
 * [ ] Read some Fluent Python
 * [X] Post about Game Jam in Community to inform and invite alums
 * [X] Finalize python post and publish it
@@ -599,11 +599,17 @@ Day 77:
 * [X] Python SDL
 * [X] ate: thai food for lunch, went out with Johnicholas for Shanghai Cafe dinner and Taiyaki dessert. Yum! ($13)
 
-Day 78:
+Day 78 (home):
+* [X] Read some Exercises
+* [X] Elm Breakout
+
+
+Day 79:
 * [ ] Read some Exercises
 * [ ] Get Cracking
 * [ ] Python SDL
-* [ ] Host Feelings Checkin
+* [ ] Inaugural ladies dessert outing :cake: :ice_cream:
+* [ ] Eat yummy japanese food with friends
 
 
 
