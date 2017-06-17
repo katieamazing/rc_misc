@@ -603,14 +603,20 @@ Day 78 (home):
 * [X] Read some Exercises
 * [X] Elm Breakout
 
-
 Day 79:
-* [ ] Read some Exercises
+* [X] Read some Exercises
+* [ ] Get Cracking
+* [X] Python SDL
+* [X] Inaugural ladies dessert outing :cake: :ice_cream:
+* [X] Eat yummy japanese food with friends
+
+Weekend:
+* [X] Read some Exercises
 * [ ] Get Cracking
 * [ ] Python SDL
-* [ ] Inaugural ladies dessert outing :cake: :ice_cream:
-* [ ] Eat yummy japanese food with friends
-
+* [ ] Go to RC one day
+* [ ] Make progress on a project (KOLC, Breakout, new django app thing)
+* [X] Set up profile on one jobs page (jrdev.com)
 
 
 **Week 10 Summary**
