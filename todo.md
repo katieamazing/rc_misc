@@ -601,7 +601,7 @@ Day 77:
 
 Day 78 (home):
 * [X] Read some Exercises
-* [X] Elm Breakout
+* [X] Tree-Flavored
 
 Day 79:
 * [X] Read some Exercises
@@ -612,16 +612,21 @@ Day 79:
 
 Weekend:
 * [X] Read some Exercises
-* [ ] Get Cracking
-* [ ] Python SDL
-* [ ] Go to RC one day
-* [ ] Make progress on a project (KOLC, Breakout, new django app thing)
+* [X] Start new django app
+* [X] Work on Tree-Flavored
 * [X] Set up profile on one jobs page (jrdev.com)
 
-
 **Week 10 Summary**
-* Read: "Exercises in Programming Style", Cristina Videira Lopes. I read a few chapters of this book maybe 8 months ago, and quit because I found it dull. Now I find it FASCINATING. I see so much growth in myself in how much I understand and how many of the presented styles I have experimented and worked with.
-* Feels: The weather was pretty awful this week. So hot! I revile hot weather, and I spend summers pretty miserable.
+* Read: "Exercises in Programming Style", Cristina Videira Lopes. I read a few chapters of this book maybe 8 months ago, and quit because I found it dull. Now I find it FASCINATING. I see so much growth in how much I understand and how many of the presented styles I have experimented and worked with.
+* Feels: The weather was pretty awful this week. So hot! I revile hot weather, and I spend summers pretty miserable. I was pretty checked out on RC this week (stayed home two days, meant to go in on Sunday but flaked). I'm frustrated with my lack of focus, worried about jobs, sad about RC, and really really unhappy that the weather is so warm.
+
+Day 82:
+* [ ] Get Cracking
+* [ ] Python SDL
+* [ ] ModTrav
+
+
+
 
 Weekend:
 * [ ] KOTLIN
