@@ -20,6 +20,7 @@ from django.conf.urls import include
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^catalog/', include('catalog.urls')),
+    url(r'^accounts/', include('django.contrib.auth.urls')),
 ]
 
 #Add URL maps to redirect the base URL to our application

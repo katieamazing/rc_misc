@@ -1,4 +1,5 @@
 from django.db import models
+from django.contrib.auth.models import User
 from django.urls import reverse #Used to generate URLs by reversing the URL patterns
 
 # Create your models here.
@@ -32,9 +33,15 @@ class Activity(models.Model):
     cost = models.IntegerField(help_text='Enter an approximate median cost for this activity.')
     duration = models.IntegerField(help_text='Enter an approximate number of hours this activity might take.')
 
-    # author = models.ForeignKey('User', on_delete=models.SET_NULL, null=True)
+    author = models.ForeignKey(User, on_delete=models.SET_NULL, null=True)
     location = models.ManyToManyField(Location, help_text='Select a location for this activity.')
     tag = models.ManyToManyField(Tag, help_text='Enter a tag for this activity to help people find it.')
 
     def __str__(self):
         return self.title
+
+    def get_absolute_url(self):
+        """
+        Returns the url to access a particular activity instance.
+        """
+        return reverse('activity-detail', args=[str(self.id)])
