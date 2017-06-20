@@ -622,13 +622,25 @@ Weekend:
 
 Day 82:
 * [ ] Get Cracking
+* [ ] Read some Grokking
 * [ ] Python SDL
-* [ ] ModTrav
+* [X] ModTrav
+
+Day 83:
+* [ ] Get Cracking
+* [X] Read some Grokking
+* [X] Watch this thing about tries: https://www.youtube.com/watch?v=AXjmTQ8LEoI
+* [X] Python SDL
+* [X] ModTrav -> rewrite heinous JavaScript, add filtered list views
+* [X] Reply to Ilona
+* [ ] Retweet nice things about python blerg
+
 
 
 
 
 Weekend:
 * [ ] KOTLIN
+* [ ] ModTrav -> testing
 
 * [ ] Announce the last Refucktoring on 6/27 to Community/RC
