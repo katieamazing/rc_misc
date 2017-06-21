@@ -633,7 +633,7 @@ Day 83:
 * [X] Python SDL
 * [X] ModTrav -> rewrite heinous JavaScript, add filtered list views
 * [X] Reply to Ilona
-* [ ] Retweet nice things about python blerg
+* [X] Retweet nice things about python blerg
 
 
 

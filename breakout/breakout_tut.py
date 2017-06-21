@@ -95,14 +95,6 @@ class SoftwareRenderer(sdl2.ext.SoftwareSpriteRenderSystem):
         sdl2.ext.fill(self.surface, sdl2.ext.Color(0,0,0))
         super(SoftwareRenderer, self).render(components)
 
-class TextureRenderer(sdl2.ext.TextureSpriteRenderSystem):
-    def __init__(self, window):
-        super(TextureRenderer, self).__init__(window)
-
-    def render(self, components):
-        ##sdl2.ext.fill(self.surface, sdl2.ext.Color(0,0,0))
-        super(TextureRenderer, self).render(components)
-
 class Player(): #whatever world is??
     def __init__(self, lives, level):
         self.lives = lives
@@ -115,44 +107,32 @@ def run():
 
     world = sdl2.ext.World()
 
-    bg_renderer = sdl2.ext.Renderer(window)
-    #sprite_renderer = SoftwareRenderer(window)
-    #factory = sdl2.ext.SpriteFactory(sdl2.ext.SOFTWARE)
+    sprite_renderer = SoftwareRenderer(window)
 
 
 
-    bg_factory = sdl2.ext.SpriteFactory(sdl2.ext.TEXTURE, renderer=bg_renderer)
+    factory = sdl2.ext.SpriteFactory(sdl2.ext.SOFTWARE)
+    bg_sprite = sdl2.ext.load_image('gradientbg.png')
+    #bg_renderer = factory.create_sprite_render_system(window)
+    #bg_renderer.render(bg_sprite)
 
-    #bg_sprite = sdl2.ext.load_image('gradientbg.png')
-    bg_sprite = bg_factory.from_image('gradientbg.png')
-    r = sdl2.SDL_Rect()
-    dorender = sdl2.SDL_RenderCopy
+    pad_sprite = factory.from_color((sdl2.ext.Color(255,255,255)), size=(80, 20))
+    ball_sprite = factory.from_color((sdl2.ext.Color(255,255,255)), size=(20,20))
 
-    r.x = 0
-    r.y = 0
-    r.w, r.h = bg_sprite.size
-    dorender(bg_renderer.sdlrenderer, bg_sprite.texture, None, r)
-    bg_renderer.present()
-
-    #pad_sprite = factory.from_color((sdl2.ext.Color(255,255,255)), size=(80, 20))
-    #ball_sprite = factory.from_color((sdl2.ext.Color(255,255,255)), size=(20,20))
-
-    #paddle = Paddle(world, pad_sprite, 340, 380)
+    paddle = Paddle(world, pad_sprite, 340, 380)
 
 
     movement = MovementSystem(0,0,600,400)
     collision = CollisionSystem(0,0,600,400)
-
+    sprite_renderer = SoftwareRenderer(window)
 
     world.add_system(movement)
     world.add_system(collision)
-    #world.add_system(sprite_renderer)
-    world.add_system(bg_renderer)
+    world.add_system(sprite_renderer)
 
-
-    #ball = Ball(world, ball_sprite, 390, 290)
-    #ball.velocity.vx = -3
-    #collision.ball = ball
+    ball = Ball(world, ball_sprite, 390, 290)
+    ball.velocity.vx = -3
+    collision.ball = ball
 
 
     running = True
