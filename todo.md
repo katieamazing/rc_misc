@@ -650,11 +650,12 @@ Day 86 (home):
 * [X] Read some Grokking
 * [ ] Try implementing a trie
 * [X] Announce the last Refucktoring on 6/27 to Community/RC
-* [ ] Start writing Céu blog post
-
-* [ ] Wrap up Céu project -> refactor, tidy code
-
+* [X] Start writing Céu blog post
 
 Weekend:
+* [ ] Read some Grokking
+* [ ] Wrap up Céu project -> refactor, tidy code
 * [ ] KOTLIN
+
+
 * [ ] ModTrav -> testing
