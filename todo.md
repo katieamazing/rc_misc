@@ -621,13 +621,11 @@ Weekend:
 * Feels: The weather was pretty awful this week. So hot! I revile hot weather, and I spend summers pretty miserable. I was pretty checked out on RC this week (stayed home two days, meant to go in on Sunday but flaked). I'm frustrated with my lack of focus, worried about jobs, sad about RC, and really really unhappy that the weather is so warm.
 
 Day 82 (home):
-* [ ] Get Cracking
 * [ ] Read some Grokking
 * [ ] Python SDL
 * [X] ModTrav
 
 Day 83 (home):
-* [ ] Get Cracking
 * [X] Read some Grokking
 * [X] Watch this thing about tries: https://www.youtube.com/watch?v=AXjmTQ8LEoI
 * [X] Python SDL
@@ -641,11 +639,20 @@ Day 84 (home):
 * [X] Research ModTrav filtering
 
 Day 85:
-* [ ] Get Cracking
+* [X] Get Cracking
 * [ ] Read some Grokking
 * [ ] Try implementing a trie
-* [ ] Host Feelings Checkin
-* [ ] Announce the last Refucktoring on 6/27 to Community/RC
+* [X] Host Feelings Checkin
+* [X] Have fun at Games Night, be a good host to my guest
+  * Update: my guest applied to RC literally while she was there. YES!
+
+Day 86 (home):
+* [X] Read some Grokking
+* [ ] Try implementing a trie
+* [X] Announce the last Refucktoring on 6/27 to Community/RC
+* [ ] Start writing Céu blog post
+
+* [ ] Wrap up Céu project -> refactor, tidy code
 
 
 Weekend:
