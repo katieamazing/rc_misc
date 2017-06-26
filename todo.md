@@ -618,6 +618,8 @@ Weekend:
 
 **Week 10 Summary**
 * Read: "Exercises in Programming Style", Cristina Videira Lopes. I read a few chapters of this book maybe 8 months ago, and quit because I found it dull. Now I find it FASCINATING. I see so much growth in how much I understand and how many of the presented styles I have experimented and worked with.
+* Learned: Slow but steady work in my "tree flavored" Elm implementation of Breakout has given me a breakthrough this week about recursion rather than loops in functional languages. Cool!
+* Social: The first ladies dessert outing was fun and lifted my spirits quite a lot. I hope it was as nice for other attendees, and I am excited about more of these to come.
 * Feels: The weather was pretty awful this week. So hot! I revile hot weather, and I spend summers pretty miserable. I was pretty checked out on RC this week (stayed home two days, meant to go in on Sunday but flaked). I'm frustrated with my lack of focus, worried about jobs, sad about RC, and really really unhappy that the weather is so warm.
 
 Day 82 (home):
@@ -641,21 +643,33 @@ Day 84 (home):
 Day 85:
 * [X] Get Cracking
 * [ ] Read some Grokking
-* [ ] Try implementing a trie
 * [X] Host Feelings Checkin
 * [X] Have fun at Games Night, be a good host to my guest
   * Update: my guest applied to RC literally while she was there. YES!
 
 Day 86 (home):
 * [X] Read some Grokking
-* [ ] Try implementing a trie
 * [X] Announce the last Refucktoring on 6/27 to Community/RC
 * [X] Start writing Céu blog post
 
 Weekend:
-* [ ] Read some Grokking
-* [ ] Wrap up Céu project -> refactor, tidy code
+* [ ] Finish Grokking
+* [X] Hang out in Céu land a bit
+* [X] Wrap up Céu project -> refactor, tidy code
+* [X] Try implementing a trie
+
+**Week 11 Summary**
+* Read: "Grokking Algorithms", Aditya Y. Bhargava
+* Learned: about tries, about the very frustrating PySDL2 - getting the tutorial working was fun and pleasant, but adding my own graphics has been painful and I am stuck.
+* Practiced: Django stuff, went smoother than ever working on a project
+* Watched: I wanted this helpful [talk](https://www.youtube.com/watch?v=AXjmTQ8LEoI) about tries, and watched [this silly internet video](https://www.youtube.com/watch?v=PL9iMPx9CpQ) like 7 times until I cried laughing
+* Social: Invited Laura to come to Game Night which was great, met Ilona, my RC Buddy, who was really nice and v. inspiring
+* Feels: Oh boy, this week. I stayed home all but two days (Thurs and Sat). A bit due to weather, a bit due to not wanting to deal with RC. I am looking forward to being finished. On the bright side, I had a very productive week at home, and felt good about being where I was productive, regardless of that not being RC. I've also started working with some folks on Cracking the Coding Interview chapters, and that is intimidating but useful to do with programmers who are more advanced than me with this foundational CS stuff. Hope to cram in some more of that next week. Just four more days!
+
+
 * [ ] KOTLIN
-
-
 * [ ] ModTrav -> testing
+
+Day 89:
+* [ ] Get Cracking
+* [ ] Finish up Refucktoring prep, remind and encourage people to come
