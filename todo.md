@@ -646,6 +646,7 @@ Day 85:
 * [X] Host Feelings Checkin
 * [X] Have fun at Games Night, be a good host to my guest
   * Update: my guest applied to RC literally while she was there. YES!
+* [X] ate: vegan chinese food, pizza, beer ($18)
 
 Day 86 (home):
 * [X] Read some Grokking
@@ -670,8 +671,5 @@ Day 89:
 * [ ] Get Cracking
 * [ ] Finish up Refucktoring prep, remind and encourage people to come
 * [ ] Finish up Céu blog post, start editing process
-
-
-
 * [ ] KOTLIN
 * [ ] ModTrav -> testing
