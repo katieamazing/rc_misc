@@ -653,7 +653,7 @@ Day 86 (home):
 * [X] Start writing Céu blog post
 
 Weekend:
-* [ ] Finish Grokking
+* [X] Finish Grokking
 * [X] Hang out in Céu land a bit
 * [X] Wrap up Céu project -> refactor, tidy code
 * [X] Try implementing a trie
@@ -664,12 +664,14 @@ Weekend:
 * Practiced: Django stuff, went smoother than ever working on a project
 * Watched: I wanted this helpful [talk](https://www.youtube.com/watch?v=AXjmTQ8LEoI) about tries, and watched [this silly internet video](https://www.youtube.com/watch?v=PL9iMPx9CpQ) like 7 times until I cried laughing
 * Social: Invited Laura to come to Game Night which was great, met Ilona, my RC Buddy, who was really nice and v. inspiring
-* Feels: Oh boy, this week. I stayed home all but two days (Thurs and Sat). A bit due to weather, a bit due to not wanting to deal with RC. I am looking forward to being finished. On the bright side, I had a very productive week at home, and felt good about being where I was productive, regardless of that not being RC. I've also started working with some folks on Cracking the Coding Interview chapters, and that is intimidating but useful to do with programmers who are more advanced than me with this foundational CS stuff. Hope to cram in some more of that next week. Just four more days!
-
-
-* [ ] KOTLIN
-* [ ] ModTrav -> testing
+* Feels: Oh boy, this week. I stayed home all but two days (Thurs and Sat). A bit due to weather, a bit due to not wanting to deal with RC. I am looking forward to being finished. On the bright side, I had a busy week at home, and felt good about being where I was productive, regardless of that not being RC. I've also started working with some folks on Cracking the Coding Interview chapters, and that is intimidating but useful to do with programmers who are more advanced than me at this foundational CS stuff. Hope to cram in some more of that next week. Just four more days!
 
 Day 89:
 * [ ] Get Cracking
 * [ ] Finish up Refucktoring prep, remind and encourage people to come
+* [ ] Finish up Céu blog post, start editing process
+
+
+
+* [ ] KOTLIN
+* [ ] ModTrav -> testing
