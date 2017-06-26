@@ -609,6 +609,7 @@ Day 79:
 * [X] Python SDL
 * [X] Inaugural ladies dessert outing :cake: :ice_cream:
 * [X] Eat yummy japanese food with friends
+* [X] ate: salad for lunch, affogato (with hazelnut stracciatella, YES), katsu curry ($32)
 
 Weekend:
 * [X] Read some Exercises
