@@ -465,6 +465,8 @@ Day 62:
   * Update: lol, realized after completing that I had the opportunity to practice slicing on today's Exercism and did my usual sidestep instead.
 * [X] Watch a PyCon talk: [What's New in Python 3.6, Cannon](https://www.youtube.com/watch?v=c2rEbbGLPQc)
 * [X] Make progress on JS Refucktoring
+* [ ] Talk with Nick about my RC experience
+  * cancelled; too distraught to keep this appointment
 * [X] ate: Diner breakfast, a slice of souffle cheesecake and a matcha latte, Chinese food for dinner ($38, really eating my feelings today)
 
 Day 63:
@@ -575,7 +577,7 @@ Weekend:
 * Learned: some stuff about SDL, how little I know about algorithms, concurrency/parallelism and Céu
 * Organized: A game jam! It went okay.
 * Laughter: [This](https://www.designernews.co/stories/84443-redditors-design-worst-volume-sliders-possible) made me howl laughing this week
-* Feels: My productivity is really low right now. I feel aimless and hopeless. Relatedly, I had two friends this week at RC who I consider(ed) to be allies in feminism say stupid, sexist, offensive shit to me this week. I called them both on it in the moment, and niether responded in a way that put me at ease. Depressing. I suspect it's that the current (male dominated, competive) RC climate enables these kinds of remarks. In any case, next week I need to buck up and refocus on my goals: finishing KOLC, finishing my Breakouts, progressing on technical interviewing skills.
+* Feels: My productivity is really low right now. I feel aimless and hopeless. Relatedly, I had two friends this week at RC who I consider(ed) to be allies in feminism say stupid, sexist, offensive shit to me this week. I called them both on it in the moment, and neither responded in a way that put me at ease. Depressing. I suspect it's that the current (male dominated, competive) RC climate enables these kinds of remarks. In any case, next week I need to buck up and refocus on my goals: finishing KOLC, finishing my Breakouts, progressing on technical interviewing skills.
 
 Day 75:
 * [X] Host Game Jam Show&Tell&Demo
@@ -669,8 +671,8 @@ Weekend:
 * Feels: Oh boy, this week. I stayed home all but two days (Thurs and Sat). A bit due to weather, a bit due to not wanting to deal with RC. I am looking forward to being finished. On the bright side, I had a busy week at home, and felt good about being where I was productive, regardless of that not being RC. I've also started working with some folks on Cracking the Coding Interview chapters, and that is intimidating but useful to do with programmers who are more advanced than me at this foundational CS stuff. Hope to cram in some more of that next week. Just four more days!
 
 Day 89:
-* [X] Get Cracking
-* [X] Finish up Refucktoring prep, remind and encourage people to come
+* [ ] Get Cracking
+* [ ] Finish up Refucktoring prep, remind and encourage people to come
 * [ ] Finish up Céu blog post, start editing process
 * [ ] KOTLIN
 * [ ] ModTrav -> testing
