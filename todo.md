@@ -499,6 +499,7 @@ Day 65 (home):
 * [ ] Tinker with syntax highlighting CSS
 * [ ] Do some research on SDL for Python for Breakout game
 * [X] ate: stuff at home. Went out with RC S'13 later on and had two cocktails and one pao de queijo ($22)
+  * talked a bit to S. about State of RC; got encouraged to reschedule with Nick, but also not a super understanding interaction
 
 Weekend:
 * Catch up on a good chunk of things I let slide this week:
@@ -671,8 +672,22 @@ Weekend:
 * Feels: Oh boy, this week. I stayed home all but two days (Thurs and Sat). A bit due to weather, a bit due to not wanting to deal with RC. I am looking forward to being finished. On the bright side, I had a busy week at home, and felt good about being where I was productive, regardless of that not being RC. I've also started working with some folks on Cracking the Coding Interview chapters, and that is intimidating but useful to do with programmers who are more advanced than me at this foundational CS stuff. Hope to cram in some more of that next week. Just four more days!
 
 Day 89:
-* [ ] Get Cracking
-* [ ] Finish up Refucktoring prep, remind and encourage people to come
+* [X] Get Cracking
+* [X] Finish up Refucktoring prep, remind and encourage people to come
+* [X] ate: a lassi, a cheeseburger, fries
+
+Day 90:
+* [X] Work on Céu blog post
+* [X] Host Refucktoring
+* [X] ate: a bubbletea, a shwarma pita
+
+Day 91:
+* [ ] Interview prep pick one: (Hash tables, graphs, trees, linked lists)
 * [ ] Finish up Céu blog post, start editing process
 * [ ] KOTLIN
 * [ ] ModTrav -> testing
+
+Day 92:
+* [ ] Get Cracking with Heneli
+* [ ] Remind people about the time change of, and host, Feelings Checkin
+* [ ] Never Graduate!
