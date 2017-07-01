@@ -684,10 +684,17 @@ Day 90:
 Day 91:
 * [ ] Interview prep pick one: (Hash tables, graphs, trees, linked lists)
 * [ ] Finish up Céu blog post, start editing process
-* [ ] KOTLIN
-* [ ] ModTrav -> testing
+* [X] Social: go out with people (Sean, Or, Heneli, JN, Alberto)
+* [X] ate: a blt, a lot of alcohol ($20?? I didn't pay for that much tonight)
 
 Day 92:
 * [ ] Get Cracking with Heneli
-* [ ] Remind people about the time change of, and host, Feelings Checkin
-* [ ] Never Graduate!
+  * Update: both too hungover to make time for this
+* [X] Remind people about the time change of, and host, Feelings Checkin
+* [X] Never Graduate!
+* [X] Go picnicking, go home at a reasonable hour for my flight tomorrow
+
+**Week 12 Summary**
+* Read: a bit of "Cracking the Coding Interview"/Laakmann McDowell
+* Learned: how hard community management activities really can be
+* Feels: I mostly focused on social activities this week. I did start work with Heneli on interview prep, and I'm excited that that is going well and that we will keep working on it together remotely in July. I was grateful to Never Graduate, but it was not very satisfying (as I'd anticipated). I got a bit physically beat up this week (working to reorganize my closet gave me some interesting bruises, and falling down the subway stairs has really wrecked me), so recovering from that. Now I'm off to South Carolina for a family reunion and then onto a fresh todo list for the summer months!
